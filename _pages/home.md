@@ -1,12 +1,12 @@
 ---
-title: "MM Lab - Home"
+title: "MM Group - Home"
 layout: homelay
-excerpt: "MM Lab at Tianjin University."
+excerpt: "MM Group at Tianjin University."
 sitemap: false
 permalink: /
 ---
 
-Welcome to the Lab of Multimedia. Our lab was established in the Computer Science and Technology Department of Tianjin University. Researchers of our lab mainly investigate scientific principles and practical applications of computer vision, including visual reasoning, image captioning, movie Q&A, reinforcement learning and adversarial machine learning. The emphasis of our work is on multimedia systems that are capable of understanding, interpreting and reasoning from multi-modal data.
+Welcome to the Group of Multimedia. Our group was established in the Computer Science and Technology Department of Tianjin University. Researchers of our group mainly investigate scientific principles and practical applications of computer vision, including visual reasoning, image captioning, movie Q&A, reinforcement learning and adversarial machine learning. The emphasis of our work is on multimedia systems that are capable of understanding, interpreting and reasoning from multi-modal data.
  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >

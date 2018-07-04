@@ -1,7 +1,7 @@
 ---
-title: "MM Lab - Research"
+title: "MM Group - Research"
 layout: textlay
-excerpt: "MM Lab -- Research"
+excerpt: "MM Group -- Research"
 sitemap: false
 permalink: /research/
 ---

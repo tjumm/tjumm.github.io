@@ -1,7 +1,7 @@
 ---
-title: "MM Lab - Pictures"
+title: "MM Group - Pictures"
 layout: piclay
-excerpt: "MM Lab -- Pictures"
+excerpt: "MM Group -- Pictures"
 permalink: /pictures/
 ---
 

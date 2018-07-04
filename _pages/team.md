@@ -1,7 +1,7 @@
 ---
-title: "MM Lab - Team"
+title: "MM Group - Team"
 layout: gridlay
-excerpt: "MM Lab: Team members"
+excerpt: "MM Group: Team members"
 sitemap: false
 permalink: /team/
 ---

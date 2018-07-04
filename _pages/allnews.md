@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "MM Lab at Tianjin University."
+excerpt: "MM Group at Tianjin University."
 sitemap: false
 permalink: /allnews.html
 ---

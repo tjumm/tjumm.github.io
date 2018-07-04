@@ -1,7 +1,7 @@
 ---
-title: "MM Lab - Publications"
+title: "MM Group - Publications"
 layout: gridlay
-excerpt: "MM Lab -- Publications."
+excerpt: "MM Group -- Publications."
 sitemap: false
 permalink: /publications/
 ---
