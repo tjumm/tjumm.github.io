@@ -1,0 +1,101 @@
+- title: "Sequential Video VLAD: Training the Aggregation Locally and Temporally <a href='https://github.com/youjiangxu/seqvlad-pytorch'>(code)</a>"
+  image: dummy.png
+  description: 
+  authors: Youjiang Xu, Yahong Han, Richang Hong, Qi Tian
+  link:
+    url: https://ieeexplore.ieee.org/document/8382330/
+    display: IEEE Transactions on Image Processing (IEEE T-IP)
+  highlight: 0
+  news2: 
+
+- title: "Semi-Supervised Regression with Optimized Rank for Matrix Data Classification "
+  image: dummy.png
+  description: 
+  authors: Jianguang Zhang, Jianmin Jiang, Yahong Han
+  link:
+    url: 
+    display: IEEE Transactions on Cybernetics (IEEE T-CYB)
+  highlight: 0
+  news2: 
+
+- title: "Multi-modal Circulant Fusion for Video-to-Language and Backward <a href='https://github.com/AmingWu/Multi-modal-Circulant-Fusion'>(code)</a>"
+  image: dummy.png
+  description: ""
+  authors: Aming Wu, Yahong Han
+  link:
+    url: 
+    display: 2018 International Joint Conferences on Artificial Intelligence (IJCAI 2018)
+  highlight: 0
+  news2:
+
+- title: "Schmidt: Image Augmentation for Black-Box Adversarial Attack"
+  image: dummy.png
+  description: ""
+  authors: Yucheng Shi, Yahong Han
+  link:
+    url:
+    display:  IEEE ICME 2018 (Oral Paper)
+  highlight: 0
+
+- title: "Universal Perturbation Generation for Black-box Attack Using Evolutionary Algorithms"
+  image: dummy.png
+  description: ""
+  authors: Siyu Wang, Yucheng Shi, Yahong Han
+  link:
+    url:
+    display: ICPR 2018
+  highlight: 0
+
+- title: "Movie Question Answering: Remembering the Textual Cues for Layered Visual Contents<a href='https://github.com/bowong/Layered-Memory-Network'>(code)</a><br><a href='http://movieqa.cs.toronto.edu/workshops/iccv2017/'>Winner of the MovieQA and The Large Scale Movie Description Challenge (LSMDC) @ ICCV 2017</a>"
+  image: dummy.png
+  description: ""
+  authors: Bo Wang, Youjiang Xu, Yahong Han, Richang Hong
+  link:
+    url:
+    display: AAAI 2018
+  highlight: 0
+
+- title: "Catching the Temporal Regions-of-Interest for Video Captioning <a href='https://ziweiyang.github.io/'>(Project Page)</a>"
+  image: dummy.png
+  description: ""
+  authors: Ziwei Yang, Yahong Han, Zheng Wang
+  link:
+    url:
+    display: ACM Multimedia 2017 (<b>Oral Paper and Best Paper Presentation</b>)
+  highlight: 0
+
+- title: "Multirate Multimodal Video Captioning<br><a href='http://ms-multimedia-challenge.com/2017/challenge#video'>The Runner-up of the 2nd MSR Video to Language Challenge</a>"
+  image: dummy.png
+  description: ""
+  authors: Ziwei Yang, Youjiang Xu, Huiyun Wang, Bo Wang, Yahong Han
+  link:
+    url:
+    display: ACM Multimedia 2017 (<b>ACM MM 2017 Grand Challenge <b>Honorable Mention Award</b>)
+  highlight: 0
+
+- title: "Top Attention in Line with Time: A Light-weight Strategy <a href='https://github.com/youjiangxu/top_attention'>(code)</a>"
+  image: dummy.png
+  description: ""
+  authors: Youjiang Xu, Shichao Zhao, Yahong Han, Qinghua Hu, Fei Wu
+  link:
+    url:
+    display: IEEE ICME 2017 (<b>Among Top 3% of the main program paper submissions</b>) 
+  highlight: 0
+
+- title: "Pooling the Convolutional Layers in Deep ConvNets for Video Action Recognition"
+  image: dummy.png
+  description: ""
+  authors: Shichao Zhao, Yanbin Liu, Yahong Han, Richang Hong, Qinghua Hu, Qi Tian
+  link:
+    url:
+    display: IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT)
+  highlight: 0
+
+- title: "Semi-Supervised Image-to-Video Adaptation for Video Action Recognition"
+  image: dummy.png
+  description: ""
+  authors: Jianguang Zhang, Yahong Han, Jinhui Tang, Qinghua Hu, Jianmin Jiang
+  link:
+    url:
+    display: "IEEE Transactions on Cybernetics (IEEE T-CYB), 2017, 47(4): 960-973"
+  highlight: 0

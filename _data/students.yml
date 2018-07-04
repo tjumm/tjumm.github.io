@@ -1,0 +1,85 @@
+#- name: 
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ: 
+#  education1:  
+#  education2:  
+#  education3: 
+#  education4:  
+- name: Bo Wang
+  photo: wb.jpg
+  info: Master student, 2016
+  email: bwong@tju.edu.cn
+  number_educ: 0
+  education1:
+
+- name: Huiyun Wang
+  photo: why.jpg
+  info: Master student, 2016
+  email: wanghuiyun@tju.edu.cn
+  number_educ: 0
+  education1:
+
+- name: Xiaomeng Song
+  photo: sxm.jpg
+  info: Master student, 2017
+  email: songxiaomeng@tju.edu.cn
+  number_educ: 0
+  education1:
+
+- name: Yucheng Shi
+  photo: syc.jpg
+  info: Master student, 2017
+  email: yucheng@tju.edu.cn
+  number_educ: 0
+  education1:
+
+- name: Siyu Wang
+  photo: wsy.jpg
+  info: Master student, 2017
+  email: syuwang@tju.edu.cn
+  number_educ: 0
+  education1:
+
+- name: Qiang Wang
+  photo: wq.jpg
+  info: Master student, 2017
+  email: qiangw@tju.edu.cn
+  number_educ: 0
+  education1:
+
+- name: Xin Chen
+  photo: cx.jpg
+  info: Master student, 2017
+  email: chenxin13@tju.edu.cn
+  number_educ: 0
+  education1:
+
+- name: Xuanwei Chen
+  photo: cxw.jpg
+  info: Master student, 2018
+  email:
+  number_educ: 0
+  education1:
+
+- name: Run Li
+  photo: lr.jpg
+  info: Master student, 2018
+  email: 836873339@qq.com
+  number_educ: 0
+  education1:
+
+- name: Haitao Zhang
+  photo: zht.jpg
+  info: Master student, 2018
+  email: 15202279730@163.com
+  number_educ: 0
+  education1:
+
+- name: Pin Jiang
+  photo: niming.png
+  info: Master student, 2018
+  email:
+  number_educ: 0
+  education1:
