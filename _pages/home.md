@@ -9,22 +9,25 @@ permalink: /
 Welcome to the Group of Multimedia. Our group was established in the Computer Science and Technology Department of Tianjin University. Researchers of our group mainly investigate scientific principles and practical applications of computer vision, including visual reasoning, image captioning, movie Q&A, reinforcement learning and adversarial machine learning. The emphasis of our work is on multimedia systems that are capable of understanding, interpreting and reasoning from multi-modal data.
  
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
-
+        <li data-target="#carousel" data-slide-to="2"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/1.jpg" alt="Slide 1" />
+            <a href = "https://github.com/youjiangxu/seqvlad-pytorch"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/vlad.jpg" alt="Slide 1" /></a>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2.jpg" alt="Slide 2" />
+            <a href = "https://github.com/bowong/Layered-Memory-Network"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/memory.jpg" alt="Slide 2" /></a>
+        </div>
+        <div class="item">
+            <a href = "https://ziweiyang.github.io/"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/caption.jpg" alt="Slide 3" /></a>
         </div>
     </div> 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

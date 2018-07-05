@@ -90,6 +90,37 @@ firstp {
     margin-left: 30px;
     margin-right: 30px;
 }
+ 
+ // for the white boader image
+
+.carousel-control span.glyphicon {
+    color: red;
+}
+
+// .carousel-control.left {
+//   margin-left: -60px;
+// }
+
+// .carousel-control.right {
+//   margin-right: -60px;
+// }
+
+
+.carousel-indicators {
+    bottom: -20px;
+}
+
+.carousel-inner {
+   margin-bottom: 20px;
+}
+
+.carousel-indicators li {
+    background: #ccc;
+}
+
+.carousel-indicators .active {
+    background: #666;
+}
 
 /* navigation right */
 .header__link {
@@ -129,3 +160,4 @@ firstp {
 	color: #999;
 	transition: all .5s ease-in
 }
+
