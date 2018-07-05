@@ -91,3 +91,41 @@ firstp {
     margin-right: 30px;
 }
 
+/* navigation right */
+.header__link {
+	font-size: 16px;
+	padding: .8rem;
+	color: #444;
+	text-decoration: none;
+	border-bottom: 2px solid transparent;
+	padding-bottom: 1px
+}
+
+.header__link:hover {
+	transition: all .5s ease-in;
+	border-color: hsla(34,5%,70%,.7)
+}
+
+.header__link--logo {
+	padding: .8rem;
+	display: block
+}
+
+.header__link--logo:focus,.header__link--logo:hover {
+	color: #444;
+	transition: all .5s ease-in
+}
+
+.header__nav {
+	margin:12px auto;
+	flex-wrap: wrap
+}
+
+.header__nav a {
+	color: #444
+}
+
+.header__nav a:hover {
+	color: #999;
+	transition: all .5s ease-in
+}
