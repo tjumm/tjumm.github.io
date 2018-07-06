@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Welcome to the Group of Multimedia. Our group was established in the Computer Science and Technology Department of Tianjin University. Researchers of our group mainly investigate scientific principles and practical applications of computer vision, including visual reasoning, image captioning, movie Q&A, reinforcement learning and adversarial machine learning. The emphasis of our work is on multimedia systems that are capable of understanding, interpreting and reasoning from multi-modal data.
+Welcome to the Group of Multimedia (MM) @ School of Computer Science and Technology, Tianjin University, China. Our research interests mainly include multimedia analysis and computing, computer vision, machine learning, and artificial intelligence. Recently, we are focusing on the visual understanding via deep learning, e.g., video/image recognition & detection, video/image captioning, and video/image question answering (QA). We also explore the deep learning methods’ vulnerability and its robustness to adversarial attacks. Our goal is to further understand the vulnerability and interpretability of deep learning methods, which will provide theorectic evidences and methodology strategies for constructing a safer and more reliable system of image semantic understanding.
  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
@@ -41,7 +41,7 @@ Welcome to the Group of Multimedia. Our group was established in the Computer Sc
 </div>
 
 
-We have published articles at many top conferences and journals in the field of computer vision, such as ACM MM, AAAI, IJCAI, T-IP etc. We have also achieved good results in many competitions, the 1st in the Large Scale Movie Description Challenge (LSMDC 2017), 2nd in Video to Language Challenge (2017) hosted by Microsoft Research Asia and 3rd in the first Large Scale Image Retrieval Competition organized by Alibaba (2015) etc.
+We have published papers on leading journals and conferences of multimedia, computer vision, machine learning, and artificial intelligence, such as IEEE TIP, IEEE TNNLS, IEEE TMM, IEEE TCSVT, IEEE TCYB, ACM MM, CVPR, AAAI, IJCAI, etc. We also got winner records in main technical challenges such as the Champion of the Large Scale Movie Description Challenge (LSMDC 2017, joint with ICCV 2017) and the Runner-up of the 2nd MSR Large-Scale Video to Language Challenge (Honorable Mention Award of Grand Challenge @ ACM MM 2017).
 
  **We are  looking for passionate new PhD students and Master students to join the team !** <br>
 If you are interested, contect <i>professor [Yahong Han](http://cs.tju.edu.cn/faculty/hanyahong/index.html)</i>
