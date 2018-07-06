@@ -15,6 +15,10 @@ Welcome to the Group of Multimedia (MM) @ School of Computer Science and Technol
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->
@@ -28,6 +32,18 @@ Welcome to the Group of Multimedia (MM) @ School of Computer Science and Technol
         </div>
         <div class="item">
             <a href = "https://ziweiyang.github.io/"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/caption.jpg" alt="Slide 3" /></a>
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/sycatt.jpg" alt="Slide 4" />
+        </div>
+        <div class="item">
+            <a href = "https://svqa-founder.github.io/SVQA/"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/vqa.jpg" alt="Slide 5" /></a>
+        </div>
+        <div class="item">
+            <a href = "https://github.com/HuiyunWang/sam-tensorflow"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/wcap.jpg" alt="Slide 6" /></a>
+        </div>
+        <div class="item">
+            <a href = "https://github.com/youjiangxu/top_attention"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/topatt.jpg" alt="Slide 7" /></a>
         </div>
     </div> 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
