@@ -6,9 +6,18 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+# Overview
 
-Our mainly foucus is on cross-media analysis for video such as video captioning, visual question answering and the new research topic about adversarial machine learning.
+Our research interests mainly include multimedia analysis and computing, computer vision, machine learning, and artificial intelligence. Recently, we are focusing on the visual understanding via deep learning, e.g., video/image recognition, detection and segmentation, video/image captioning, and video/image question answering (QA). We also explore the deep learning methods’ vulnerability and its robustness to adversarial attacks. Our goal is to further understand the vulnerability and interpretability of deep learning methods, which will provide theoretic evidences and methodology strategies for constructing a safer and more reliable system of image semantic understanding.
+
+# Funding
+
+- The Underlying Theory Research and Visual Analysis Technology for Intelligent City Surveillance, NSFC Key Program, Co-PI
+- Key Program Funding from Science and Technology Commission of CMC, PI
+- Theories and Methods of Adversarial Machine Learning for Image Semantic Understanding, NSFC General Program, PI
+- Ad Hoc Web Image Semantic Understanding with Limited Supervision, NSFC General Program, PI
+
+# Highlights
 
 <b> 1. Video Captioning </b>
 
