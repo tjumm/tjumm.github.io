@@ -19,6 +19,7 @@ Welcome to the Group of Multimedia (MM) @ School of Computer Science and Technol
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
     </ol>
 
     <!-- Items -->
@@ -45,6 +46,10 @@ Welcome to the Group of Multimedia (MM) @ School of Computer Science and Technol
         <div class="item">
             <a href = "https://github.com/youjiangxu/top_attention"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/topatt.jpg" alt="Slide 7" /></a>
         </div>
+        <div class="item">
+            <a href = "/picnews/p2.html"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/nips2018bisai.PNG" alt="Slide 8" /></a>
+        </div>
+
     </div> 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
