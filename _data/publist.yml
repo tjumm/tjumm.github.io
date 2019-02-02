@@ -7,7 +7,7 @@
     display: IEEE TCSVT 2019, Accepted
   highlight: 0
 
-- title: "1. Adaptive Sparse Confidence-Weighted Learning for Online Feature Selection"
+- title: "2. Adaptive Sparse Confidence-Weighted Learning for Online Feature Selection"
   image: dummy.png
   description: 
   authors: Yanbin Liu, Yan Yan, Ling Chen, Yahong Han, Yi Yang
@@ -16,7 +16,7 @@
     display: AAAI 2019
   highlight: 0
 
-- title: "2. Spotting and Aggregating Salient Regions for Video Captioning <a href='https://github.com/HuiyunWang/sam-tensorflow'>(Project Page)</a>"
+- title: "3. Spotting and Aggregating Salient Regions for Video Captioning <a href='https://github.com/HuiyunWang/sam-tensorflow'>(Project Page)</a>"
   image: dummy.png
   description: 
   authors: Huiyun Wang, Youjiang Xu, Yahong Han
@@ -25,7 +25,7 @@
     display: ACM Multimedia 2018
   highlight: 0
 
-- title: "3. Explore Multi-Step Reasoning in Video Question Answering <a href='https://svqa-founder.github.io/SVQA/'>(Project Page)</a>"
+- title: "4. Explore Multi-Step Reasoning in Video Question Answering <a href='https://svqa-founder.github.io/SVQA/'>(Project Page)</a>"
   image: dummy.png
   description: 
   authors: Xiaomeng Song, Yucheng Shi, Xin Chen, Yahong Han
@@ -34,7 +34,7 @@
     display: ACM Multimedia 2018
   highlight: 0
 
-- title: "4. Sequential Video VLAD: Training the Aggregation Locally and Temporally <a href='https://github.com/youjiangxu/seqvlad-pytorch'>(code)</a>"
+- title: "5. Sequential Video VLAD: Training the Aggregation Locally and Temporally <a href='https://github.com/youjiangxu/seqvlad-pytorch'>(code)</a>"
   image: dummy.png
   description: 
   authors: Youjiang Xu, Yahong Han, Richang Hong, Qi Tian
@@ -44,7 +44,7 @@
   highlight: 0
   news2: 
 
-- title: "5. Semi-Supervised Regression with Optimized Rank for Matrix Data Classification "
+- title: "6. Semi-Supervised Regression with Optimized Rank for Matrix Data Classification "
   image: dummy.png
   description: 
   authors: Jianguang Zhang, Jianmin Jiang, Yahong Han
@@ -54,7 +54,7 @@
   highlight: 0
   news2: 
 
-- title: "6. Multi-modal Circulant Fusion for Video-to-Language and Backward <a href='https://github.com/AmingWu/Multi-modal-Circulant-Fusion'>(code)</a>"
+- title: "7. Multi-modal Circulant Fusion for Video-to-Language and Backward <a href='https://github.com/AmingWu/Multi-modal-Circulant-Fusion'>(code)</a>"
   image: dummy.png
   description: ""
   authors: Aming Wu, Yahong Han
@@ -64,7 +64,7 @@
   highlight: 0
   news2:
 
-- title: "7. Schmidt: Image Augmentation for Black-Box Adversarial Attack"
+- title: "8. Schmidt: Image Augmentation for Black-Box Adversarial Attack"
   image: dummy.png
   description: ""
   authors: Yucheng Shi, Yahong Han
@@ -73,7 +73,7 @@
     display:  IEEE ICME 2018 (<b>Oral Paper</b>)
   highlight: 0
 
-- title: "8. Universal Perturbation Generation for Black-box Attack Using Evolutionary Algorithms"
+- title: "9. Universal Perturbation Generation for Black-box Attack Using Evolutionary Algorithms"
   image: dummy.png
   description: ""
   authors: Siyu Wang, Yucheng Shi, Yahong Han
@@ -82,7 +82,7 @@
     display: ICPR 2018
   highlight: 0
 
-- title: "9. Movie Question Answering: Remembering the Textual Cues for Layered Visual Contents<a href='https://github.com/bowong/Layered-Memory-Network'>(code)</a><br><a href='http://movieqa.cs.toronto.edu/workshops/iccv2017/'>Winner of the MovieQA and The Large Scale Movie Description Challenge (LSMDC) @ ICCV 2017</a>"
+- title: "10. Movie Question Answering: Remembering the Textual Cues for Layered Visual Contents<a href='https://github.com/bowong/Layered-Memory-Network'>(code)</a><br><a href='http://movieqa.cs.toronto.edu/workshops/iccv2017/'>Winner of the MovieQA and The Large Scale Movie Description Challenge (LSMDC) @ ICCV 2017</a>"
   image: dummy.png
   description: ""
   authors: Bo Wang, Youjiang Xu, Yahong Han, Richang Hong
@@ -91,7 +91,7 @@
     display: AAAI 2018
   highlight: 0
 
-- title: "10. Catching the Temporal Regions-of-Interest for Video Captioning <a href='https://ziweiyang.github.io/'>(Project Page)</a>"
+- title: "11. Catching the Temporal Regions-of-Interest for Video Captioning <a href='https://ziweiyang.github.io/'>(Project Page)</a>"
   image: dummy.png
   description: ""
   authors: Ziwei Yang, Yahong Han, Zheng Wang
@@ -100,7 +100,7 @@
     display: ACM Multimedia 2017 (<b>Oral Paper and Best Paper Presentation</b>)
   highlight: 0
 
-- title: "11. Multirate Multimodal Video Captioning<br><a href='http://ms-multimedia-challenge.com/2017/challenge#video'>The Runner-up of the 2nd MSR Video to Language Challenge</a>"
+- title: "12. Multirate Multimodal Video Captioning<br><a href='http://ms-multimedia-challenge.com/2017/challenge#video'>The Runner-up of the 2nd MSR Video to Language Challenge</a>"
   image: dummy.png
   description: ""
   authors: Ziwei Yang, Youjiang Xu, Huiyun Wang, Bo Wang, Yahong Han
@@ -109,7 +109,7 @@
     display: ACM Multimedia 2017 (<b>ACM MM 2017 Grand Challenge Honorable Mention Award</b>)
   highlight: 0
 
-- title: "12. Distribution Sensitive Product Quantization "
+- title: "13. Distribution Sensitive Product Quantization "
   image: dummy.png
   description: ""
   authors: Linhao Li, Qinghua Hu, Yahong Han, Xin Li
@@ -118,7 +118,7 @@
     display: IEEE Transactions on Circuits and Systems for Video Technology (<b>IEEE T-CSVT</b>)
   highlight: 0
 
-- title: "13. Top Attention in Line with Time: A Light-weight Strategy <a href='https://github.com/youjiangxu/top_attention'>(code)</a>"
+- title: "14. Top Attention in Line with Time: A Light-weight Strategy <a href='https://github.com/youjiangxu/top_attention'>(code)</a>"
   image: dummy.png
   description: ""
   authors: Youjiang Xu, Shichao Zhao, Yahong Han, Qinghua Hu, Fei Wu
@@ -127,7 +127,7 @@
     display: IEEE ICME 2017 (<b>Among Top 3% of the main program paper submissions</b>) 
   highlight: 0
 
-- title: "14. Pooling the Convolutional Layers in Deep ConvNets for Video Action Recognition"
+- title: "15. Pooling the Convolutional Layers in Deep ConvNets for Video Action Recognition"
   image: dummy.png
   description: ""
   authors: Shichao Zhao, Yanbin Liu, Yahong Han, Richang Hong, Qinghua Hu, Qi Tian
@@ -136,7 +136,7 @@
     display: IEEE Transactions on Circuits and Systems for Video Technology (<b>IEEE T-CSVT</b>)
   highlight: 0
 
-- title: "15. Semi-supervised Online Multi-kernel Similarity Learning for Image Retrieval"
+- title: "16. Semi-supervised Online Multi-kernel Similarity Learning for Image Retrieval"
   image: dummy.png
   description: ""
   authors: Jianqing Liang, Qinghua Hu, Wenwu Wang, Yahong Han
@@ -145,7 +145,7 @@
     display: IEEE Transactions on Multimedia (<b>IEEE T-MM</b>)
   highlight: 0
 
-- title: "16. Semi-Supervised Image-to-Video Adaptation for Video Action Recognition"
+- title: "17. Semi-Supervised Image-to-Video Adaptation for Video Action Recognition"
   image: dummy.png
   description: ""
   authors: Jianguang Zhang, Yahong Han, Jinhui Tang, Qinghua Hu, Jianmin Jiang
@@ -154,7 +154,7 @@
     display: "IEEE Transactions on Cybernetics (<b>IEEE T-CYB</b>), 2017, 47(4): 960-973"
   highlight: 0
 
-- title: "17. Compact and Discriminative Descriptor Inference using Multi-Cues"
+- title: "18. Compact and Discriminative Descriptor Inference using Multi-Cues"
   image: dummy.png
   description: ""
   authors: Yahong Han, Yi Yang, Fei Wu, Richang Hong
@@ -163,7 +163,7 @@
     display: "IEEE Transactions on Image Processing (<b>IEEE T-IP</b>),VOL. 24, NO. 12, pp.5114-5126, 2015"
   highlight: 0
 
-- title: "18. Semi-Supervised Feature Selection via Spline Regression for Video Semantic Recognition <a href='http://cs.tju.edu.cn/faculty/hanyahong/code/L21normFS.rar'>(code)</a>"
+- title: "19. Semi-Supervised Feature Selection via Spline Regression for Video Semantic Recognition <a href='http://cs.tju.edu.cn/faculty/hanyahong/code/L21normFS.rar'>(code)</a>"
   image: dummy.png
   description: ""
   authors: Yahong Han, Yi Yang, Yan Yan, Zhigang Ma, Nicu Sebe, Xiaofang Zhou
@@ -172,7 +172,7 @@
     display: "IEEE Transactions on Neural Networks and Learning Systems (<b>IEEE T-NNLS</b>), VOL. 26, NO. 2, pp.252-264, 2015"
   highlight: 0
 
-- title: "19. Summarization-based Video Caption via Deep Neural Networks"
+- title: "20. Summarization-based Video Caption via Deep Neural Networks"
   image: dummy.png
   description: ""
   authors: Guang Li, Shubo Ma, Yahong Han
@@ -181,7 +181,7 @@
     display: "ACM Multimedia 2015 (<b>ACM MM 2015</b>)"
   highlight: 0
 
-- title: "20. Tensor Rank Selection for Multimedia Analysis"
+- title: "21. Tensor Rank Selection for Multimedia Analysis"
   image: dummy.png
   description: ""
   authors: Jianguang Zhang, Yahong Han*, Jianmin Jiang
@@ -190,7 +190,7 @@
     display: "Journal of Visual Communication and Image Representation, 30: 376-392 (2015)"
   highlight: 0
 
-- title: "21. Inferring Painting Style with Multi-task Dictionary Learning"
+- title: "22. Inferring Painting Style with Multi-task Dictionary Learning"
   image: dummy.png
   description: ""
   authors: Gaowen Liu, Yan Yan, Elisa Ricci, Yi Yang, Yahong Han, Nicu Sebe
@@ -199,7 +199,7 @@
     display: "International Joint Conferences on Artificial Intelligence 2015 (<b>IJCAI 2015</b>)"
   highlight: 0
 
-- title: "22. Discriminative multi-view feature selection and fusion"
+- title: "23. Discriminative multi-view feature selection and fusion"
   image: dummy.png
   description: ""
   authors: Yanbin Liu, Binbing Liao, Yahong Han
@@ -208,7 +208,7 @@
     display: "IEEE ICME 2015 (<b>Oral Paper and Among Top 15% of All Accpeted Papers</b>)"
   highlight: 0
 
-- title: "23. Describing Images with Hierarchical Concepts and Object Class Localization"
+- title: "24. Describing Images with Hierarchical Concepts and Object Class Localization"
   image: dummy.png
   description: ""
   authors: Yahong Han, Guang Li
@@ -217,7 +217,7 @@
     display: "ACM ICMR 2015 (<b>Full Paper</b>)"
   highlight: 0
 
-- title: "24. Output Feature Augmented Lasso"
+- title: "25. Output Feature Augmented Lasso"
   image: dummy.png
   description: ""
   authors: Changqing Zhang, Yahong Han, Xiaojie Guo, Xiaochun Cao
@@ -226,7 +226,7 @@
     display: "IEEE International Conference on Data Mining 2014 (<b>ICDM 2014</b>), Accepted as Regular (Oral) Paper, <b>Acceptance Rate 9.7%</b>"
   highlight: 0
 
-- title: "25. Augmenting Image Descriptions Using Structured Prediction Output"
+- title: "26. Augmenting Image Descriptions Using Structured Prediction Output"
   image: dummy.png
   description: ""
   authors: Yahong Han, Xingxing Wei, Xiaochun Cao, Yi Yang, Xiaofang Zhou
@@ -235,7 +235,7 @@
     display: "IEEE Transactions on Multimedia (<b>IEEE T-MM</b>), VOL.16, NO.6, pp.1665-1676, 2014"
   highlight: 0
 
-- title: "26. What Can We Learn about Motion Videos from Still Images?"
+- title: "27. What Can We Learn about Motion Videos from Still Images?"
   image: dummy.png
   description: ""
   authors: Jianguang Zhang, Yahong Han, Jinhui Tang, Qinghua Hu, Jianmin Jiang
@@ -244,7 +244,7 @@
     display: "ACM Multimedia 2014 (<b>ACM MM 2014</b>)"
   highlight: 0
 
-- title: "27. Attribute Prediction with Long-Range Interactions via Path Coding"
+- title: "28. Attribute Prediction with Long-Range Interactions via Path Coding"
   image: dummy.png
   description: ""
   authors: Zhuhao Wang, Fei Wu, Yahong Han, Jiebo Luo, Qi Tian, Yueting Zhuang
@@ -253,7 +253,7 @@
     display: "ICIP 2014"
   highlight: 0
 
-- title: "28. Video Segmentation via Adaptive Higher-Order CRF with Windowed Dynamics"
+- title: "29. Video Segmentation via Adaptive Higher-Order CRF with Windowed Dynamics"
   image: dummy.png
   description: ""
   authors: Xiaonan Song, Yahong Han, Jianmin Jiang, A. Hilton
@@ -262,7 +262,7 @@
     display: "2014 ACM International Conference on Internet Multimedia Computing and Service (ICIMCS 2014, Best Student Paper Award)"
   highlight: 0
 
-- title: "29. Feature Selection with Spatial Path Coding for Multimedia Analysis"
+- title: "30. Feature Selection with Spatial Path Coding for Multimedia Analysis"
   image: dummy.png
   description: ""
   authors: Yahong Han, Jingjing Chen, Xiaochun Cao, Congfu Xu, Haoquan Shen
@@ -271,7 +271,7 @@
     display: "Information Sciences, 281 (2014) 523–535"
   highlight: 0
 
-- title: "30. Image Attribute Adaptation <a href='http://cs.tju.edu.cn/faculty/hanyahong/code/TMM_IAA_code.rar'>(code)</a>"
+- title: "31. Image Attribute Adaptation <a href='http://cs.tju.edu.cn/faculty/hanyahong/code/TMM_IAA_code.rar'>(code)</a>"
   image: dummy.png
   description: ""
   authors: Yahong Han, Yi Yang, Zhigang Ma, Haoquan Shen, Nicu Sebe, Xiaofang Zhou
@@ -280,7 +280,7 @@
     display: "IEEE Transactions on Multimedia (<b>IEEE T-MM</b>), VOL.16, NO.4, pp.1115-1126, 2014"
   highlight: 0
 
-- title: "31. Discovering Discriminative Graphlets for Aerial Image Category Recognition"
+- title: "32. Discovering Discriminative Graphlets for Aerial Image Category Recognition"
   image: dummy.png
   description: ""
   authors: Luming Zhang, Yahong Han, Yi Yang, Mingli Song, Shuicheng Yan, Qi Tian
@@ -289,7 +289,7 @@
     display: "IEEE Transactions on Image Processing (<b>IEEE T-IP</b>), VOL.22, NO.12, pp.5071-5084, 2013"
   highlight: 0
 
-- title: "32. Object Coding on the Semantic Graph for Scene Classification"
+- title: "33. Object Coding on the Semantic Graph for Scene Classification"
   image: dummy.png
   description: ""
   authors: Jingjing Chen, Yahong Han, Xiaochun Cao, Qi Tian
@@ -298,7 +298,7 @@
     display: "ACM Multimedia 2013 (<b>ACM MM 2013</b>)"
   highlight: 0
 
-- title: "33. Visual Saliency Detection based on Photographic Composition"
+- title: "34. Visual Saliency Detection based on Photographic Composition"
   image: dummy.png
   description: ""
   authors: Jingjing Chen, Yahong Han, Handong Zhao, Xiaochun Cao
@@ -307,7 +307,7 @@
     display: "2013 ACM International Conference on Internet Multimedia Computing and Service (ICIMCS 2013, Best Paper Honorable Mention)"
   highlight: 0
 
-- title: "34. Discriminative Multi-Task Feature Selection"
+- title: "35. Discriminative Multi-Task Feature Selection"
   image: dummy.png
   description: ""
   authors: Yahong Han, Jianguang Zhang, Zhongwen Xu, Shoou-I Yu
@@ -316,7 +316,7 @@
     display: "Twenty-Fourth AAAI Conference on Artificial Intelligence, LBP Track, (<b>AAAI 2013</b>)"
   highlight: 0
 
-- title: "35. Co-Regularized Ensemble for Feature Selection"
+- title: "36. Co-Regularized Ensemble for Feature Selection"
   image: dummy.png
   description: ""
   authors: Yahong Han, Yi Yang, Xiaofang Zhou
@@ -325,7 +325,7 @@
     display: "International Joint Conferences on Artificial Intelligence 2013 (<b>IJCAI 2013</b>)"
   highlight: 0
 
-- title: "36. Robust Tensor Clustering with Non-Greedy Maximization"
+- title: "37. Robust Tensor Clustering with Non-Greedy Maximization"
   image: dummy.png
   description: ""
   authors: Xiaochun Cao, Xingxing Wei, Yahong Han, Yi Yang, Donghai Lin
@@ -334,7 +334,7 @@
     display: "International Joint Conferences on Artificial Intelligence 2013 (<b>IJCAI 2013</b>)"
   highlight: 0
 
-- title: "37. Unified Dictionary Learning and Region Tagging with Hierarchical Sparse Representation"
+- title: "38. Unified Dictionary Learning and Region Tagging with Hierarchical Sparse Representation"
   image: dummy.png
   description: ""
   authors: Xiaochun Cao, Xingxing Wei, Yahong Han*, Yi Yang, NicuSebe, Alexander Hauptmann
@@ -343,7 +343,7 @@
     display: "Computer Vision and Image Understanding (CVIU), 117 (2013) 934–946"
   highlight: 0
 
-- title: "38. Image Classification with Manifold Learning for Out-of-Sample Data"
+- title: "39. Image Classification with Manifold Learning for Out-of-Sample Data"
   image: dummy.png
   description: ""
   authors: Yahong Han, Zhongwen Xu, Zhigang Ma, Zi Huang
@@ -352,7 +352,7 @@
     display: "Signal Processing, 93 (8): 2169–2177, 2013"
   highlight: 0
 
-- title: "39. Correlated Attribute Transfer with Multi-task Graph-Guided Fusion"
+- title: "40. Correlated Attribute Transfer with Multi-task Graph-Guided Fusion"
   image: dummy.png
   description: ""
   authors: Yahong Han, Fei Wu, Xinyan Lu, Qi Tian, Yueting Zhuang, Jiebo Luo
@@ -361,7 +361,7 @@
     display: "ACM Multimedia 2012 (<b>ACM MM 2012</b>). (Full Paper) "
   highlight: 0
 
-- title: "40. Graph-Guided Sparse Reconstruction for Region Tagging"
+- title: "41. Graph-Guided Sparse Reconstruction for Region Tagging"
   image: dummy.png
   description: ""
   authors: Yahong Han, Fei Wu, Qi Tian, Yueting Zhuang
@@ -370,7 +370,7 @@
     display: "2012 IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR 2012</b>)"
   highlight: 0
 
-- title: "41. Sparse Unsupervised Dimensionality Reduction for Multiple View Data"
+- title: "42. Sparse Unsupervised Dimensionality Reduction for Multiple View Data"
   image: dummy.png
   description: ""
   authors: Yahong Han, Fei Wu, Dacheng Tao, Jian Shao, Yueting Zhuang, Jianmin Jiang
@@ -379,7 +379,7 @@
     display: "IEEE Transactions on Circuits and Systems for Video Technology (<b>IEEE T-CSVT</b>), VOL.22, NO.10, pp.1485-1496, 2012. "
   highlight: 0
 
-- title: "42. Image Annotation by Input-Output Structural Grouping Sparsity"
+- title: "43. Image Annotation by Input-Output Structural Grouping Sparsity"
   image: dummy.png
   description: ""
   authors: Yahong Han, Fei Wu, Qi Tian, Yueting Zhuang
@@ -388,7 +388,7 @@
     display: "IEEE Transactions on Image Processing (<b>IEEE T-IP</b>), VOL.21, NO.6, pp.3066-3079, 2012"
   highlight: 0
 
-- title: "43. The Heterogeneous Feature Selection with Structural Sparsity for Multimedia Annotation and Hashing: A Survey"
+- title: "44. The Heterogeneous Feature Selection with Structural Sparsity for Multimedia Annotation and Hashing: A Survey"
   image: dummy.png
   description: ""
   authors: Fei Wu, Yahong Han, Xiang Liu, Jian Shao, Zhongfei Zhang, Yueting Zhuang
@@ -397,7 +397,7 @@
     display: "International Journal of Multimedia Information Retrieval. Invited Paper, (2012)1: 3–15"
   highlight: 0
 
-- title: "44. The Extensions of Spectral Hashing and Their Stability"
+- title: "45. The Extensions of Spectral Hashing and Their Stability"
   image: dummy.png
   description: ""
   authors: Chuanfei Ouyang, Yahong Han, Yueting Zhuang, Fei Wu, Jun Xiao
@@ -406,7 +406,7 @@
     display: "2011 Asian Conference on Design and Digital Engineering (ACDDE 2011)"
   highlight: 0
 
-- title: "45. Stable Multi-label Boosting for Image Annotation with Structural Feature Selection"
+- title: "46. Stable Multi-label Boosting for Image Annotation with Structural Feature Selection"
   image: dummy.png
   description: ""
   authors: Yueting Zhuang, Yahong Han*, Fei Wu, Jiacheng Yang
@@ -415,7 +415,7 @@
     display: "SCIENCE CHINA: Information Sciences VOL.54, NO.12, pp.2508-2521,2011"
   highlight: 0
 
-- title: "46. Multi-label Transfer learning with Sparse Representation"
+- title: "47. Multi-label Transfer learning with Sparse Representation"
   image: dummy.png
   description: ""
   authors: Yahong Han, Fei Wu, Yueting Zhuang, Xiaofei He
@@ -424,22 +424,13 @@
     display: "IEEE Transactions on Circuits and Systems for Video Technology (<b>IEEE T-CSVT</b>), VOL.20, NO.8, pp.1110-1121, 2010"
   highlight: 0
 
-- title: "47. Multi-task Sparse Discriminant Analysis (MtSDA) with Overlapping Categories"
+- title: "48. Multi-task Sparse Discriminant Analysis (MtSDA) with Overlapping Categories"
   image: dummy.png
   description: ""
   authors: Yahong Han, Fei Wu, Jinzhu Jia, Yueting Zhuang, Bin Yu
   link:
     url:
     display: "In Proceedings of the Twenty-Fourth AAAI Conference on Artificial Intelligence (<b>AAAI 2010</b>)<br>Oral Paper of Main Technical Track, pp.469-474, 2010.(<a href='http://cs.tju.edu.cn/faculty/hanyahong/papers/ACM-MM-10.pdf'>pdf</a>) "
-  highlight: 0
-
-- title: "48. Multiple Hypergraph Ranking for Video Concept Detection"
-  image: dummy.png
-  description: ""
-  authors: Yahong Han, Jian Shao, Fei Wu, Baogang Wei
-  link:
-    url:
-    display: "Journal of Zhejiang University-SCIENCE C (Computers & Electronics), 2010 VOL.11, NO.7, pp.525-537, 2010"
   highlight: 0
 
 - title: "49. Multiple Hypergraph Ranking for Video Concept Detection"
@@ -451,7 +442,16 @@
     display: "Journal of Zhejiang University-SCIENCE C (Computers & Electronics), 2010 VOL.11, NO.7, pp.525-537, 2010"
   highlight: 0
 
-- title: "50. Multiple Hypergraph Clustering of Web Images by Mining Word2Image Correlations"
+- title: "50. Multiple Hypergraph Ranking for Video Concept Detection"
+  image: dummy.png
+  description: ""
+  authors: Yahong Han, Jian Shao, Fei Wu, Baogang Wei
+  link:
+    url:
+    display: "Journal of Zhejiang University-SCIENCE C (Computers & Electronics), 2010 VOL.11, NO.7, pp.525-537, 2010"
+  highlight: 0
+
+- title: "51. Multiple Hypergraph Clustering of Web Images by Mining Word2Image Correlations"
   image: dummy.png
   description: ""
   authors: Fei Wu, Yahong Han*, Yueting Zhuang
@@ -460,7 +460,7 @@
     display: "Journal of Computer Science and Technology, VOL.25, NO.4, pp.750-760, 2010"
   highlight: 0
 
-- title: "51. Clustering Web Images by Correlation Mining of Image-Text"
+- title: "52. Clustering Web Images by Correlation Mining of Image-Text"
   image: dummy.png
   description: ""
   authors: Fei Wu, Yahong Han, Yueting Zhuang, Jian Shao
@@ -469,7 +469,7 @@
     display: "Journal of Software (in Chinese), VOL.21, NO.7, pp.1561−1575, 2010"
   highlight: 0
 
-- title: "52. Multi-label Image Annotation by Structural Grouping Sparsity"
+- title: "53. Multi-label Image Annotation by Structural Grouping Sparsity"
   image: dummy.png
   description: ""
   authors: Yahong Han, Fei Wu, Yueting Zhuang
@@ -477,5 +477,3 @@
     url:
     display: "Chapter in the Springer Book 'Social Media Modeling and Computing', 2011<br>Book Co-Editors: Steven Hoi, Jiebo Luo, Susanne Boll, Dong Xu, Rong Jin, Irwin King"
   highlight: 0
-
-
