@@ -1,3 +1,12 @@
+- title: "1. Curls & Whey: Boosting Black-Box Adversarial Attacks <a href='https://github.com/walegahaha/Curls-Whey'>(Project Page)</a>"
+  image: dummy.png
+  description: 
+  authors: Yucheng Shi, Siyu Wang, Yahong Han
+  link:
+    url: 
+    display: CVPR 2019, (Oral)
+  highlight: 0
+
 - title: "1. Movie Question Answering via Textual Memory and Plot Graph"
   image: dummy.png
   description: 
