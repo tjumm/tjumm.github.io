@@ -25,9 +25,8 @@ Welcome to the Group of Multimedia (MM) @ School of Computer Science and Technol
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-
-        <div class="item active">
-            <a href = "https://github.com/youjiangxu/seqvlad-pytorch"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/vlad.jpg" alt="Slide 1" /></a>
+        <div class="item">
+            <a href = "https://github.com/walegahaha/Curls-Whey"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/curls.png" alt="Slide 1" /></a>
         </div>
         <div class="item">
             <a href = "https://github.com/bowong/Layered-Memory-Network"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/memory.jpg" alt="Slide 2" /></a>
@@ -47,11 +46,11 @@ Welcome to the Group of Multimedia (MM) @ School of Computer Science and Technol
         <div class="item">
             <a href = "https://github.com/youjiangxu/top_attention"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/topatt.jpg" alt="Slide 7" /></a>
         </div>
-        <div class="item">
-            <a href = "https://github.com/walegahaha/Curls-Whey"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/curls.png" alt="Slide 8" /></a>
+        <div class="item active">
+            <a href = "https://github.com/youjiangxu/seqvlad-pytorch"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/vlad.jpg" alt="Slide 8" /></a>
         </div>
         <div class="item">
-            <a href = "/picnews/p2.html"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/nips2018bisai.PNG" alt="Slide 8" /></a>
+            <a href = "/picnews/p2.html"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/nips2018bisai.PNG" alt="Slide 9" /></a>
         </div>
 
     </div> 

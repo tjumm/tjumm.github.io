@@ -21,12 +21,12 @@
   number_educ: 0
   education1:
 
-- name: Xiaomeng Song
-  photo: sxm.jpg
-  info: Master student, 2017
-  email: songxiaomeng@tju.edu.cn
-  number_educ: 0
-  education1:
+#- name: Xiaomeng Song
+#  photo: sxm.jpg
+#  info: Master student, 2017
+#  email: songxiaomeng@tju.edu.cn
+#  number_educ: 0
+#  education1:
 
 - name: Siyu Wang
   photo: wsy.jpg
