@@ -12,6 +12,7 @@ Our research interests mainly include multimedia analysis and computing, compute
 
 # Funding
 
+- Collaboration Project with Huawei Noah's Ark Lab on Machine Learning, PI
 - The Underlying Theory Research and Visual Analysis Technology for Intelligent City Surveillance, NSFC Key Program, Co-PI
 - Key Program Funding from Science and Technology Commission of CMC, PI
 - Theories and Methods of Adversarial Machine Learning for Image Semantic Understanding, NSFC General Program, PI

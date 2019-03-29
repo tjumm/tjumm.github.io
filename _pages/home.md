@@ -68,4 +68,4 @@ Welcome to the Group of Multimedia (MM) @ School of Computer Science and Technol
 We have published papers on leading journals and conferences of multimedia, computer vision, machine learning, and artificial intelligence, such as IEEE TIP, IEEE TNNLS, IEEE TMM, IEEE TCSVT, IEEE TCYB, ACM MM, CVPR, AAAI, IJCAI, etc. We also got winner records in main technical challenges such as the Champion of the Large Scale Movie Description Challenge (LSMDC 2017, joint with ICCV 2017) and the Runner-up of the 2nd MSR Large-Scale Video to Language Challenge (Honorable Mention Award of Grand Challenge @ ACM MM 2017).
 
  **We are  looking for passionate new PhD students and Master students to join the team !** <br>
-If you are interested, contect <i>professor [Yahong Han](http://cs.tju.edu.cn/faculty/hanyahong/index.html)</i>
+If you are interested, please contact <i>[Prof. Yahong Han](http://cs.tju.edu.cn/faculty/hanyahong/index.html)</i>
