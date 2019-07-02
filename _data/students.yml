@@ -7,12 +7,12 @@
 #  education2:  
 #  education3: 
 #  education4:  
-- name: Bo Wang
-  photo: wb.jpg
-  info: Master student, 2016
-  email: bwong@tju.edu.cn
-  number_educ: 0
-  education1:
+# - name: Bo Wang
+#   photo: wb.jpg
+#   info: Master student, 2016
+#   email: bwong@tju.edu.cn
+#   number_educ: 0
+#   education1:
 
 - name: Huiyun Wang
   photo: why.jpg
@@ -73,6 +73,20 @@
 - name: Pin Jiang
   photo: jp.jpg
   info: Master student, 2018
-  email: jp0030@163.com
+  email: jpin@tju.edu.cn
+  number_educ: 0
+  education1:
+
+- name: Fan Jia
+  photo: jiafan.jpg
+  info: Master student, 2019
+  email: kvjia@tju.edu.cn
+  number_educ: 0
+  education1:
+
+- name: Yuandu Lai
+  photo: laiyuandu.jpg
+  info: Master student, 2019
+  email: yuandulai@tju.edu.cn
   number_educ: 0
   education1:
