@@ -1,10 +1,10 @@
-- title: "1. Ranking Video Salient Object Detection"
+- title: ". Ranking Video Salient Object Detection"
   image: dummy.png
   description: 
   authors: Zheng Wang, Xinyu Yan, Yahong Han, Meijun Sun
   link:
     url: 
-    display: ACM Multimedia 2019, (Accepted)
+    display: ACM Multimedia 2019, Accepted
   highlight: 0
 
 - title: "1. Video Interactive Captioning with Human Prompts <a href='https://github.com/ViCap01/ViCap'>(Project Page)</a>"
