@@ -40,3 +40,6 @@ kramdown:
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
+# 统计设置
+# Baidu Analytics
+ba_track_id: 7b6a73980f18da12874c3b3a7b9fda39
