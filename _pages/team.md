@@ -187,15 +187,7 @@ Jump to [staff](#staff), [phd students](#phd-students), [master students](#maste
 
 
 ## Alumni
-<table align="center" style="width:100%">
 
-  <br>Yanbin Liu (2013, phd student in University of Technology Sydney)
-  <br>Shichao Zhao (2014, Institute of Deep Learning (IDL), Baidu)
-  <br>Guang Li (2014, phd student in University of Technology Sydney)
-  <br>Youjiang Xu (2015, SenseTime Inc)
-  <br>Ziwei Yang (2015, HIKVISION Inc)
-  
-</table>
 
 
 
