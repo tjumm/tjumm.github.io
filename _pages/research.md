@@ -16,6 +16,7 @@ Our research interests mainly include multimedia analysis and computing, compute
 - The Underlying Theory Research and Visual Analysis Technology for Intelligent City Surveillance, NSFC Key Program, Co-PI
 - Theories and Methods of Adversarial Machine Learning for Image Semantic Understanding, NSFC General Program, PI
 - Ad Hoc Web Image Semantic Understanding with Limited Supervision, NSFC General Program, PI
+- The Key Theories and Methods for Intelligent Cross-media Question Answering and Reasoning, NSFC Key Program, Co-PI
 
 # Highlights
 
