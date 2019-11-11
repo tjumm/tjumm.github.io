@@ -1,4 +1,22 @@
-- title: "1. Connective Cognition Network for Directional Visual Commonsense Reasoning"
+- title: "1. Reasoning with Heterogeneous Graph Alignment for Video Question Answering"
+  image: dummy.png
+  description: 
+  authors: Pin Jiang, Yahong Han
+  link:
+    url: 
+    display: AAAI 2020, Accepted
+  highlight: 0
+
+- title: "1. Multi-Speaker Video Dialog with Frame-Level Temporal Localization"
+  image: dummy.png
+  description: 
+  authors: Qiang Wang, Pin Jiang, Yahong Han, Zhou Zhao
+  link:
+    url: 
+    display: AAAI 2020, Accepted
+  highlight: 0
+
+- title: "1. Connective Cognition Network for Directional Visual Commonsense Reasoning <a href='https://github.com/AmingWu/CCN'>(Project Page)</a>"
   image: dummy.png
   description: 
   authors: Aming Wu, Linchao Zhu, Yahong Han, Yi Yang 
