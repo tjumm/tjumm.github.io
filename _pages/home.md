@@ -26,6 +26,12 @@ Welcome to the Group of Multimedia (MM) @ School of Computer Science and Technol
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item">
+            <a href = "https://github.com/AmingWu/CCN"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/wam-ccn.jpg" alt="Slide 10" /></a>
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/jp-hga.jpg" alt="Slide 10" />
+        </div>
+        <div class="item">
             <a href = "https://github.com/ViCap01/ViCap"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ViCap.png" alt="Slide 10" /></a>
         </div>
         <div class="item">
@@ -42,9 +48,6 @@ Welcome to the Group of Multimedia (MM) @ School of Computer Science and Technol
         </div>
         <div class="item">
             <a href = "https://svqa-founder.github.io/SVQA/"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/vqa.jpg" alt="Slide 5" /></a>
-        </div>
-        <div class="item">
-            <a href = "https://github.com/HuiyunWang/sam-tensorflow"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/wcap.jpg" alt="Slide 6" /></a>
         </div>
         <div class="item">
             <a href = "https://github.com/youjiangxu/top_attention"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/topatt.jpg" alt="Slide 7" /></a>
