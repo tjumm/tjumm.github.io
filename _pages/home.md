@@ -37,6 +37,9 @@ Welcome to the Group of Multimedia (MM) @ School of Computer Science and Technol
         <div class="item">
             <a href = "https://github.com/walegahaha/Curls-Whey"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/curls.png" alt="Slide 1" /></a>
         </div>
+         <div class="item">
+            <a href = "https://github.com/HuiyunWang/sam-tensorflow"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/wcap.jpg" alt="Slide 6" /></a>
+        </div>
         <div class="item">
             <a href = "https://github.com/bowong/Layered-Memory-Network"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/memory.jpg" alt="Slide 2" /></a>
         </div>
@@ -46,12 +49,9 @@ Welcome to the Group of Multimedia (MM) @ School of Computer Science and Technol
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/sycatt.jpg" alt="Slide 4" />
         </div>
-        <div class="item">
-            <a href = "https://svqa-founder.github.io/SVQA/"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/vqa.jpg" alt="Slide 5" /></a>
-        </div>
-        <div class="item">
+        <!-- <div class="item">
             <a href = "https://github.com/youjiangxu/top_attention"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/topatt.jpg" alt="Slide 7" /></a>
-        </div>
+        </div> -->
         <div class="item active">
             <a href = "https://github.com/youjiangxu/seqvlad-pytorch"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/vlad.jpg" alt="Slide 8" /></a>
         </div>
