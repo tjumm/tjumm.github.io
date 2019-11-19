@@ -7,7 +7,7 @@
     display: AAAI 2020, Accepted
   highlight: 0
 
-- title: "1. Multi-Speaker Video Dialog with Frame-Level Temporal Localization"
+- title: "1. Multi-Speaker Video Dialog with Frame-Level Temporal Localization <a href='https://github.com/qiangw17/msvd-tl'>(Project Page)</a>"
   image: dummy.png
   description: 
   authors: Qiang Wang, Pin Jiang, Yahong Han, Zhou Zhao
