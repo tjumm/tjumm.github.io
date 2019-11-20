@@ -1,3 +1,12 @@
+- title: "1. Convolutional Reconstruction-to-Sequence for Video Captioning <a href='https://github.com/AmingWu/ConvRS'>(Project Page)</a>"
+  image: dummy.png
+  description: 
+  authors: Aming Wu, Yahong Han, Yi Yang, Qinghua Hu, Fei Wu
+  link:
+    url: 
+    display: IEEE TCSVT, Accepted
+  highlight: 0
+
 - title: "1. Reasoning with Heterogeneous Graph Alignment for Video Question Answering"
   image: dummy.png
   description: 

@@ -14,12 +14,12 @@
 #   number_educ: 0
 #   education1:
 
-- name: Huiyun Wang
-  photo: why.jpg
-  info: Master student, 2016
-  email: wanghuiyun@tju.edu.cn
-  number_educ: 0
-  education1:
+# - name: Huiyun Wang
+#   photo: why.jpg
+#   info: Master student, 2016
+#   email: wanghuiyun@tju.edu.cn
+#   number_educ: 0
+#   education1:
 
 #- name: Xiaomeng Song
 #  photo: sxm.jpg
