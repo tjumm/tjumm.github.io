@@ -28,26 +28,26 @@
 #  number_educ: 0
 #  education1:
 
-- name: Siyu Wang
-  photo: wsy.jpg
-  info: Master student, 2017
-  email: syuwang@tju.edu.cn
-  number_educ: 0
-  education1:
+# - name: Siyu Wang
+#   photo: wsy.jpg
+#   info: Master student, 2017
+#   email: syuwang@tju.edu.cn
+#   number_educ: 0
+#   education1:
 
-- name: Qiang Wang
-  photo: wq.jpg
-  info: Master student, 2017
-  email: qiangw@tju.edu.cn
-  number_educ: 0
-  education1:
+# - name: Qiang Wang
+#   photo: wq.jpg
+#   info: Master student, 2017
+#   email: qiangw@tju.edu.cn
+#   number_educ: 0
+#   education1:
 
-- name: Xin Chen
-  photo: cx.jpg
-  info: Master student, 2017
-  email: chenxin13@tju.edu.cn
-  number_educ: 0
-  education1:
+# - name: Xin Chen
+#   photo: cx.jpg
+#   info: Master student, 2017
+#   email: chenxin13@tju.edu.cn
+#   number_educ: 0
+#   education1:
 
 - name: Xuanwei Chen
   photo: cxw.jpg
@@ -74,6 +74,13 @@
   photo: jp.jpg
   info: Master student, 2018
   email: jpin@tju.edu.cn
+  number_educ: 0
+  education1:
+
+- name: Jun Pu
+  photo: pujun.jpg
+  info: Master student, 2018
+  email: pujun@tju.edu.cn
   number_educ: 0
   education1:
 
@@ -109,5 +116,19 @@
   photo: ajq.jpg
   info: Master student, 2019
   email: anjianqiao0210@gmail.com
+  number_educ: 0
+  education1:
+
+- name: Xinrui Li
+  photo: lixinrui.jpg
+  info: Master student, 2019
+  email: lixinrui_beiyang@tju.edu.cn
+  number_educ: 0
+  education1:
+
+- name: Kunhong Wu
+  photo: wukunhong.jpg
+  info: Master student, 2020
+  email: 3016216121@tju.edu.cn
   number_educ: 0
   education1:
