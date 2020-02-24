@@ -1,3 +1,21 @@
+- title: "1. Polishing Decision-based Adversarial Noise with a Customized Sampling"
+  image: dummy.png
+  description: 
+  authors: Yucheng Shi, Yahong Han, Qi Tian
+  link:
+    url: 
+    display: CVPR 2020, Accepted
+  highlight: 0
+
+- title: "1. Adaptive Iterative Attack towards Explainable Adversarial Robustness"
+  image: dummy.png
+  description: 
+  authors: Yucheng Shi, Yahong Han, Quanxin Zhang, Xiaohui Kuang
+  link:
+    url: 
+    display: Pattern Recognition, Accepted
+  highlight: 0
+
 - title: "1. Convolutional Reconstruction-to-Sequence for Video Captioning <a href='https://github.com/AmingWu/ConvRS'>(Project Page)</a>"
   image: dummy.png
   description: 
