@@ -1,10 +1,19 @@
+- title: "1. Extract and Merge: Superpixel Segmentation with Regional Attributes"
+  image: dummy.png
+  description: 
+  authors: Jianqiao An, Yucheng Shi, Yahong Han, Meijun Sun, Qi Tian
+  link:
+    url: 
+    display: ECCV 2020
+  highlight: 0
+
 - title: "1. Bidirectional Adversarial Training for Semi-Supervised Domain Adaptation"
   image: dummy.png
   description: 
   authors: Pin Jiang, Aming Wu, Yahong Han, Yunfeng Shao, Meiyu Qi, Bingshuai Li
   link:
     url: 
-    display: IJCAI 2020, Accepted
+    display: IJCAI 2020
   highlight: 0
 
 - title: "1. Polishing Decision-based Adversarial Noise with a Customized Sampling"
@@ -13,7 +22,7 @@
   authors: Yucheng Shi, Yahong Han, Qi Tian
   link:
     url: 
-    display: CVPR 2020, Accepted
+    display: CVPR 2020
   highlight: 0
 
 - title: "1. Adaptive Iterative Attack towards Explainable Adversarial Robustness"
@@ -22,7 +31,7 @@
   authors: Yucheng Shi, Yahong Han, Quanxin Zhang, Xiaohui Kuang
   link:
     url: 
-    display: Pattern Recognition, Accepted
+    display: Pattern Recognition
   highlight: 0
 
 - title: "1. Convolutional Reconstruction-to-Sequence for Video Captioning <a href='https://github.com/AmingWu/ConvRS'>(Project Page)</a>"
@@ -31,7 +40,7 @@
   authors: Aming Wu, Yahong Han, Yi Yang, Qinghua Hu, Fei Wu
   link:
     url: 
-    display: IEEE TCSVT, Accepted
+    display: IEEE TCSVT
   highlight: 0
 
 - title: "1. Reasoning with Heterogeneous Graph Alignment for Video Question Answering <a href='https://github.com/Jumpin2/HGA'>(Project Page)</a>"
@@ -40,7 +49,7 @@
   authors: Pin Jiang, Yahong Han
   link:
     url: 
-    display: AAAI 2020, Accepted
+    display: AAAI 2020
   highlight: 0
 
 - title: "1. Multi-Speaker Video Dialog with Frame-Level Temporal Localization <a href='https://github.com/qiangw17/msvd-tl'>(Project Page)</a>"
@@ -49,7 +58,7 @@
   authors: Qiang Wang, Pin Jiang, Yahong Han, Zhou Zhao
   link:
     url: 
-    display: AAAI 2020, Accepted
+    display: AAAI 2020
   highlight: 0
 
 - title: "1. Connective Cognition Network for Directional Visual Commonsense Reasoning <a href='https://github.com/AmingWu/CCN'>(Project Page)</a>"
@@ -58,7 +67,7 @@
   authors: Aming Wu, Linchao Zhu, Yahong Han, Yi Yang 
   link:
     url: 
-    display: NeurIPS 2019, Accepted
+    display: NeurIPS 2019
   highlight: 0
 
 - title: "1. Ranking Video Salient Object Detection"
@@ -67,7 +76,7 @@
   authors: Zheng Wang, Xinyu Yan, Yahong Han, Meijun Sun
   link:
     url: 
-    display: ACM Multimedia 2019, Accepted
+    display: ACM Multimedia 2019
   highlight: 0
 
 - title: "1. Video Interactive Captioning with Human Prompts <a href='https://github.com/ViCap01/ViCap'>(Project Page)</a>"
@@ -76,7 +85,7 @@
   authors: Aming Wu, Yahong Han, Yi Yang
   link:
     url: 
-    display: IJCAI 2019, Accepted
+    display: IJCAI 2019
   highlight: 0
 
 - title: "1. Curls & Whey: Boosting Black-Box Adversarial Attacks <a href='https://github.com/walegahaha/Curls-Whey'>(Project Page)</a>"
@@ -94,7 +103,7 @@
   authors: Yahong Han, Bo Wang, Richang Hong, Fei Wu
   link:
     url: 
-    display: IEEE TCSVT 2019, Accepted
+    display: IEEE TCSVT 2019
   highlight: 0
 
 - title: "2. Adaptive Sparse Confidence-Weighted Learning for Online Feature Selection"
