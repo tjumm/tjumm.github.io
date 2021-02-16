@@ -26,6 +26,9 @@ Welcome to the Group of Multimedia (MM) @ School of Computer Science and Technol
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item">
+            <a href = "https://github.com/AmingWu/IIOD"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/wam-iiod.jpg" alt="Slide 10" /></a>
+        </div>
+        <div class="item">
             <a href = "https://github.com/AmingWu/CCN"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/wam-ccn.jpg" alt="Slide 10" /></a>
         </div>
         <div class="item">
