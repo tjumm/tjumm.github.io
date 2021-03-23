@@ -38,9 +38,9 @@
   number_educ: 0
   education1:
 
-- name: Keran Chen
-  photo: chengkeran.jpg
-  info: Phd student, started Sept 2021
-  email: erichen@tju.edu.cn
-  number_educ: 0
-  education1:
+#- name: Keran Chen
+#  photo: chengkeran.jpg
+#  info: Phd student, started Sept 2021
+#  email: erichen@tju.edu.cn
+#  number_educ: 0
+#  education1:
