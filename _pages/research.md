@@ -51,3 +51,20 @@ Adversarial machine learning is a new research direction of our laboratory. This
 Adversarial attacks can be divided into white-box attack and black-box attack based on attackers’ knowledge of the target model. As for white-box attack, the attacker can gain complete knowledge of target model, including its training images, optimization algorithm, and parameters of each layer in the network. When the attacker can not access the internal structure or training images, the target model can only be regarded as a black box. In this case, the attacker can only acquire information about the target model by querying.
 
 At present, our laboratory has two publications in the field of adversarial machine learning:<i> "Schmidt: Image Augmentation for Black-box Adversarial Attack"</i> that proposed an image augmentation method better probes decision boundaries of the black-box model. <i>"Universal Perturbation Generation for Black-box Attack Using Evolutionary Algorithms"</i> that achieves source/target misclassification, black-box attack and universal perturbation by employing improved evolutionary algorithms
+
+# Highlights
+
+## 1. Domain Adaption
+<b> Instance-Invariant Domain Adaptive Object Detection via Progressive Disentanglement (IEEE TPAMI 2021) </b>
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/caption.jpg){: style="width: 350px; float: left; border: 10px"}
+
+Most state-of-the-art methods of object detection suffer from poor generalization ability when the training and test data are from different domains, e.g., with different styles. To address this problem, a progressive disentangled framework is first proposed to solve domain adaptive object detection. Particularly, base on disentangled learning used for feature decomposition, we devise two disentangled layers to decompose domain-invariant and domain-specific features. And the instance-invariant features are extracted based on the domain-invariant features. Finally, to enhance the disentanglement, a three-stage training mechanism including multiple loss functions is devised to optimize our model. In the experiment, we verify the effectiveness of our method on three domain-shift scenes. 
+
+<b> Bidirectional Adversarial Training for Semi-Supervised Domain Adaptation (IJCAI 2020) </b>
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/caption.jpg){: style="width: 350px; float: left; border: 10px"}
+
+Semi-supervised domain adaptation (SSDA) is a novel branch of machine learning that scarce labeled target examples are available, compared with unsupervised domain adaptation. To make effective use of these additional data so as to bridge the domain gap, one possible way is to generate adversarial examples. However, the traditional adversarial training adds noises in arbitrary directions, which is inefficient to migrate between domains.In this work, we devise a general bidirectional adversarial training method and employ gradient to guide adversarial examples across the domain gap, i.e., the Adaptive Adversarial Training (AAT) for source to target domain and Entropypenalized Virtual Adversarial Training (E-VAT) for target to source domain. Particularly, we devise a Bidirectional Adversarial Training (BiAT) network to perform diverse adversarial trainings jointly. We evaluate the effectiveness of BiAT on three benchmark datasets and experimental results demonstrate the proposed method achieves the state-of-the-art.
+
+## 2. Video Captioning
