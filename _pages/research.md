@@ -10,61 +10,84 @@ permalink: /research/
 
 Our research interests mainly include multimedia analysis and computing, computer vision, machine learning, and artificial intelligence. Recently, we are focusing on the visual understanding via deep learning, e.g., video/image recognition, detection and segmentation, video/image captioning, and video/image question answering (QA). We also explore the deep learning methods’ vulnerability and its robustness to adversarial attacks. Our goal is to further understand the vulnerability and interpretability of deep learning methods, which will provide theoretic evidences and methodology strategies for constructing a safer and more reliable system of image semantic understanding.
 
-# Funding
-
-- The Key Theories and Methods for Intelligent Cross-media Question Answering and Reasoning, NSFC Key Program, Co-PI
-- The Underlying Theory Research and Visual Analysis Technology for Intelligent City Surveillance, NSFC Key Program, Co-PI
-- Theories and Methods of Adversarial Machine Learning for Image Semantic Understanding, NSFC General Program, PI
-- Ad Hoc Web Image Semantic Understanding with Limited Supervision, NSFC General Program, PI
-
-# Highlights
-
-<b> 1. Video Captioning </b>
-
-Visual captioning targets to automatically generate natural language descriptions for images or videos, based on visual content understanding, which is regarded as a profound challenge in both computer vision and language processing communities. Generating meaningful natural language description for visual content may beneft a wide variety of applications, such as human-robot interaction, impaired people auxiliary, and video retrieval. Thus it has attracted much attention recently and intensive research interests have been paid for this topic.
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/caption.jpg){: style="width: 350px; float: right; border: 10px"}
-
-Early video captioning approaches attempt to detect semantic concepts (e.g., objects, subjects, and verbs) with multiple visual classifiers, and fill predicted concepts in pre-defined sentence templates for caption generation. These methods always create sentences with specifc syntactical structure, which may lose ﬂexibility of natural language and highly depend on pre-defned templates of sentence. With the rapid development of deep neural networks, especially Recurrent Neural Network (RNN), inspiring results have been achieved for video captioning. Recent RNN-based video captioning approaches have greatly enhanced the performance owning to the merits that diﬀerentiable recurrent models can directly model variable-length inputs and outputs. 
-
-The main achievements of our lab are as follows: <i>"Multirate Multimodal Video Captioning" (ACM MM 2017 Grand Challenge 'Honorable Mention Award').</i> In MSR Video to Language Challenge of ACM MM 2017 Grand Challenge, we came second in M1 and ranked third in M2. The work proposes a Multirate Multimodal Approach for
-video captioning, which incorporats visual, motion, and topic information together. <i>"Catching the Temporal Regions-of-Interest for Video Captioning" (ACMMM).</i> This work proposes a Dual Memory Recurrent Model (DMRM) to incorporate temporal structure of global features and regions-of-interest features in parallel, which will obtain rough understanding of video content and particular information of regions-of-interest. <i>"Sequential Video VLAD: Training the Aggregation Locally and Temporally" (IEEE T-IP).</i> This work develop a novel Sequential VLAD layer, named SeqVLAD, to combine a trainable VLAD encoding process and the RCNs architecture into a whole framework for both video captioning and video action recognition. <i>"Spoting and Aggregating Salient Regions for Video Captioning" (ACMMM).</i> This work automatically spots salient regions in each video frame and simultaneously learn a discriminative spatio-temporal representation for video captioning.
-
-<b> 2. Visual Question Answering </b>
-
-VQA is a task that given a picture or video and a corresponding natural language question, model can generate the answer automatically. It is a multi-media task which combines the technique of Natural Language Processing(NLP) and Computer Vision(CV). It has received much attention from researchers and scholars in recent years. Solving this task is a crucial step towards Artificial Intelligence.
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/qa.jpg){: style="width: 300px; float: left; border: 10px"}
-
-VQA can be divided into two categories in terms of the visual content: Image Question Answering(ImageQA) and Video Question Answering(VideoQA). As the natural extension of images, videos contain richer information with additional temporal and dynamic characteristics, which brings up more challenges and difficulties. The main aspect that our lab focuses on is how to combine the reasoning and knowledge to solve the VideoQA. When answering the complex question, human usually reason about the visual and language or combine the additional knowledge. So if we can let models to achieve such abilities, they will more intelligent.
-
-The existing achievements of this topic of our lab include:
-<i>"Movie Question Answering: Remembering the Textual Cues for Layered Visual Contents" (AAAI).</i>This work contributes a Layered Memory Network (LMN) to solve the MovieQA, which represents frame-level and clip-level movie content by the Static Word Memory module and the Dynamic Subtitle Memory module, respectively.
-<i>"Explore Multi-step Reasoning in Video Question Answering" (ACMMM). </i>This work explores multi-step reasoning in VideoQA by formulating it as a new task, which targets to answer compositional logical structured questions bases on videos. The work contributes in developing a system to automatically generate a large-scale VideoQA dataset and proposing a novel model which combines spatial and temporal attention to address this task. 
-
-<b> 3. Adversarial Machine Learning </b>
-
-Adversarial machine learning is a new research direction of our laboratory. This is a crossing research field between machine learning and computer security. The main goal is to propose more powerful and targeted attack against existing machine learning model, like image classifiers based on deep neural networks.
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/adv.jpg){: style="width: 350px; float: right; border: 10px"}
-
-Adversarial attacks can be divided into white-box attack and black-box attack based on attackers’ knowledge of the target model. As for white-box attack, the attacker can gain complete knowledge of target model, including its training images, optimization algorithm, and parameters of each layer in the network. When the attacker can not access the internal structure or training images, the target model can only be regarded as a black box. In this case, the attacker can only acquire information about the target model by querying.
-
-At present, our laboratory has two publications in the field of adversarial machine learning:<i> "Schmidt: Image Augmentation for Black-box Adversarial Attack"</i> that proposed an image augmentation method better probes decision boundaries of the black-box model. <i>"Universal Perturbation Generation for Black-box Attack Using Evolutionary Algorithms"</i> that achieves source/target misclassification, black-box attack and universal perturbation by employing improved evolutionary algorithms
-
 # Highlights
 
 ## 1. Domain Adaption
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/IIDO.png){: style="width: 350px; float: left; border: 10px"}
+
 <b> Instance-Invariant Domain Adaptive Object Detection via Progressive Disentanglement (IEEE TPAMI 2021) </b>
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/caption.jpg){: style="width: 350px; float: left; border: 10px"}
 
 Most state-of-the-art methods of object detection suffer from poor generalization ability when the training and test data are from different domains, e.g., with different styles. To address this problem, a progressive disentangled framework is first proposed to solve domain adaptive object detection. Particularly, base on disentangled learning used for feature decomposition, we devise two disentangled layers to decompose domain-invariant and domain-specific features. And the instance-invariant features are extracted based on the domain-invariant features. Finally, to enhance the disentanglement, a three-stage training mechanism including multiple loss functions is devised to optimize our model. In the experiment, we verify the effectiveness of our method on three domain-shift scenes. 
 
 <b> Bidirectional Adversarial Training for Semi-Supervised Domain Adaptation (IJCAI 2020) </b>
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/caption.jpg){: style="width: 350px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/SSDA.png){: style="width: 350px; float: left; border: 10px"}
 
-Semi-supervised domain adaptation (SSDA) is a novel branch of machine learning that scarce labeled target examples are available, compared with unsupervised domain adaptation. To make effective use of these additional data so as to bridge the domain gap, one possible way is to generate adversarial examples. However, the traditional adversarial training adds noises in arbitrary directions, which is inefficient to migrate between domains.In this work, we devise a general bidirectional adversarial training method and employ gradient to guide adversarial examples across the domain gap, i.e., the Adaptive Adversarial Training (AAT) for source to target domain and Entropypenalized Virtual Adversarial Training (E-VAT) for target to source domain. Particularly, we devise a Bidirectional Adversarial Training (BiAT) network to perform diverse adversarial trainings jointly. We evaluate the effectiveness of BiAT on three benchmark datasets and experimental results demonstrate the proposed method achieves the state-of-the-art.
+To make effective use of these additional data so as to bridge the domain gap, one possible way is to generate adversarial examples. However, the traditional adversarial training adds noises in arbitrary directions, which is inefficient to migrate between domains.In this work, we devise a general bidirectional adversarial training method and employ gradient to guide adversarial examples across the domain gap, i.e., the Adaptive Adversarial Training (AAT) for source to target domain and Entropypenalized Virtual Adversarial Training (E-VAT) for target to source domain. Particularly, we devise a Bidirectional Adversarial Training (BiAT) network to perform diverse adversarial trainings jointly. We evaluate the effectiveness of BiAT on three benchmark datasets and experimental results demonstrate the proposed method achieves the state-of-the-art.
 
 ## 2. Video Captioning
+![]({{ site.url }}{{ site.baseurl }}/images/respic/video_cap/MemNet.png){: style="width: 350px; float: left; border: 10px"}
+
+Hierarchical Memory Decoder for Visual Narrating (IEEE TCSVT 2020)
+
+Visual narrating focuses on generating semantic descriptions to summarize visual content of images or videos, e.g., visual captioning and visual storytelling. The challenge mainly lies in how to design a decoder to generate accurate descriptions matching visual content. In this paper, we devise a novel memory decoder for visual narrating. Concretely, to obtain a better multi-modal representation, we first design a new multi-modal fusion method to fully merge visual and lexical information. Then, based on the fusion result, during decoding, we construct a MemNet-based decoder consisting of multiple memory layers. Particularly, in each layer, we employ a memory set to store previous decoding information and utilize an attention mechanism to adaptively select the information related to the current output. Meanwhile, we also employ a memory set to store the decoding output of each memory layer at the current time step and still utilize an attention mechanism to select the related information. Thus, this decoder alleviates dilution of long-term information. Meanwhile, the hierarchical architecture leverages the latent information of each layer, which is helpful for generating accurate descriptions. Experimental results on two tasks of visual narrating, i.e., video captioning and visual storytelling, show that our decoder could obtain superior results and outperform the performance of conventional RNN-based decoder.
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/video_cap/CRVC.png){: style="width: 350px; float: left; border: 10px"}
+
+Convolutional Reconstruction-to-Sequence for Video Captioning(IEEE TCSVT 2020)
+
+For video captioning, the commonly used method is LSTM decoder with an attention mechanism. Although LSTM owns a memory cell to memorize history information, it is still limited to several time steps. The reason is long-term information is gradually diluted at each time step. To alleviate this problem, we propose a convolutional reconstruction-to-sequence model for video captioning.Particularly, we first append inter-frame differences to each CNN-extracted frame feature to get a more discriminative representation; then with that as the input, we encode each frame to be a more compact feature by a one-layer convolutional mapping, which could be taken as a reconstruction network. In the decoding stage, we first fuse visual and lexical feature; then we stack multiple dilated convolutional layers to form a hierarchical decoder. As long-term dependencies could be captured by a shorter path along the hierarchical structure, the decoder could alleviate the loss of long-term information. Experiments on two benchmark datasets show that our method could obtain state-of-the-art performance.
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/video_cap/VCHP.png){: style="width: 350px; float: left; border: 10px"}
+
+Video Interactive Captioning with Human Prompts (IJCAI 2019)
+
+As a video often includes rich visual content and semantic details, different people may be interested in different views. Thus the generated sentence always fails to meet the ad hoc expectations. In this paper, we make a new attempt that, we launch a round of interaction between a human and a captioning agent. After generating an initial caption, the agent asks for a short prompt from the human as a clue of his expectation. Then, based on the prompt, the agent could generate a more accurate caption. We name this process a new task of video interactive captioning (ViCap). Taking a video and an initial caption as input, we devise the ViCap agent which consists of a video encoder, an initial caption encoder, and a refined caption generator. Experimental results not only show the prompts can help generate more accurate captions, but also demonstrate the good performance of the proposed method. 
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/video_cap/SASR.png){: style="width: 350px; float: left; border: 10px"}
+
+Spotting and Aggregating Salient Regions for Video Captioning (ACM MM 2018)
+
+Towards an interpretable video captioning process, we target to locate salient regions of video objects along with the sequentially uttering words. This paper proposes a new framework to automatically spot salient regions in each video frame and simultaneously learn a discriminative spatio-temporal representation for video captioning. First, in a Spot Module, we automatically learn the saliency value of each location to separate salient regions from video content as the foreground and the rest as background by two operations of ‘hard separation’ and ‘soft separation’, respectively. Then, in an Aggregate Module, to aggregate the foreground/background descriptors into a discriminative spatio-temporal representation, we devise a trainable video VLAD process to learn the aggregation parameters. Finally, we utilize the attention mechanism to decode the spatio-temporal representations of different regions into video descriptions. Experiments on two benchmark datasets demonstrate our method outperforms most of the state-of-the-art methods in terms of Bleu@4, METEOR and CIDEr metrics for the task of video captioning. 
+
+## Visual Question Answering
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/vqa/RHGA.png){: style="width: 350px; float: left; border: 10px"}
+
+Reasoning with Heterogeneous Graph Alignment for Video Question Answering
+
+The dominant video question answering methods are based on fine-grained representation or model-specific attention mechanism. They usually process video and question separately, then feed the representations of different modalities into following late fusion networks. Although these methods use information of one modality to boost the other, they neglect to integrate correlations of both inter- and intra-modality in an uniform module. We propose a deep heterogeneous graph alignment network over the video shots and question words. Furthermore, we explore the network architecture from four steps: representation, fusion, alignment, and reasoning. Within our network, the inter- and intra-modality information can be aligned and interacted simultaneously over the heterogeneous graph and used for cross-modal reasoning. We evaluate our method on three benchmark datasets and conduct extensive ablation study to the effectiveness of the network architecture. Experiments show the network to be superior in quality. 
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/vqa/ccn.png){: style="width: 350px; float: left; border: 10px"}
+
+Connective Cognition Network for Directional Visual Commonsense Reasoning
+
+Visual commonsense reasoning (VCR) has been introduced to boost research of cognition-level visual understanding, i.e., a thorough understanding of correlated details of the scene plus an inference with related commonsense knowledge. Recent studies on neuroscience have suggested that brain function or cognition can be described as a global and dynamic integration of local neuronal connectivity, which is context-sensitive to specific cognition tasks. Inspired by this idea, towards VCR, we propose a connective cognition network (CCN) to dynamically reorganize the visual neuron connectivity that is contextualized by the meaning of questions and answers. Concretely, we first develop visual neuron connectivity to fully model correlations of visual content. Then, a contextualization process is introduced to fuse the sentence representation with that of visual neurons. Finally, based on the output of contextualized connectivity, we propose directional connectivity to infer answers or rationales. Experimental results on the VCR dataset demonstrate the effectiveness of our method.
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/vqa/EMSR.png){: style="width: 350px; float: left; border: 10px"}
+
+Explore Multi-Step Reasoning in Video Question Answering
+
+Video question answering (VideoQA) always involves visual reasoning. When answering questions composing of multiple logic correlations, models need to perform multi-step reasoning. In this paper, we formulate multi-step reasoning in VideoQA as a new task to answer compositional and logical structured questions based on video content. We design a system to automatically generate a large-scale dataset, namely SVQA (Synthetic Video Question Answering). Compared with other VideoQA datasets, SVQA contains exclusively long and structured questions with various spatial and temporal relations between objects. More importantly, questions in SVQA can be decomposed into human readable logical tree or chain layouts, each node of which represents a sub-task requiring a reasoning operation such as comparison or arithmetic. Towards automatic question answering in SVQA, we develop a new VideoQA model. Particularly, we construct a new attention module, which contains spatial attention mechanism to address crucial and multiple logical sub-tasks embedded in questions, as well as a refined GRU called ta-GRU (temporal-attention GRU) to capture the long-term temporal dependency and gather complete visual cues. Experimental results show the capability of multi-step reasoning of SVQA and the effectiveness of our model when compared with other existing models. 
+
+## Adversarial Machine learning 
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/adv/PDAN.png){: style="width: 350px; float: left; border: 10px"}
+
+Polishing Decision-based Adversarial Noise with a Customized Sampling
+
+As an effective black-box adversarial attack, decision-based methods polish adversarial noise by querying the target model. Among them, boundary attack is widely applied due to its powerful noise compression capability, especially when combined with transfer-based methods. Boundary attack splits the noise compression into several independent sampling processes, repeating each query with a constant sampling setting. In this paper, we demonstrate the advantage of using current noise and historical queries to customize the variance and mean of sampling in boundary attack to polish adversarial noise. We further reveal the relationship between the initial noise and the compressed noise in boundary attack. We propose Customized Adversarial Boundary (CAB) attack that uses the current noise to model the sensitivity of each pixel and polish adversarial noise of each image with a customized sampling setting. On the one hand, CAB uses current noise as a prior belief to customize the multivariate normal distribution. On the other hand, CAB keeps the new samplings away from historical failed queries to avoid similar mistakes. Experimental results measured on several image classification datasets emphasizes the validity of our method. 
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/adv/aia.png){: style="width: 350px; float: left; border: 10px"}
+
+Adaptive Iterative Attack towards Explainable Adversarial Robustness
+
+Image classifiers based on deep neural networks show severe vulnerability when facing adversarial examples crafted on purpose. Designing more effective and efficient adversarial attacks is attracting considerable interest due to its potential contribution to interpretability of deep learning and validation of neural networks’ robustness. However, current iterative attacks use a fixed step size for each noise-adding step, making further investigation into the effect of variable step size on model robustness ripe for exploration. We prove that if the upper bound of noise added to the original image is fixed, the attack effect can be improved if the step size is positively correlated with the gradient obtained at each step by querying the target model. In this paper, we propose Ada-FGSM (Adaptive FGSM), a new iterative attack that adaptively allocates step size of noises according to gradient information at each step. Improvement of success rate and accuracy decrease measured on ImageNet with multiple models emphasizes the validity of our method. We analyze the process of iterative attack by visualizing their trajectory and gradient contour, and further explain the vulnerability of deep neural networks to variable step size adversarial examples. 
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/adv/CurlsandWhey.png){: style="width: 350px; float: left; border: 10px"}
+
+Curls & Whey: Boosting Black-Box Adversarial Attacks
+
+Image classifiers based on deep neural networks suffer from harassment caused by adversarial examples. Two defects exist in black-box iterative attacks that generate adversarial examples by incrementally adjusting the noiseadding direction for each step. On the one hand, existing iterative attacks add noises monotonically along the direction of gradient ascent, resulting in a lack of diversity and adaptability of the generated iterative trajectories. On the other hand, it is trivial to perform adversarial attack by adding excessive noises, but currently there is no refinement mechanism to squeeze redundant noises. In this work, we propose Curls & Whey black-box attack to fix the above two defects. During Curls iteration, by combining gradient ascent and descent, we ‘curl’ up iterative trajectories to integrate more diversity and transferability into adversarial examples. Curls iteration also alleviates the diminishing marginal effect in existing iterative attacks. The Whey optimization further squeezes the ‘whey’ of noises by exploiting the robustness of adversarial perturbation. Extensive experiments on Imagenet and Tiny-Imagenet demonstrate that our approach achieves impressive decrease on noise magnitude in l2 norm. Curls & Whey attack also shows promising transferability against ensemble models as well as adversarially trained models. In addition, we extend our attack to the targeted misclassification, effectively reducing the difficulty of targeted attacks under black-box condition. 
