@@ -208,7 +208,7 @@ Jump to [staff](#staff), [phd students](#phd-students), [master students](#maste
 | Qiang Wang | 2020 | Bank of China |
 | Xiaomeng Song | 2020 | ByteDance |
 | Xuanwei Chen | 2021 | State Grid Zhejiang Electric Power Corporation |
-| Ping Jiang | 2021 | Tencent |
+| Pin Jiang | 2021 | Tencent |
 | Run Li | 2021 | No.713 Research Institute of China Shipbuilding Industry Corporation |
 | Haitao Zhang | 2021 | Baidu |
 | Aming Wu | 2021 | Xidian University |
