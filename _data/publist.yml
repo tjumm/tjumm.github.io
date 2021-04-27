@@ -1,3 +1,12 @@
+- title: "1. Active and Compact Entropy Search for High-Dimensional Bayesian Optimization"
+  image: dummy.png
+  description:
+  authors: Run Li, Yucheng Shi, Yahong Han, Yunfeng Shao, Meiyu Qi, Bingshuai Li
+  link:
+    url:
+    display: IEEE TKDE
+  highlight: 0
+
 - title: "1. Instance-Invariant Domain Adaptive Object Detection via Progressive Disentanglement <a href='https://arxiv.org/abs/1911.08712'>(arXiv Preprint)</a> <a href='https://github.com/AmingWu/IIOD'>(Project Page)</a>"
   image: dummy.png
   description:
