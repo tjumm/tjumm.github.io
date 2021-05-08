@@ -4,7 +4,7 @@
   authors: Run Li, Yucheng Shi, Yahong Han, Yunfeng Shao, Meiyu Qi, Bingshuai Li
   link:
     url:
-    display: IEEE TKDE
+    display: "IEEE TKDE, DOI: 10.1109/TKDE.2021.3077279"
   highlight: 0
 
 - title: "1. Instance-Invariant Domain Adaptive Object Detection via Progressive Disentanglement <a href='https://arxiv.org/abs/1911.08712'>(arXiv Preprint)</a> <a href='https://github.com/AmingWu/IIOD'>(Project Page)</a>"
@@ -14,7 +14,7 @@
   link:
     url:
     display: "IEEE TPAMI, DOI: 10.1109/TPAMI.2021.3060446"
-  highlight: 0p
+  highlight: 0
 
 - title: "1. Hierarchical Memory Decoder for Visual Narrating"
   image: dummy.png
