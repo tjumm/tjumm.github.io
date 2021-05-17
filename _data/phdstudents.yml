@@ -38,9 +38,17 @@
   number_educ: 0
   education1:
 
-#- name: Keran Chen
-#  photo: chengkeran.jpg
-#  info: Phd student, started Sept 2021
-#  email: erichen@tju.edu.cn
-#  number_educ: 0
-#  education1:
+- name: Xu Chen
+  photo: chenxu.jpg
+  info: Phd student, started Sept 2021
+  email: lanncx@gmail.com
+  number_educ: 0
+  education1:
+
+- name: Runhua Jiang
+  photo: jiangrunhua.jpg
+  info: Phd student, started Sept 2021
+  email: ddghjikle1@gmail.com
+  number_educ: 0
+  education1:
+
