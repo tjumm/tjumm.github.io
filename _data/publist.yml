@@ -217,7 +217,7 @@
     display: AAAI 2018
   highlight: 0
 
-- title: "11. Catching the Temporal Regions-of-Interest for Video Captioning <a href='https://ziweiyang.github.io/'>(Project Page)</a>"
+- title: "11. Catching the Temporal Regions-of-Interest for Video Captioning <a href='https://tend93.github.io/'>(Project Page)</a>"
   image: dummy.png
   description: ""
   authors: Ziwei Yang, Yahong Han, Zheng Wang
@@ -568,14 +568,14 @@
     display: "Journal of Zhejiang University-SCIENCE C (Computers & Electronics), 2010 VOL.11, NO.7, pp.525-537, 2010"
   highlight: 0
 
-- title: "50. Multiple Hypergraph Ranking for Video Concept Detection"
-  image: dummy.png
-  description: ""
-  authors: Yahong Han, Jian Shao, Fei Wu, Baogang Wei
-  link:
-    url:
-    display: "Journal of Zhejiang University-SCIENCE C (Computers & Electronics), 2010 VOL.11, NO.7, pp.525-537, 2010"
-  highlight: 0
+#- title: "50. Multiple Hypergraph Ranking for Video Concept Detection"
+#  image: dummy.png
+#  description: ""
+#  authors: Yahong Han, Jian Shao, Fei Wu, Baogang Wei
+#  link:
+#    url:
+#    display: "Journal of Zhejiang University-SCIENCE C (Computers & Electronics), 2010 VOL.11, NO.7, pp.525-537, 2010"
+#  highlight: 0
 
 - title: "51. Multiple Hypergraph Clustering of Web Images by Mining Word2Image Correlations"
   image: dummy.png
