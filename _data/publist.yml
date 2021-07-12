@@ -1,3 +1,12 @@
+- title: "1. Video-to-Image Casting: A Flatting Method for Video Analysis"
+  image: dummy.png
+  description:
+  authors: Xu Chen, Chengqiang Gao, Feng Yang, Xiaohan Wang, Yi Yang, Yahong Han
+  link:
+    url:
+    display: ACM Multimedia 2021
+  highlight: 0
+
 - title: "1. Active and Compact Entropy Search for High-Dimensional Bayesian Optimization"
   image: dummy.png
   description:
