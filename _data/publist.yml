@@ -1,16 +1,16 @@
-- title: "1. Vector-Decomposed Disentanglement for Domain-Invariant Object Detection"
+- title: "1. Universal-Prototype Enhancing for Few-Shot Object Detection"
   image: dummy.png
   description:
-  authors: Aming Wu, Rui Liu, Yahong Han, Linchao Zhu, Yi Yang
+  authors: Aming Wu, Yahong Han, Linchao Zhu, Yi Yang
   link:
     url:
     display: ICCV 2021
   highlight: 0
 
-- title: "1. Universal-Prototype Enhancing for Few-Shot Object Detection"
+- title: "1. Vector-Decomposed Disentanglement for Domain-Invariant Object Detection"
   image: dummy.png
   description:
-  authors: Aming Wu, Yahong Han, Linchao Zhu, Yi Yang
+  authors: Aming Wu, Rui Liu, Yahong Han, Linchao Zhu, Yi Yang
   link:
     url:
     display: ICCV 2021
