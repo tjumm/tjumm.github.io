@@ -7,7 +7,7 @@
     display: ICCV 2021
   highlight: 0
 
-- title: "1. Vector-Decomposed Disentanglement for Domain-Invariant Object Detection"
+- title: "1. Vector-Decomposed Disentanglement for Domain-Invariant Object Detection <a href='https://github.com/AmingWu/VDD-DAOD'>(Project Page)</a>"
   image: dummy.png
   description:
   authors: Aming Wu, Rui Liu, Yahong Han, Linchao Zhu, Yi Yang
