@@ -188,8 +188,8 @@ Jump to [staff](#staff), [phd students](#phd-students), [master students](#maste
 
 ## Alumni
 
-|**Name**|**Year<br>of Graduation**|**Employer**|
-| :-- | :--: | :-- |
+|**Name**|**Year of Graduation**|**Employer**|
+| -- | :--: | -- |
 | Aming Wu | 2021 | Xidian University |
 | Xuanwei Chen | 2021 | State Grid Zhejiang Electric Power Corporation |
 | Pin Jiang | 2021 | Tencent |
