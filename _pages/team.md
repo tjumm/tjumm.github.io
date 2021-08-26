@@ -188,7 +188,7 @@ Jump to [staff](#staff), [phd students](#phd-students), [master students](#maste
 
 ## Alumni
 
-| <div align = center> **Name** </div> |<div align = center> **Year<br>of Graduation**  </div>  | <div align = center> **Employer** </div>  |
+|**Name**|**Year<br>of Graduation**|**Employer**|
 | :-- | :--: | :-- |
 | Aming Wu | 2021 | Xidian University |
 | Xuanwei Chen | 2021 | State Grid Zhejiang Electric Power Corporation |
