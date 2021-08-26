@@ -1,8 +1,8 @@
-- name: Aming Wu
-  photo: wam.jpg
-  info: PhD student, started Sept 2016
-  email: tjwam@tju.edu.cn
-  number_educ: 0
+#- name: Aming Wu
+#  photo: wam.jpg
+#  info: PhD student, started Sept 2016
+#  email: tjwam@tju.edu.cn
+#  number_educ: 0
 
 - name: Tianyang Fu
   photo: fty.png
@@ -49,6 +49,13 @@
   photo: jiangrunhua.jpg
   info: Phd student, started Sept 2021
   email: ddghjikle1@gmail.com
+  number_educ: 0
+  education1:
+
+- name: Boyuan Zhang
+  photo: zhangboyuan.jpg
+  info: Phd student, started Sept 2021
+  email: stevenzhang9577@hotmail.com
   number_educ: 0
   education1:
 

@@ -49,40 +49,40 @@
 #   number_educ: 0
 #   education1:
 
-- name: Xuanwei Chen
-  photo: cxw.jpg
-  info: Master student, 2018
-  email: xuanweichen@tju.edu.cn
-  number_educ: 0
-  education1:
-
-- name: Run Li
-  photo: lr.jpg
-  info: Master student, 2018
-  email: lirun@tju.edu.cn
-  number_educ: 0
-  education1:
-
-- name: Haitao Zhang
-  photo: zht.jpg
-  info: Master student, 2018
-  email: haitaoz@tju.edu.cn
-  number_educ: 0
-  education1:
-
-- name: Pin Jiang
-  photo: jp.jpg
-  info: Master student, 2018
-  email: jpin@tju.edu.cn
-  number_educ: 0
-  education1:
-
-- name: Jun Pu
-  photo: pujun.jpg
-  info: Master student, 2018
-  email: pujun@tju.edu.cn
-  number_educ: 0
-  education1:
+#- name: Xuanwei Chen
+#  photo: cxw.jpg
+#  info: Master student, 2018
+#  email: xuanweichen@tju.edu.cn
+#  number_educ: 0
+#  education1:
+#
+#- name: Run Li
+#  photo: lr.jpg
+#  info: Master student, 2018
+#  email: lirun@tju.edu.cn
+#  number_educ: 0
+#  education1:
+#
+#- name: Haitao Zhang
+#  photo: zht.jpg
+#  info: Master student, 2018
+#  email: haitaoz@tju.edu.cn
+#  number_educ: 0
+#  education1:
+#
+#- name: Pin Jiang
+#  photo: jp.jpg
+#  info: Master student, 2018
+#  email: jpin@tju.edu.cn
+#  number_educ: 0
+#  education1:
+#
+#- name: Jun Pu
+#  photo: pujun.jpg
+#  info: Master student, 2018
+#  email: pujun@tju.edu.cn
+#  number_educ: 0
+#  education1:
 
 - name: Fan Jia
   photo: jiafan.jpg
@@ -133,7 +133,7 @@
   number_educ: 0
   education1:
 
-- name: BenYu Dong
+- name: Benyu Dong
   photo: dongbenyv.png
   info: Master student, 2020
   email: dby1997tj@163.com
@@ -143,7 +143,7 @@
 - name: Jian Liu
   photo: liujian.jpg
   info: Master student, 2020
-  email: 1343791796@qq.com
+  email: liujian_cic@tju.edu.cn
   number_educ: 0
   education1:
  
@@ -151,5 +151,26 @@
   photo: zhoufei.jpg
   info: Master student, 2020
   email: 3016216062@tju.edu.cn
+  number_educ: 0
+  education1:
+
+- name: Yidan Fan
+  photo: fanyidan.jpg
+  info: Master student, 2021
+  email: fyd_ly@163.com
+  number_educ: 0
+  education1:
+
+- name: Tuo Li
+  photo: lituo.jpg
+  info: Master student, 2021
+  email: lit7292@gmail.com
+  number_educ: 0
+  education1:
+
+- name: Shibin Liu
+  photo: liushibin.jpg
+  info: Master student, 2021
+  email: shirben_liu@163.com
   number_educ: 0
   education1:
