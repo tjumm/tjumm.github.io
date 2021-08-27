@@ -208,7 +208,7 @@ Jump to [staff](#staff), [phd students](#phd-students), [master students](#maste
 | Shubo Ma | 2017 |||||||| China Construction Bank |
 | Chengyue Zhang | 2017 |||||||| Aibee |
 | Shichao Zhao | 2017 |||||||| Aibee |
-| Boxiang Fan | 2016 |||||||| State Grid Tianjin Electric Power Corporation |
+| Baixiang Fan | 2016 |||||||| State Grid Tianjin Electric Power Corporation |
 | Yanbin Liu | 2016 |||||||| University of Technology Sydney |
 | Qiang Guo | 2016 |||||||| Guotai Junan Securities |
 | Jianguang Zhang | 2016 |||||||| HengShui University |
