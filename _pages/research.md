@@ -26,7 +26,7 @@ Our research interests mainly include multimedia analysis and computing, compute
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/{{ member.photo }}" class="img-responsive" width="35%" style="float: left" />
   <h4>{{ member.title }}</h4>
-  <li>{{ member.author }}<br>{{ member.publish }} <br>{{ member.abstract }}</li>
+  <i>{{ member.author }}<br>{{ member.publish }} <br>{{ member.abstract }}</i>
   <ul style="overflow: hidden">
   
   {% if member.number_educ == 1 %}
@@ -56,15 +56,10 @@ Our research interests mainly include multimedia analysis and computing, compute
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+
+
 
 
