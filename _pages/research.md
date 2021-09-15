@@ -24,9 +24,9 @@ Our research interests mainly include multimedia analysis and computing, compute
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/{{ member.photo }}" class="img-responsive" width="35%" style="float: left" />
   <h4>{{ member.title }}</h4>
-  <li>{{ member.author }}<br><{{ member.publish }}> <br><{{ member.abstract }}> </li>
+  <li>{{ member.author }}<br>{{ member.publish }} <br>{{ member.abstract }}</li>
   <ul style="overflow: hidden">
   
   {% if member.number_educ == 1 %}
