@@ -15,7 +15,7 @@ Our research interests mainly include multimedia analysis and computing, compute
 ### 1. Object Dectection in Practical Scenes: Domain Adaptation and Few Samples
 
 {% assign number_printed = 0 %}
-
+{% for member in site.data.object_det %}
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
@@ -33,7 +33,7 @@ Our research interests mainly include multimedia analysis and computing, compute
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
-
+{% endfor %}
 {% assign even_odd = number_printed | modulo: 2 %}
 
 
