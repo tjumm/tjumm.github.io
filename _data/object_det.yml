@@ -10,3 +10,17 @@
   publish: IEEE TPAMI, 10.1109/TPAMI.2021.3060446, <a href='https://ieeexplore.ieee.org/abstract/document/9362301'>(Paper)</a>, <a href='https://github.com/AmingWu/IIOD'>(Project Page)</a>
   abstract: In this work, a progressive disentangled framework is  proposed to solve domain adaptive object detection for the first time. Particularly, base on disentangled learning used for feature decomposition, we devise two disentangled layers to decompose domain-invariant and domain-specific features. And the instance-invariant features are extracted based on the domain-invariant features. Finally, to enhance the disentanglement, a three-stage training mechanism including multiple loss functions is devised to optimize our model. The proposed method can achieve excellent detection performance in night and fog domain adaptive object detection in real road scenes under different weather conditions.
   number_educ: 0
+
+- title: 2 Vector-Decomposed Disentanglement for Domain-Invariant Object Detection
+  photo: vdd.png
+  author: Aming Wu, Rui Liu, Yahong Han, Linchao Zhu, Yi Yang
+  publish: ICCV 2021, <a href='https://arxiv.org/abs/2108.06685'>(Preprint)</a>, <a href='https://github.com/AmingWu/VDD-DAOD'>(Project Page)</a>
+  abstract: To improve the generalization of detectors, for domain adaptive object detection (DAOD), a novel disentangled method based on vector decomposition is proposed to disentangle domain-invariant representations from domain-specific representations for the first time. Firstly, an extractor is devised to separate domain-invariant representations from the input, which are used for extracting object proposals. Secondly, domain-specific representations are introduced as the differences between the input and domain-invariant representations. Through the difference operation, the gap between the domain-specific and domain-invariant representations is enlarged, which promotes domain-invariant representations to contain more domain-irrelevant information. The proposed method can achieve outstanding performance in the all-weather cross-domain and multi-severe weather mixed domain target detection, such as in fog, dusk rain and night rain domain adaptive object detection in real road scenes.
+  number_educ: 0
+
+- title: 3 Universal-Prototype Enhancing for Few-Shot Object Detection
+  photo: upfsod.png
+  author: Aming Wu, Yahong Han, Linchao Zhu, Yi Yang
+  publish: ICCV 2021, <a href='https://arxiv.org/abs/2103.01077'>(Preprint)</a>, <a href='https://github.com/AmingWu/UP-FSOD'>(Project Page)</a>
+  abstract: In this paper, we explore how to enhance object features with intrinsical characteristics that are universal across different object categories in few-shot object detection (FSOD). We propose a new prototype, namely universal prototype, that is learned from all object categories. Besides the advantage of characterizing invariant characteristics, the universal prototypes alleviate the impact of unbalanced object categories. After enhancing object features with the universal prototypes, we impose a consistency loss to maximize the agreement between the enhanced features and the original ones, which is beneficial for learning invariant object characteristics. Thus, we develop a new framework of few-shot object detection with universal prototypes (FSODup) that owns the merit of feature generalization towards novel objects.
+  number_educ: 0
