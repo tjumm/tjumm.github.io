@@ -1,0 +1,21 @@
+
+- title: 1 Curls & Whey: Boosting Black-Box Adversarial Attacks
+  photo: CurlsandWhey.png
+  author: Yucheng Shi, Siyu Wang, Yahong Han
+  publish: CVPR 2019, (Oral),<a href='https://openaccess.thecvf.com/content_CVPR_2019/html/Shi_Curls__Whey_Boosting_Black-Box_Adversarial_Attacks_CVPR_2019_paper.html'>(Paper)</a>, <a href='https://github.com/walegahaha/Curls-Whey'>(Project Page)</a> <br> <b> Fourth place in both </b> <a href='https://www.crowdai.org/challenges/nips-2018-adversarial-vision-challenge-untargeted-attack-track/leaderboards'>Untargeted Attack Track</a><b> and </b> <a href='https://www.crowdai.org/challenges/nips-2018-adversarial-vision-challenge-targeted-attack-track/leaderboards'>Targeted Attack Track</a> <b>of NIPS 2018 Adversarial Vision Challenge </b>
+  abstract: In this work, we propose Curls & Whey black-box attack to fix the above two defects. During Curls iteration, by combining gradient ascent and descent, we ‘curl’ up iterative trajectories to integrate more diversity and transferability into adversarial examples. Curls iteration also alleviates the diminishing marginal effect in existing iterative attacks. The Whey optimization further squeezes the ‘whey’ of noises by exploiting the robustness of adversarial perturbation. Extensive experiments on Imagenet and Tiny-Imagenet demonstrate that our approach achieves impressive decrease on noise magnitude in l2 norm. Curls & Whey attack also shows promising transferability against ensemble models as well as adversarially trained models. In addition, we extend our attack to the targeted misclassification, effectively reducing the difficulty of targeted attacks under black-box condition.
+  number_educ: 0
+
+- title: 2 Polishing Decision-based Adversarial Noise with a Customized Sampling
+  photo: PDAN.png
+  author: Yucheng Shi, Yahong Han, Qi Tian
+  publish: CVPR 2020,<a href='https://openaccess.thecvf.com/content_CVPR_2020/html/Shi_Polishing_Decision-Based_Adversarial_Noise_With_a_Customized_Sampling_CVPR_2020_paper.html'>(Paper)</a>
+  abstract: In this paper, we demonstrate the advantage of using current noise and historical queries to customize the variance and mean of sampling in boundary attack to polish adversarial noise. We further reveal the relationship between the initial noise and the compressed noise in boundary attack. We propose Customized Adversarial Boundary (CAB) attack that uses the current noise to model the sensitivity of each pixel and polish adversarial noise of each image with a customized sampling setting. On the one hand, CAB uses current noise as a prior belief to customize the multivariate normal distribution. On the other hand, CAB keeps the new samplings away from historical failed queries to avoid similar mistakes. Experimental results measured on several image classification datasets emphasizes the validity of our method.
+  number_educ: 0
+
+- title: 3 Universal-Prototype Enhancing for Few-Shot Object Detection
+  photo: aia.png
+  author: Yucheng Shi, Yahong Han, Quanxin Zhang, Xiaohui Kuang
+  publish: Pattern Recognition, <a href='https://www.sciencedirect.com/science/article/abs/pii/S0031320320301138'>(Paper)</a>
+  abstract: Current iterative attacks use a fixed step size for each noise-adding step, making further investigation into the effect of variable step size on model robustness ripe for exploration. We prove that if the upper bound of noise added to the original image is fixed, the attack effect can be improved if the step size is positively correlated with the gradient obtained at each step by querying the target model. In this paper, we propose Ada-FGSM (Adaptive FGSM), a new iterative attack that adaptively allocates step size of noises according to gradient information at each step. Improvement of success rate and accuracy decrease measured on ImageNet with multiple models emphasizes the validity of our method. We analyze the process of iterative attack by visualizing their trajectory and gradient contour, and further explain the vulnerability of deep neural networks to variable step size adversarial examples.
+  number_educ: 0

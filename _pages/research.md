@@ -22,11 +22,11 @@ Our research interests mainly include multimedia analysis and computing, compute
 <div class="row">
 {% endif %}
 
-<div class="col-md-4 clearfix">
+<div class="col-sm-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/{{ member.photo }}" class="img-responsive" width="350px" style="float: left" />
 </div>
 
-<div class="col-md-8 clearfix">
+<div class="col-sm-8 clearfix">
   <h4>{{ member.title }}</h4>
   <i>{{ member.author }}<br>{{ member.publish }} <br>{{ member.abstract }}</i>
   <ul style="overflow: hidden"></ul>
@@ -36,6 +36,52 @@ Our research interests mainly include multimedia analysis and computing, compute
 {% endfor %}
 {% assign even_odd = number_printed | modulo: 2 %}
 
+### 2. Vision-to-Language: Understanding and Reasoning
 
+{% assign number_printed = 0 %}
+{% for member in site.data.vis2lan %}
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-4 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/{{ member.photo }}" class="img-responsive" width="350px" style="float: left" />
+</div>
+
+<div class="col-sm-8 clearfix">
+  <h4>{{ member.title }}</h4>
+  <i>{{ member.author }}<br>{{ member.publish }} <br>{{ member.abstract }}</i>
+  <ul style="overflow: hidden"></ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+{% endfor %}
+{% assign even_odd = number_printed | modulo: 2 %}
+
+### 3. Adversarial Vision and Robustness: Towards AI Security
+
+{% assign number_printed = 0 %}
+{% for member in site.data.adv_vision %}
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-4 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/{{ member.photo }}" class="img-responsive" width="350px" style="float: left" />
+</div>
+
+<div class="col-sm-8 clearfix">
+  <h4>{{ member.title }}</h4>
+  <i>{{ member.author }}<br>{{ member.publish }} <br>{{ member.abstract }}</i>
+  <ul style="overflow: hidden"></ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+{% endfor %}
+{% assign even_odd = number_printed | modulo: 2 %}
 
 
