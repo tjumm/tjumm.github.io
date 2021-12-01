@@ -1,3 +1,12 @@
+- title: "1. Logic Rule Guided Attribution with Dynamic Ablation"
+  image: dummy.png
+  description:
+  authors: Jianqiao An, Yuandu Lai, Yahong Han
+  link:
+    url:
+    display: AAAI 2022
+  highlight: 0
+
 - title: "1. Anomaly Detection with Prototype-Guided Discriminative Latent Embeddings <a href='https://github.com/LanduRi/DisPro'>(Project Page)</a>"
   image: dummy.png
   description:
