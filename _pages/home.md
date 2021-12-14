@@ -14,4 +14,4 @@ We have published papers on leading journals and conferences of multimedia, comp
 If you are interested, please contact <i>[Prof. Yahong Han](http://cic.tju.edu.cn/faculty/hanyahong/)</i>
 
  **Undergraduate Courses:** <br>
-<i>[Media Computing](http://211.81.55.138:55000/?launchApp=SYNO.SDS.Drive.Application)</i>
+<i>[Advanced Computer Vision](http://211.81.55.138:55000/?launchApp=SYNO.SDS.Drive.Application)</i>
