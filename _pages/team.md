@@ -190,6 +190,11 @@ Jump to [staff](#staff), [phd students](#phd-students), [master students](#maste
 
 |**Name**|**Year of Graduation**||||||||**Employer**|
 | -- | :--: |--|--|--|--|--|--|--|--|
+| Jianqiao An | 2022 |||||||| Baidu |
+| Xinrui Li | 2022 |||||||| Baidu |
+| Yuandu Lai | 2022 |||||||| Huawei |
+| Fan Jia | 2022 |||||||| Megvii |
+| Liang Li | 2022 |||||||| The 54th Research Institute of China Electronics Technology Group Corporation |
 | Aming Wu | 2021 |||||||| Xidian University |
 | Xuanwei Chen | 2021 |||||||| State Grid Zhejiang Electric Power Corporation |
 | Pin Jiang | 2021 |||||||| Tencent |
