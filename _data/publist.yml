@@ -4,7 +4,7 @@
   authors: Yucheng Shi, Yahong Han, Qinghua Hu, Yi Yang, Qi Tian
   link:
     url:
-    display: "IEEE TPAMI"
+    display: "IEEE TPAMI, DOI: 10.1109/TPAMI.2022.3169802"
   highlight: 0
 
 - title: "1. Logic Rule Guided Attribution with Dynamic Ablation <a href='https://github.com/ChopsticksAN/Dynamic-Ablation'>(Project Page)</a>"

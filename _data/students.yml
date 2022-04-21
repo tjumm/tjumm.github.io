@@ -84,47 +84,47 @@
 #  number_educ: 0
 #  education1:
 
-- name: Fan Jia
-  photo: jiafan.jpg
-  info: Master student, 2019
-  email: kvjia@tju.edu.cn
-  number_educ: 0
-  education1:
-
-- name: Yuandu Lai
-  photo: laiyuandu.jpg
-  info: Master student, 2019
-  email: yuandulai@tju.edu.cn
-  number_educ: 0
-  education1:
-
-- name: Liang Li
-  photo: liliang2.jpg
-  info: Master student, 2019
-  email: johnli@tju.edu.cn
-  number_educ: 0
-  education1:
-
-- name: Rui Liu
-  photo: liurui.jpg
-  info: Master student, 2019
-  email: ruiliu@tju.edu.cn
-  number_educ: 0
-  education1:
-
-- name: Jianqiao An
-  photo: ajq.jpg
-  info: Master student, 2019
-  email: anjianqiao@tju.edu.cn
-  number_educ: 0
-  education1:
-
-- name: Xinrui Li
-  photo: lixinrui.jpg
-  info: Master student, 2019
-  email: lixinrui_beiyang@tju.edu.cn
-  number_educ: 0
-  education1:
+#- name: Fan Jia
+#  photo: jiafan.jpg
+#  info: Master student, 2019
+#  email: kvjia@tju.edu.cn
+#  number_educ: 0
+#  education1:
+#
+#- name: Yuandu Lai
+#  photo: laiyuandu.jpg
+#  info: Master student, 2019
+#  email: yuandulai@tju.edu.cn
+#  number_educ: 0
+#  education1:
+#
+#- name: Liang Li
+#  photo: liliang2.jpg
+#  info: Master student, 2019
+#  email: johnli@tju.edu.cn
+#  number_educ: 0
+#  education1:
+#
+#- name: Rui Liu
+#  photo: liurui.jpg
+#  info: Master student, 2019
+#  email: ruiliu@tju.edu.cn
+#  number_educ: 0
+#  education1:
+#
+#- name: Jianqiao An
+#  photo: ajq.jpg
+#  info: Master student, 2019
+#  email: anjianqiao@tju.edu.cn
+#  number_educ: 0
+#  education1:
+#
+#- name: Xinrui Li
+#  photo: lixinrui.jpg
+#  info: Master student, 2019
+#  email: lixinrui_beiyang@tju.edu.cn
+#  number_educ: 0
+#  education1:
 
 - name: Kunhong Wu
   photo: wukunhong.jpg
