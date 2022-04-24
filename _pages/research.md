@@ -110,11 +110,26 @@ Our research interests mainly include multimedia analysis and computing, compute
 {% endif %}
 
 <div class="col-md-4 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/adv/CISA.png" class="img-responsive" width="350px" style="float: left" />
+</div>
+
+<div class="col-md-8 clearfix">
+  <h5><b>1 Query-efficient Black-box Adversarial Attack with Customized Iteration and Sampling</b></h5>
+  <p>Yucheng Shi, Yahong Han, Qinghua Hu, Yi Yang, Qi Tian <br>IEEE TPAMI, DOI:10.1109/TPAMI.2022.3169802, <a href='https://shiyuchengtju.github.io'>(Project Page)</a> <br>In this work, a new framework bridging transfer-based and decision-based attacks is proposed for query-efficient black-box adversarial attack. We reveal the relationship between current noise and variance of sampling, the monotonicity of noise compression in decision-based attack, as well as the influence of transition function on the convergence of decision-based attack. Guided by the new framework and theoretical analysis, we propose a black-box adversarial attack named Customized Iteration and Sampling Attack (CISA). CISA estimates the distance from nearby decision boundary to set the stepsize, and uses a dual-direction iterative trajectory to find the intermediate adversarial example. Based on the intermediate adversarial example, CISA conducts customized sampling according to the noise sensitivity of each pixel to further compress noise, and relaxes the state transition function to achieve higher query efficiency.</p>
+  <ul style="overflow: hidden"></ul>
+</div>
+
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-md-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/adv/CurlsandWhey.png" class="img-responsive" width="350px" style="float: left" />
 </div>
 
 <div class="col-md-8 clearfix">
-  <h5><b>1 Curls & Whey: Boosting Black-Box Adversarial Attacks</b></h5>
+  <h5><b>2 Curls & Whey: Boosting Black-Box Adversarial Attacks</b></h5>
   <p>Yucheng Shi, Siyu Wang, Yahong Han <br>CVPR 2019, (Oral),<a href='https://openaccess.thecvf.com/content_CVPR_2019/html/Shi_Curls__Whey_Boosting_Black-Box_Adversarial_Attacks_CVPR_2019_paper.html'>(Paper)</a>, <a href='https://github.com/walegahaha/Curls-Whey'>(Project Page)</a> <br> <b> Fourth place in both </b> <a href='https://www.crowdai.org/challenges/nips-2018-adversarial-vision-challenge-untargeted-attack-track/leaderboards'>Untargeted Attack Track</a><b> and </b> <a href='https://www.crowdai.org/challenges/nips-2018-adversarial-vision-challenge-targeted-attack-track/leaderboards'>Targeted Attack Track</a> <b>of NIPS 2018 Adversarial Vision Challenge </b> <br>In this work, we propose Curls & Whey black-box attack to fix the above two defects. During Curls iteration, by combining gradient ascent and descent, we ‘curl’ up iterative trajectories to integrate more diversity and transferability into adversarial examples. Curls iteration also alleviates the diminishing marginal effect in existing iterative attacks. The Whey optimization further squeezes the ‘whey’ of noises by exploiting the robustness of adversarial perturbation. Extensive experiments on Imagenet and Tiny-Imagenet demonstrate that our approach achieves impressive decrease on noise magnitude in l2 norm. Curls & Whey attack also shows promising transferability against ensemble models as well as adversarially trained models. In addition, we extend our attack to the targeted misclassification, effectively reducing the difficulty of targeted attacks under black-box condition.</p>
   <ul style="overflow: hidden"></ul>
 </div>
