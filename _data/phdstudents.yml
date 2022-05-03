@@ -4,11 +4,11 @@
 #  email: tjwam@tju.edu.cn
 #  number_educ: 0
 
-- name: Tianyang Fu
-  photo: fty.png
-  info: PhD student, started Sept 2017
-  email: tianyang_fu@tju.edu.cn
-  number_educ: 0
+#- name: Tianyang Fu
+#  photo: fty.png
+#  info: PhD student, started Sept 2017
+#  email: tianyang_fu@tju.edu.cn
+#  number_educ: 0
 
 - name: Yucheng Shi
   photo: syc.jpg
@@ -17,12 +17,12 @@
   number_educ: 0
   education1:
 
-- name: Zhirui Wang
-  photo: wangzhirui.png
-  info: Phd student, started Sept 2020
-  email: wangzhirui@tju.edu.cn
-  number_educ: 0
-  education1:
+#- name: Zhirui Wang
+#  photo: wangzhirui.png
+#  info: Phd student, started Sept 2020
+#  email: wangzhirui@tju.edu.cn
+#  number_educ: 0
+#  education1:
 
 - name: Yikang Wei
   photo: weiyikang.jpg
@@ -59,3 +59,9 @@
   number_educ: 0
   education1:
 
+- name: Jie Wang
+  photo: wangjie.png
+  info: Phd student, started Sept 2022
+  email: wangjie_neu@163.com
+  number_educ: 0
+  education1:
