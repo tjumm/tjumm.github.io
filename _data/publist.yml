@@ -1,3 +1,12 @@
+- title: "1. Action Keypoint Network for Efficient Video Recognition"
+  image: dummy.png
+  description:
+  authors: Xu Chen, Yahong Han, Xiaohan Wang, Yifan Sun, Yi Yang
+  link:
+    url:
+    display: "IEEE TIP"
+  highlight: 0
+
 - title: "1. Query-efficient Black-box Adversarial Attack with Customized Iteration and Sampling <a href='https://shiyuchengtju.github.io'>(Project Page)</a> <a href='https://ieeexplore.ieee.org/document/9762566'>(Early Access)</a>"
   image: dummy.png
   description:
