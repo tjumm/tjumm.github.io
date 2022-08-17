@@ -1,3 +1,12 @@
+- title: "1. Curiosity-Driven Salient Object Detection with Fragment Attention"
+  image: dummy.png
+  description:
+  authors: Zheng Wang, Pengzhi Wang, Yahong Han, Xue Zhang, Meijun Sun, Qi Tian
+  link:
+    url:
+    display: IEEE TIP
+  highlight: 0
+
 - title: "1. Action Keypoint Network for Efficient Video Recognition"
   image: dummy.png
   description:
