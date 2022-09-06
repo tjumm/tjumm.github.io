@@ -12,4 +12,6 @@ We have published papers on leading journals and conferences of multimedia, comp
 
  **We are  looking for passionate new PhD students and Master students to join the team !** <br>
 If you are interested, please contact <i>[Prof. Yahong Han](http://cic.tju.edu.cn/faculty/hanyahong/)</i>
-
+ 
+ **Undergraduate courses:** <br>
+<i>[Media Computing](http://211.81.55.138:55000/?launchApp=SYNO.SDS.Drive.Application)</i>
