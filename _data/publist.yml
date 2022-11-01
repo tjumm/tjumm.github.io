@@ -1,3 +1,12 @@
+- title: "1. Multi-source Collaborative Contrastive Learning for Decentralized Domain Adaptation"
+  image: dummy.png
+  description:
+  authors: Yikang Wei, Liu Yang, Yahong Han, Qinghua Hu
+  link:
+    url:
+    display: IEEE TCSVT
+  highlight: 0
+
 - title: "1. Decision-based Black-box Attack Against Vision Transformers via Patch-wise Adversarial Removal <a href='https://github.com/shiyuchengTJU/PAR'>(Project Page)</a>"
   image: dummy.png
   description:
