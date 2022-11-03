@@ -4,7 +4,7 @@
   authors: Yikang Wei, Liu Yang, Yahong Han, Qinghua Hu
   link:
     url:
-    display: IEEE TCSVT
+    display: "IEEE TCSVT, DOI: 10.1109/TCSVT.2022.3219893"
   highlight: 0
 
 - title: "1. Decision-based Black-box Attack Against Vision Transformers via Patch-wise Adversarial Removal <a href='https://github.com/shiyuchengTJU/PAR'>(Project Page)</a>"
