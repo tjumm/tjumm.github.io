@@ -73,6 +73,13 @@
   number_educ: 0
   education1:
 
+- name: Jiaxu Li
+  photo: lijiaxu.jpg
+  info: Phd student, started Sept 2023
+  email: ljx2020@tju.edu.cn
+  number_educ: 0
+  education1:
+
 - name: Jin Wang (Peng Cheng Laboratory)
   photo: wangjin.jpg
   info: Phd student, started Sept 2019
