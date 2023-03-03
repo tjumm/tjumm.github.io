@@ -1,3 +1,12 @@
+- title: "1. Reliable and Interpretable Personalized Federated Learning"
+  image: dummy.png
+  description:
+  authors: Zixuan Qin, Liu Yang, Qilong Wang, Yahong Han, Qinghua Hu
+  link:
+    url:
+    display: CVPR 2023
+  highlight: 0
+
 - title: "1. Multi-source Collaborative Contrastive Learning for Decentralized Domain Adaptation"
   image: dummy.png
   description:
