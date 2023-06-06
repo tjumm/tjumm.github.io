@@ -1,3 +1,12 @@
+- title: "1. Source-free and Black-box Domain Adaptation via Distributionally Adversarial Training"
+  image: dummy.png
+  description:
+  authors: Yucheng Shi, Kunhong Wu, Yahong Han, Yunfeng Shao, Bingshuai Li, Fei Wu
+  link:
+    url:
+    display: Pattern Recognition
+  highlight: 0
+
 - title: "1. Reliable and Interpretable Personalized Federated Learning"
   image: dummy.png
   description:
