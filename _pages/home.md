@@ -11,7 +11,7 @@ Welcome to the Group of Multimedia (MM) @ College of Intelligence and Computing,
 We have published papers on leading journals and conferences of multimedia, computer vision, machine learning, and artificial intelligence, such as IEEE TPAMI, IEEE TIP, IEEE TKDE, IEEE TNNLS, IEEE TMM, IEEE TCSVT, IEEE TCYB, ACM MM, CVPR, ICCV, ECCV, NeurIPS, AAAI, IJCAI, etc. Our paper was awarded "Best Paper Finalist" of ACM Multimedia 2017. We also got winner records in main technical challenges such as the Champion of the Large Scale Movie Description Challenge (LSMDC 2017, joint with ICCV 2017) and the Runner-up of the 2nd MSR Large-Scale Video to Language Challenge (Honorable Mention Award of Grand Challenge @ ACM MM 2017).
 
  **We are  looking for passionate new PhD students and Master students to join the team !** <br>
-If you are interested, please contact <i>[Prof. Yahong Han](http://cic.tju.edu.cn/faculty/hanyahong/)</i>
+If you are interested, please contact <i>[Prof. Yahong Han](http://cic.tju.edu.cn/faculty/hanyahong/index.html)</i>
  
  **Undergraduate courses:** <br>
 <i>[Media Computing](http://211.81.55.138:55000/?launchApp=SYNO.SDS.Drive.Application)</i>
