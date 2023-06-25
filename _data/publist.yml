@@ -1,3 +1,12 @@
+- title: "1. Camouflaged Object Segmentation based on Matching-Recognition-Refinement Network"
+  image: dummy.png
+  description:
+  authors: Xinyu Yan,  Meijun Sun, Yahong Han,  Zheng Wang
+  link:
+    url:
+    display: "IEEE TNNLS"
+  highlight: 0
+
 - title: "1. Source-free and Black-box Domain Adaptation via Distributionally Adversarial Training <a href='https://github.com/shiyuchengTJU/BPDA'>(Project Page)</a>"
   image: dummy.png
   description:
