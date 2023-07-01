@@ -4,7 +4,7 @@
   authors: Xinyu Yan,  Meijun Sun, Yahong Han,  Zheng Wang
   link:
     url:
-    display: "IEEE TNNLS"
+    display: "IEEE TNNLS, DOI: 10.1109/TNNLS.2023.3291595"
   highlight: 0
 
 - title: "1. Source-free and Black-box Domain Adaptation via Distributionally Adversarial Training <a href='https://github.com/shiyuchengTJU/BPDA'>(Project Page)</a>"
