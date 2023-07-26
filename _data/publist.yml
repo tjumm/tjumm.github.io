@@ -1,3 +1,30 @@
+- title: "1. OraclePoints: A Hybrid Neural Representation for Oracle Character"
+  image: dummy.png
+  description:
+  authors: Runhua Jiang, Yongge Liu, Boyuan Zhang, Xu Chen, Deng Li, Yahong Han
+  link:
+    url:
+    display: ACM Multimedia 2023
+  highlight: 0
+
+- title: "1. Saliency Prototype for RGB-D and RGB-T Salient Object Detection"
+  image: dummy.png
+  description:
+  authors: Zihao Zhang, Jie Wang, Yahong Han
+  link:
+    url:
+    display: ACM Multimedia 2023
+  highlight: 0
+
+- title: "1. Uncertainty-Aware Variate Decomposition for Self-supervised Blind Image Deblurring"
+  image: dummy.png
+  description:
+  authors: Runhua Jiang, Yahong Han
+  link:
+    url:
+    display: ACM Multimedia 2023
+  highlight: 0
+
 - title: "1. Camouflaged Object Segmentation based on Matching-Recognition-Refinement Network"
   image: dummy.png
   description:
