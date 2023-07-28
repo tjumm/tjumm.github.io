@@ -126,12 +126,12 @@
 #  number_educ: 0
 #  education1:
 
-- name: Kunhong Wu
-  photo: wukunhong.jpg
-  info: Master student, 2020
-  email: 3016216121@tju.edu.cn
-  number_educ: 0
-  education1:
+#- name: Kunhong Wu
+#  photo: wukunhong.jpg
+#  info: Master student, 2020
+#  email: 3016216121@tju.edu.cn
+#  number_educ: 0
+#  education1:
 
 #- name: Benyu Dong
 #  photo: dongbenyv.png
@@ -140,19 +140,19 @@
 #  number_educ: 0
 #  education1:
 
-- name: Jian Liu
-  photo: liujian.jpg
-  info: Master student, 2020
-  email: liujian_cic@tju.edu.cn
-  number_educ: 0
-  education1:
+#- name: Jian Liu
+#  photo: liujian.jpg
+#  info: Master student, 2020
+#  email: liujian_cic@tju.edu.cn
+#  number_educ: 0
+#  education1:
  
-- name: Fei Zhou
-  photo: zhoufei.jpg
-  info: Master student, 2020
-  email: 3016216062@tju.edu.cn
-  number_educ: 0
-  education1:
+#- name: Fei Zhou
+#  photo: zhoufei.jpg
+#  info: Master student, 2020
+#  email: 3016216062@tju.edu.cn
+#  number_educ: 0
+#  education1:
 
 - name: Yidan Fan
   photo: fanyidan.jpg
@@ -186,5 +186,19 @@
   photo: zhangzihao.png
   info: Master student, 2022
   email: zhangzihao2490@163.com
+  number_educ: 0
+  education1:
+
+- name: Shukuan Yuan
+  photo: yuanshukuan.jpg
+  info: Master student, 2023
+  email: skyuan@tju.edu.cn
+  number_educ: 0
+  education1:
+
+- name: Chaoqi Gao
+  photo: gaochaoqi.jpg
+  info: Master student, 2023
+  email: gaochaoqi_tju@163.com
   number_educ: 0
   education1:
