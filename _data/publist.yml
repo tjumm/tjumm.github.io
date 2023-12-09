@@ -1,3 +1,12 @@
+- title: "1. Multi-Source Collaborative Gradient Discrepancy Minimization for Federated Domain Generalization"
+  image: dummy.png
+  description:
+  authors: Yikang Wei, Yahong Han
+  link:
+    url:
+    display: AAAI 2024
+  highlight: 0
+
 - title: "1. OraclePoints: A Hybrid Neural Representation for Oracle Character"
   image: dummy.png
   description:
