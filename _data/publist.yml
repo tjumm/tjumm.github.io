@@ -1,3 +1,12 @@
+- title: "1. Cascade & Allocate: A Cross-structure Adversarial Attack against Models Fusing Vision and Language"
+  image: dummy.png
+  description:
+  authors: Boyuan Zhang, Yucheng Shi, Yahong Han, Qinghua Hu, Weiping Ding
+  link:
+    url:
+    display: "Information Fusion, DOI: https://doi.org/10.1016/j.inffus.2023.102179"
+  highlight: 0
+
 - title: "1. Multi-Source Collaborative Gradient Discrepancy Minimization for Federated Domain Generalization"
   image: dummy.png
   description:
