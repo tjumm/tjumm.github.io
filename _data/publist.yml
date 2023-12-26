@@ -1,3 +1,12 @@
+- title: "1. Joint Correcting and Refinement for Balanced Low-Light Image Enhancement"
+  image: dummy.png
+  description:
+  authors: Nana Yu, Hong Shi, Yahong Han
+  link:
+    url:
+    display: "IEEE TMM"
+  highlight: 0
+
 - title: "1. Cascade & Allocate: A Cross-structure Adversarial Attack against Models Fusing Vision and Language"
   image: dummy.png
   description:
