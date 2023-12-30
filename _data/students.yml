@@ -161,31 +161,24 @@
   number_educ: 0
   education1:
 
-- name: Tuo Li
-  photo: lituo.jpg
-  info: Master student, 2021
-  email: lituo@tju.edu.cn
-  number_educ: 0
-  education1:
+#- name: Tuo Li
+#  photo: lituo.jpg
+#  info: Master student, 2021
+#  email: lituo@tju.edu.cn
+#  number_educ: 0
+#  education1:
 
-- name: Shibin Liu
-  photo: liushibin.jpg
-  info: Master student, 2021
-  email: shibinliu@tju.edu.cn
-  number_educ: 0
-  education1:
+#- name: Shibin Liu
+#  photo: liushibin.jpg
+#  info: Master student, 2021
+#  email: shibinliu@tju.edu.cn
+#  number_educ: 0
+#  education1:
 
 - name: Xinmin Liu
   photo: liuxinmin.png
   info: Master student, 2022
   email: 15503207069@163.com
-  number_educ: 0
-  education1:
-
-- name: Zihao Zhang
-  photo: zhangzihao.png
-  info: Master student, 2022
-  email: zhangzihao2490@163.com
   number_educ: 0
   education1:
 
@@ -199,6 +192,20 @@
 - name: Chaoqi Gao
   photo: gaochaoqi.jpg
   info: Master student, 2023
-  email: gaochaoqi_tju@163.com
+  email: gaochaoqi@tju.edu.cn
+  number_educ: 0
+  education1:
+
+- name: Tingyu Zheng
+  photo: zhengtingyu.jpg
+  info: Master student, 2024
+  email: 13831529798@163.com
+  number_educ: 0
+  education1:
+
+- name: Yang Li
+  photo: liyang.jpg
+  info: Master student, 2024
+  email: liyang1389@163.com
   number_educ: 0
   education1:

@@ -190,6 +190,12 @@ Jump to [staff](#staff), [phd students](#phd-students), [master students](#maste
 
 |**Name**|**Year of Graduation**||||||||**Employer**|
 | -- | :--: |--|--|--|--|--|--|--|--|
+| Yucheng Shi | 2023 |||||||| Zhengzhou University |
+| Tuo Li | 2024 |||||||| Baidu |
+| Shibin Liu  | 2024 |||||||| King Base |
+| Kunhong Wu | 2023 |||||||| China Resources Bank of Zhuhai |
+| Jian Liu | 2023 |||||||| China Mobile Communications Corporation |
+| Fei Zhou | 2023 |||||||| Meituan |
 | Jianqiao An | 2022 |||||||| Baidu |
 | Xinrui Li | 2022 |||||||| Baidu |
 | Yuandu Lai | 2022 |||||||| Huawei |

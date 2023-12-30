@@ -10,12 +10,12 @@
 #  email: tianyang_fu@tju.edu.cn
 #  number_educ: 0
 
-- name: Yucheng Shi
-  photo: syc.jpg
-  info: Phd student, started Sept 2019
-  email: yucheng@tju.edu.cn
-  number_educ: 0
-  education1:
+#- name: Yucheng Shi
+#  photo: syc.jpg
+#  info: Phd student, started Sept 2019
+#  email: yucheng@tju.edu.cn
+#  number_educ: 0
+#  education1:
 
 #- name: Zhirui Wang
 #  photo: wangzhirui.png
@@ -62,14 +62,14 @@
 - name: Jie Wang
   photo: wangjie.png
   info: Phd student, started Sept 2022
-  email: wangjie_neu@163.com
+  email: wangjiexy@tju.edu.cn
   number_educ: 0
   education1:
 
 - name: Nana Yu
   photo: yunana.jpg
   info: Phd student, started Sept 2022
-  email: yunana9635@163.com
+  email: yunana@tju.edu.cn
   number_educ: 0
   education1:
 
@@ -83,7 +83,14 @@
 - name: Mingshi Yan
   photo: yanmingshi.jpg
   info: Phd student, started Sept 2023
-  email: neo.ms.yan@gmail.com
+  email: mingshiyan@tju.edu.cn
+  number_educ: 0
+  education1:
+
+- name: Zihao Zhang
+  photo: zhangzihao.png
+  info: Phd student, started Sept 2024
+  email: zhangzihao2490@tju.edu.cn
   number_educ: 0
   education1:
 
