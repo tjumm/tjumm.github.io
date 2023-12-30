@@ -1,3 +1,12 @@
+- title: "1. Weakly-Supervised Video Anomaly Detection with Snippet Anomalous Attention"
+  image: dummy.png
+  description:
+  authors: Yidan Fan, Yongxin Yu, Wenhuan Lu, Yahong Han
+  link:
+    url:
+    display: "IEEE TCSVT"
+  highlight: 0
+
 - title: "1. Joint Correcting and Refinement for Balanced Low-Light Image Enhancement"
   image: dummy.png
   description:
