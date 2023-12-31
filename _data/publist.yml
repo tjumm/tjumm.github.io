@@ -13,7 +13,7 @@
   authors: Nana Yu, Hong Shi, Yahong Han
   link:
     url:
-    display: "IEEE TMM"
+    display: "IEEE TMM, DOI: 10.1109/TMM.2023.3348333"
   highlight: 0
 
 - title: "1. Cascade & Allocate: A Cross-structure Adversarial Attack against Models Fusing Vision and Language"
