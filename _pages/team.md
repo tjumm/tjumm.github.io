@@ -209,13 +209,13 @@ Jump to [staff](#staff), [phd students](#phd-students), [master students](#maste
 | Xiaomeng Song | 2020 |||||||| ByteDance |
 | Qiang Wang | 2020 |||||||| Bank of China |
 | Huiyun Wang | 2019 |||||||| Tianjin Urban Planning and Design Research Institute |
-| Bo Wang | 2019 |||||||| Beijing Institute of Spacecraft System Engineering |
+| Bo Wang | 2019 |||||||| Beijing Jiaotong University |
 | Kun Gao | 2018 |||||||| Puyang Commission for Discipline Inspection |
 | Yuanyuan Ge | 2018 |||||||| FOXCONN |
 | Nan Song | 2018 |||||||| No.707 Research Institute of China Shipbuilding Industry Corporation |
-| Youjiang Xu | 2018 |||||||| Baidu |
+| Youjiang Xu | 2018 |||||||| Douyin |
 | Ziwei Yang | 2018 |||||||| HIKVISION |
-| Guang Li | 2017 |||||||| University of Technology Sydney |
+| Guang Li | 2017 |||||||| Xiaomi |
 | Shubo Ma | 2017 |||||||| China Construction Bank |
 | Chengyue Zhang | 2017 |||||||| Aibee |
 | Shichao Zhao | 2017 |||||||| Aibee |
