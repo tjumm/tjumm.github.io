@@ -1,3 +1,12 @@
+- title: "1. Prompt-Driven Dynamic Object-Centric Learning for Single Domain Generalization (Code)</a>"
+  image: dummy.png
+  description:
+  authors: Deng Li, Aming Wu, Yaowei Wang, Yahong Han
+  link:
+    url:
+    display: "CVPR 2024"
+  highlight: 0
+
 - title: "1. Weakly-Supervised Video Anomaly Detection with Snippet Anomalous Attention <a href='https://github.com/YukiFan/vad-weakly'>(Code)</a>"
   image: dummy.png
   description:
