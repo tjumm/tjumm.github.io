@@ -1,3 +1,12 @@
+- title: "1. The Metric System and Its Completeness of Adversarial Robustness Evaluation (In Chinese, 对抗鲁棒性评估的指标体系及其完备性)"
+  image: dummy.png
+  description:
+  authors: Yucheng Shi, Yahong Han
+  link:
+    url:
+    display: "Journal of Software (软件学报)"
+  highlight: 0
+
 - title: "1. Prompt-Driven Dynamic Object-Centric Learning for Single Domain Generalization <a href='https://github.com/Daniel00008/PDOC'>(Code)</a>"
   image: dummy.png
   description:
