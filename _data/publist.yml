@@ -1,3 +1,12 @@
+- title: "1. Behavior-Contextualized Item Preference Network for Multi-Behavior Recommendation "
+  image: dummy.png
+  description:
+  authors: Mingshi Yan, Fan Liu, Jing Sun, Fuming Sun, Zhiyong Cheng, Yahong Han
+  link:
+    url:
+    display: "SIGIR 2024"
+  highlight: 0
+
 - title: "1. Generalizing to Out-of-Sample Degradations via Model Reprogramming <a href='https://github.com/ddghjikle/Out-of-sample-restoration'>(Code)</a>"
   image: dummy.png
   description:
