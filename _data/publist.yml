@@ -1,10 +1,10 @@
-- title: "1. Degradation-removed Multiscale Fusion for Low-Light Salient Object Detection"
+- title: "1. Degradation-removed Multiscale Fusion for Low-Light Salient Object Detection <a href='https://github.com/ynn1030/YLLSOD'>(Code)</a>"
   image: dummy.png
   description:
   authors: Nana Yu, Jie Wang, Hong Shi, Zihao Zhang, Yahong Han
   link:
     url:
-    display: "Pattern Recognition"
+    display: "Pattern Recognition, DOI:10.1016/j.patcog.2024.110650"
   highlight: 0
 
 - title: "1. Behavior-Contextualized Item Preference Network for Multi-Behavior Recommendation <a href='https://github.com/MingshiYan/BIPN'>(Code)</a>"
