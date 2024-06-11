@@ -154,12 +154,12 @@
 #  number_educ: 0
 #  education1:
 
-- name: Yidan Fan
-  photo: fanyidan.jpg
-  info: Master student, 2021
-  email: yidan_fan@tju.edu.cn
-  number_educ: 0
-  education1:
+#- name: Yidan Fan
+#  photo: fanyidan.jpg
+#  info: Master student, 2021
+#  email: yidan_fan@tju.edu.cn
+#  number_educ: 0
+#  education1:
 
 #- name: Tuo Li
 #  photo: lituo.jpg
@@ -207,5 +207,12 @@
   photo: liyang.jpg
   info: Master student, 2024
   email: liyang1389@163.com
+  number_educ: 0
+  education1:
+
+- name: Yi Shen
+  photo: shenyi.png
+  info: Master student, 2024
+  email: yshen9_9@outlook.com
   number_educ: 0
   education1:
