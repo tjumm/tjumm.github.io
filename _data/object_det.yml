@@ -19,3 +19,10 @@
   publish: ICCV 2021, <a href='https://arxiv.org/abs/2103.01077'>(Preprint)</a>, <a href='https://github.com/AmingWu/UP-FSOD'>(Project Page)</a>
   abstract: In this paper, we explore how to enhance object features with intrinsical characteristics that are universal across different object categories in few-shot object detection (FSOD). We propose a new prototype, namely universal prototype, that is learned from all object categories. Besides the advantage of characterizing invariant characteristics, the universal prototypes alleviate the impact of unbalanced object categories. After enhancing object features with the universal prototypes, we impose a consistency loss to maximize the agreement between the enhanced features and the original ones, which is beneficial for learning invariant object characteristics. Thus, we develop a new framework of few-shot object detection with universal prototypes (FSODup) that owns the merit of feature generalization towards novel objects.
   number_educ: 0
+
+- title: 4 Prompt-Driven Dynamic Object-Centric Learning for Single Domain Generalization
+  photo: pdoc.png
+  author: Deng Li, Aming Wu, Yaowei Wang, Yahong Han
+  publish: CVPR 2024, <a href='http://arxiv.org/abs/2402.18447'>(Preprint)</a>, <a href='https://github.com/Daniel00008/PDOC'>(Project Page)</a>
+  abstract: In this paper, we propose a dynamic object-centric perception network based on prompt learning, aiming to adapt to the variations in image complexity. Specifically, we propose an object-centric gating module based on prompt learning to focus attention on the object-centric features guided by the various scene prompts. Then, with the object-centric gating masks, the dynamic selective module dynamically selects highly correlated feature regions in both spatial and channel dimensions enabling the model to adaptively perceive object-centric relevant features, thereby enhancing the generalization capability. Experimental results on single-domain generalization tasks in image classification and object detection demonstrate the effectiveness and versatility of our proposed method.
+  number_educ: 0
