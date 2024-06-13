@@ -35,7 +35,7 @@ Our research interests mainly include multimedia analysis and computing, compute
 </div>
 
 <div class="col-md-8 clearfix">
-  <h5><b>1 Instance-Invariant Domain Adaptive Object Detection via Progressive Disentanglement</b></h5>
+  <h5><b>2 Instance-Invariant Domain Adaptive Object Detection via Progressive Disentanglement</b></h5>
   <p>Aming Wu, Yahong Han, Linchao Zhu, Yi Yang<br>IEEE TPAMI, DOI:10.1109/TPAMI.2021.3060446, <a href='https://ieeexplore.ieee.org/abstract/document/9362301'>(Paper)</a>, <a href='https://github.com/AmingWu/IIOD'>(Project Page)</a> <br>In this work, a progressive disentangled framework is  proposed to solve domain adaptive object detection for the first time. Particularly, base on disentangled learning used for feature decomposition, we devise two disentangled layers to decompose domain-invariant and domain-specific features. And the instance-invariant features are extracted based on the domain-invariant features. Finally, to enhance the disentanglement, a three-stage training mechanism including multiple loss functions is devised to optimize our model. The proposed method can achieve excellent detection performance in night and fog domain adaptive object detection in real road scenes under different weather conditions.</p>
   <ul style="overflow: hidden"></ul>
 </div>
