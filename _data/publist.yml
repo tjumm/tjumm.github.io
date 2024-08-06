@@ -4,7 +4,7 @@
   authors: Jie Wang, Zihao Zhang, Nana Yu, Yahong Han
   link:
     url:
-    display: "Pattern Recognition"
+    display: "Pattern Recognition, DOI: 10.1016/j.patcog.2024.110868"
   highlight: 0
 
 - title: "1. Degradation-removed Multiscale Fusion for Low-Light Salient Object Detection <a href='https://github.com/ynn1030/YLLSOD'>(Code)</a>"
