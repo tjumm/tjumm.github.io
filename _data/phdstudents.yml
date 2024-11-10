@@ -108,9 +108,9 @@
   number_educ: 0
   education1:
 
-- name: Shuai Zhao (Beijing Academy of Artificial Intelligence)
-  photo: zhaoshuai.jpg
-  info: Phd student, started Sept 2022
-  email: zhaoshuai@baai.ac.cn
-  number_educ: 0
-  education1:
+# - name: Shuai Zhao (Beijing Academy of Artificial Intelligence)
+#   photo: zhaoshuai.jpg
+#   info: Phd student, started Sept 2022
+#   email: zhaoshuai@baai.ac.cn
+#   number_educ: 0
+#   education1:
