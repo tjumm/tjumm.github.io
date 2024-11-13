@@ -1,3 +1,12 @@
+- title: "1. Visual-Language Pre-training Based on Multi-entity Alignment (In Chinese, 基于多元实体对齐的视觉-语言多模态预训练)"
+  image: dummy.png
+  description:
+  authors: Deng Li, Aming Wu, Yahong Han
+  link:
+    url:
+    display: "Journal of Software (软件学报)"
+  highlight: 0
+
 - title: "1. Progressive Expansion for Semi-supervised Bi-modal Salient Object Detection <a href='https://github.com/WJ-CV/PENet-Pattern-Recognition'>(Code)</a>"
   image: dummy.png
   description:
