@@ -1,3 +1,21 @@
+- title: "1. Single-group Generalized RGB and RGB-D Co-Salient Object Detection"
+  image: dummy.png
+  description:
+  authors: Jie Wang, Nana Yu, Zihao Zhang, and Yahong Han
+  link:
+    url:
+    display: "IEEE TCSVT"
+  highlight: 0
+
+- title: "1. Explicitly Disentangling and Exclusively Fusing for Semi-supervised Bi-modal Salient Object Detection"
+  image: dummy.png
+  description:
+  authors: Jie Wang, Xiangji Kong, Nana Yu, Zihao Zhang, and Yahong Han
+  link:
+    url:
+    display: "IEEE TCSVT"
+  highlight: 0
+
 - title: "1. Visual-Language Pre-training Based on Multi-entity Alignment (In Chinese, 基于多元实体对齐的视觉-语言多模态预训练)"
   image: dummy.png
   description:
