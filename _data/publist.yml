@@ -1,19 +1,29 @@
+- title: "1. WiViPose: A Video-aided Wi-Fi Framework for Environment-Independent 3D Human Pose Estimation"
+  image: dummy.png
+  description:
+  authors: Lei Zhang, Haoran Ning, Jiaxin Tang, Zhenxiang Chen, Yapoing Zhong, Yahong Han
+  link:
+    url:
+    display: "IEEE TMM"
+  highlight: 0
+
+
 - title: "1. Single-group Generalized RGB and RGB-D Co-Salient Object Detection"
   image: dummy.png
   description:
-  authors: Jie Wang, Nana Yu, Zihao Zhang, and Yahong Han
+  authors: Jie Wang, Nana Yu, Zihao Zhang, Yahong Han
   link:
     url:
-    display: "IEEE TCSVT"
+    display: "IEEE TCSVT, DOI: 10.1109/TCSVT.2024.3514872"
   highlight: 0
 
 - title: "1. Explicitly Disentangling and Exclusively Fusing for Semi-supervised Bi-modal Salient Object Detection"
   image: dummy.png
   description:
-  authors: Jie Wang, Xiangji Kong, Nana Yu, Zihao Zhang, and Yahong Han
+  authors: Jie Wang, Xiangji Kong, Nana Yu, Zihao Zhang, Yahong Han
   link:
     url:
-    display: "IEEE TCSVT"
+    display: "IEEE TCSVT, DOI: 10.1109/TCSVT.2024.3514897"
   highlight: 0
 
 - title: "1. Visual-Language Pre-training Based on Multi-entity Alignment (In Chinese, 基于多元实体对齐的视觉-语言多模态预训练)"
