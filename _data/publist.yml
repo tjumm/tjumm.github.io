@@ -1,4 +1,13 @@
-- title: "1. WiViPose: A Video-aided Wi-Fi Framework for Environment-Independent 3D Human Pose Estimation"
+- title: "1. A Static-Dynamic Composition Framework for Efficient Action Recognition <a href='https://github.com/LannCX/SDCOM'>(Code)</a>"
+  image: dummy.png
+  description:
+  authors: Xu Chen, Yahong Han, Changlin Li, Xiaojun Chang, Yifan Sun, Yi Yang
+  link:
+    url:
+    display: "IEEE TNNLS"
+  highlight: 0
+
+  - title: "1. WiViPose: A Video-aided Wi-Fi Framework for Environment-Independent 3D Human Pose Estimation"
   image: dummy.png
   description:
   authors: Lei Zhang, Haoran Ning, Jiaxin Tang, Zhenxiang Chen, Yapoing Zhong, Yahong Han
