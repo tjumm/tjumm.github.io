@@ -16,7 +16,7 @@
     display: "IEEE TMM"
   highlight: 0
 
-- title: "1. Single-group Generalized RGB and RGB-D Co-Salient Object Detection"
+- title: "1. Single-group Generalized RGB and RGB-D Co-Salient Object Detection <a href='https://github.com/WJ-CV/Sg-CoSOD-IEEE-TCSVT'>(Code)</a>"
   image: dummy.png
   description:
   authors: Jie Wang, Nana Yu, Zihao Zhang, Yahong Han
@@ -25,7 +25,7 @@
     display: "IEEE TCSVT, DOI: 10.1109/TCSVT.2024.3514872"
   highlight: 0
 
-- title: "1. Explicitly Disentangling and Exclusively Fusing for Semi-supervised Bi-modal Salient Object Detection"
+- title: "1. Explicitly Disentangling and Exclusively Fusing for Semi-supervised Bi-modal Salient Object Detection <a href='https://github.com/WJ-CV/EDEFNet-IEEE-TCSVT'>(Code)</a>"
   image: dummy.png
   description:
   authors: Jie Wang, Xiangji Kong, Nana Yu, Zihao Zhang, Yahong Han
