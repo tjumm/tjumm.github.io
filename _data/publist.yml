@@ -13,7 +13,7 @@
   authors: Lei Zhang, Haoran Ning, Jiaxin Tang, Zhenxiang Chen, Yapoing Zhong, Yahong Han
   link:
     url:
-    display: "IEEE TMM"
+    display: "IEEE TMM, DOI: 10.1109/TMM.2025.3543090"
   highlight: 0
 
 - title: "1. Single-group Generalized RGB and RGB-D Co-Salient Object Detection <a href='https://github.com/WJ-CV/Sg-CoSOD-IEEE-TCSVT'>(Code)</a>"
