@@ -1,3 +1,21 @@
+- title: "1. Style Evolving along Chain-of-Thought for Unknown-Domain Object Detection"
+  image: dummy.png
+  description:
+  authors: Zihao Zhang, Aming Wu, Yahong Han
+  link:
+    url:
+    display: "CVPR 2025"
+  highlight: 0
+
+- title: "1. Visual Consensus Prompting for Co-Salient Object Detection"
+  image: dummy.png
+  description:
+  authors: Jie Wang, Nana Yu, Zihao Zhang, Yahong Han
+  link:
+    url:
+    display: "CVPR 2025"
+  highlight: 0
+
 - title: "1. A Static-Dynamic Composition Framework for Efficient Action Recognition <a href='https://github.com/LannCX/SDCOM'>(Code)</a>"
   image: dummy.png
   description:
