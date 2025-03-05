@@ -7,7 +7,7 @@
     display: "CVPR 2025"
   highlight: 0
 
-- title: "1. Visual Consensus Prompting for Co-Salient Object Detection"
+- title: "1. Visual Consensus Prompting for Co-Salient Object Detection <a href='https://github.com/WJ-CV/VCP'>(Code)</a>"
   image: dummy.png
   description:
   authors: Jie Wang, Nana Yu, Zihao Zhang, Yahong Han
