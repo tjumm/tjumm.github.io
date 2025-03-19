@@ -21,7 +21,7 @@ Our research interests mainly include multimedia analysis and computing, compute
 {% endif %}
 
 <div class="col-md-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/pdoc.gif" class="img-responsive" width="350px" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/pdoc.mp4" class="img-responsive" width="350px" style="float: left" />
 </div>
 
 <div class="col-md-8 clearfix">
