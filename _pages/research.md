@@ -12,7 +12,7 @@ Our research interests mainly include multimedia analysis and computing, compute
 
 # Highlights
 
-### 1. From Perception to Action: Embodied Intelligence in Robotic Manipulation
+<!-- ### 1. From Perception to Action: Embodied Intelligence in Robotic Manipulation
 
 
 
@@ -36,7 +36,7 @@ Our research interests mainly include multimedia analysis and computing, compute
 <div class="col-md-8 clearfix">
   <p>This video showcases our laboratory's innovative research in Embodied Intelligence—a robotic arm grasping system based on multimodal perception and autonomous decision-making. By deeply integrating visual recognition, environment modeling, and dynamic control algorithms, the robotic arm can perceive the target object's position, shape, and material properties in real time, adaptively adjust its grasping strategy, and achieve precise operations in complex scenarios. Looking ahead, we will continue to explore the applications of deep learning and reinforcement learning in embodied intelligence, enabling robots to achieve greater autonomy and robustness in dynamic and unknown environments.</p>
   <ul style="overflow: hidden"></ul>
-</div>
+</div> -->
 
 
 ### 1. Object Dectection in Practical Scenes: Domain Adaptation and Few Samples
