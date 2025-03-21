@@ -21,7 +21,7 @@ Our research interests mainly include multimedia analysis and computing, compute
 {% endif %}
 
 <div class="col-md-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/pdoc.gif" class="img-responsive" width="350px" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/embodied_inte/pdoc.gif" class="img-responsive" width="350px" style="float: left" />
 </div>
 
 <div class="col-md-8 clearfix">
@@ -30,7 +30,7 @@ Our research interests mainly include multimedia analysis and computing, compute
 </div>
 
 <div class="col-md-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/iiod_result2.png" class="img-responsive" width="350px" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/embodied_inte/fixed_arm.gif" class="img-responsive" width="350px" style="float: left" />
 </div>
 
 <div class="col-md-8 clearfix">
