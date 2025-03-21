@@ -30,15 +30,15 @@ Our research interests mainly include multimedia analysis and computing, compute
   <ul style="overflow: hidden"></ul>
 </div>
 
-<!-- <div class="col-md-4 clearfix">
+<div class="col-md-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/embodied_inte/fixed_arm.gif" class="img-responsive" width="350px" style="float: left" />
 </div>
 
 <div class="col-md-8 clearfix">
   <h5><b>2 Autonomous Robotic Arm with Multimodal Perception</b></h5>
-  <p>This video showcases our laboratory's innovative research in Embodied Intelligence—a robotic arm grasping system based on multimodal perception and autonomous decision-making. By deeply integrating visual recognition, environment modeling, and dynamic control algorithms, the robotic arm can perceive the target object's position, shape, and material properties in real time, adaptively adjust its grasping strategy, and achieve precise operations in complex scenarios. Looking ahead, we will continue to explore the applications of deep learning and reinforcement learning in embodied intelligence, enabling robots to achieve greater autonomy and robustness in dynamic and unknown environments.</p>
+  <p>This video showcases our laboratory's innovative research in Embodied Intelligence—a robotic arm grasping system based on multimodal perception and autonomous decision-making. By deeply integrating visual recognition, environmental modeling, and dynamic control algorithms, our method enables the robotic arm to perceive, analyze, and interact with its surroundings in real time. Through adaptive grasping strategies, it can dynamically adjust its grip based on environmental conditions, ensuring stable, precise, and efficient manipulation even in complex and unstructured scenarios. This capability is pivotal for applications in industrial automation, assistive robotics, and autonomous exploration. Looking ahead, we will continue to explore the applications of deep learning and reinforcement learning in embodied intelligence, enabling robots to achieve greater autonomy and robustness in dynamic and unknown environments.</p>
   <ul style="overflow: hidden"></ul>
-</div> -->
+</div>
 
 
 ### 2. Object Dectection in Practical Scenes: Domain Adaptation and Few Samples
