@@ -1,3 +1,12 @@
+- title: "1. User Invariant Preference Learning for Multi-Behavior Recommendation"
+  image: dummy.png
+  description:
+  authors: Mingshi Yan, Zhiyong Cheng, Fan Liu, Yingda Lyu, Yahong Han
+  link:
+    url:
+    display: "ACM Transactions on Information Systems (TOIS)"
+  highlight: 0
+
 - title: "1. Semantic Prompt Enhancement for Semi-Supervised Low-Light Salient Object Detection"
   image: dummy.png
   description:
