@@ -22,7 +22,7 @@
   authors: Zihao Zhang, Aming Wu, Yahong Han
   link:
     url:
-    display: "CVPR 2025"
+    display: "CVPR 2025 (<b>Highlight</b>)"
   highlight: 0
 
 - title: "1. Visual Consensus Prompting for Co-Salient Object Detection <a href='https://github.com/WJ-CV/VCP'>(Code)</a>"
