@@ -13,7 +13,7 @@
   authors: Nana Yu,  Jie Wang,  Zihao Zhang, Yahong Han, Weiping Ding
   link:
     url:
-    display: "IEEE TNNLS"
+    display: "IEEE TNNLS, DOI: 10.1109/TNNLS.2025.3555828"
   highlight: 0
 
 - title: "1. Style Evolving along Chain-of-Thought for Unknown-Domain Object Detection <a href='https://github.com/ZZ2490/SE-COT'>(Code)</a>"
