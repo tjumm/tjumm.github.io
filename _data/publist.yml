@@ -1,7 +1,7 @@
-- title: "1. Unknown Text Learning for CLIP-based Few-Shot Open-set Recognition"
+- title: "1. Coupling the Generator with Teacher for Effective Data-Free Knowledge Distillation"
   image: dummy.png
   description:
-  authors: Rui Ma, Qilong Wang, Bing Cao, Qinghua Hu, Yahong Han
+  authors: Xu Chen, Yang Li, Yahong Han, Guangquan Xu, Jialie Shen
   link:
     url:
     display: "ICCV 2025"
@@ -16,15 +16,14 @@
     display: "ICCV 2025"
   highlight: 0
 
-- title: "1. Coupling the Generator with Teacher for Effective Data-Free Knowledge Distillation"
+- title: "1. Unknown Text Learning for CLIP-based Few-Shot Open-set Recognition"
   image: dummy.png
   description:
-  authors: Xu Chen, Yang Li, Yahong Han, Guangquan Xu, Jialie Shen
+  authors: Rui Ma, Qilong Wang, Bing Cao, Qinghua Hu, Yahong Han
   link:
     url:
     display: "ICCV 2025"
   highlight: 0
-
 
 - title: "1. User Invariant Preference Learning for Multi-Behavior Recommendation <a href='https://github.com/MingshiYan/UIPL'>(Code)</a>"
   image: dummy.png
