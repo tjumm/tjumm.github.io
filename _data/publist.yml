@@ -16,7 +16,7 @@
     display: "ICCV 2025"
   highlight: 0
 
-- title: "1. Coupling the Generator with Teacher for Effective Data-Free Knowledge Distillatio"
+- title: "1. Coupling the Generator with Teacher for Effective Data-Free Knowledge Distillation"
   image: dummy.png
   description:
   authors: Xu Chen, Yang Li, Yahong Han, Guangquan Xu, Jialie Shen
