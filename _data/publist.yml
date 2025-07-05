@@ -4,7 +4,7 @@
   authors: Xu Chen, Yang Li, Yahong Han, Jialie Shen
   link:
     url:
-    display: "ICCV 2025"
+    display: "ACM Multimedia 2025"
   highlight: 0
 
 - title: "1. Coupling the Generator with Teacher for Effective Data-Free Knowledge Distillation <a href='https://github.com/LannCX/CPNet'>(Code)</a>"
