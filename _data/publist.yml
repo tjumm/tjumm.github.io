@@ -40,7 +40,7 @@
   authors: Mingshi Yan, Zhiyong Cheng, Fan Liu, Yingda Lyu, Yahong Han
   link:
     url:
-    display: "ACM Transactions on Information Systems (TOIS)"
+    display: "ACM Transactions on Information Systems (TOIS), DOI: https://doi.org/10.1145/3728465"
   highlight: 0
 
 - title: "1. Semantic Prompt Enhancement for Semi-Supervised Low-Light Salient Object Detection <a href='https://github.com/woshiyll/SPENet'>(Code)</a>"
