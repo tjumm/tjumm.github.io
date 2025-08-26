@@ -1,12 +1,20 @@
+- title: "1. Reinforcement and Complementary Space Search for Multimodal Black-Box Attack"
+  image: dummy.png
+  description:
+  authors: Jiaxu Li, Boyuan Zhang, Yucheng Shi, Yahong Han
+  link:
+    url:
+    display: "IEEE TMM"
+  highlight: 0
+
 - title: "1. Latent Factor Modeling with Expert Network for Multi-Behavior Recommendation"
   image: dummy.png
   description:
-  authors: Mingshi Yan, Zhiyong Cheng, Yahong Han, Meng Wang 
+  authors: Mingshi Yan, Zhiyong Cheng, Yahong Han, Meng Wang
   link:
     url:
     display: "IEEE TKDE, DOI: 10.1109/TKDE.2025.3591503"
   highlight: 0
-
 
 - title: "1. Ex Pede Herculem, Predicting Global Actionness Curve from Local Clips <a href='https://github.com/LannCX/FreETAD'>(Code)</a>"
   image: dummy.png
