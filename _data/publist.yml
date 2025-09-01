@@ -1,3 +1,12 @@
+- title: "1. AdvNeRF: Generating 3D adversarial meshs with NeRF to fool driving vehicles"
+  image: dummy.png
+  description:
+  authors: Boyuan Zhang, Jiaxu Li, Yucheng Shi, Yahong Han, Qinghua Hu
+  link:
+    url:
+    display: "IEEE TIFS"
+  highlight: 0
+
 - title: "1. Reinforcement and Complementary Space Search for Multimodal Black-Box Attack"
   image: dummy.png
   description:
