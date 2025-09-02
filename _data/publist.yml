@@ -16,7 +16,7 @@
     display: "IEEE TMM"
   highlight: 0
 
-- title: "1. Latent Factor Modeling with Expert Network for Multi-Behavior Recommendation"
+- title: "1. Latent Factor Modeling with Expert Network for Multi-Behavior Recommendation  <a href='https://github.com/MingshiYan/MBLFE'>(Code)</a>"
   image: dummy.png
   description:
   authors: Mingshi Yan, Zhiyong Cheng, Yahong Han, Meng Wang
