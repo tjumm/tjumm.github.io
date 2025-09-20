@@ -1,4 +1,14 @@
-- title: "1. AdvNeRF: Generating 3D adversarial meshs with NeRF to fool driving vehicles"
+
+- title: "1. Novel Class Discovery for Point Cloud Segmentation via Joint Learning of Causal Representation and Reasoning"
+  image: dummy.png
+  description:
+  authors: Yang Li, Aming Wu, Zihao Zhang, Yahong Han
+  link:
+    url:
+    display: "NeurIPS 2025"
+  highlight: 0
+
+- title: "1. AdvNeRF: Generating 3D adversarial meshs with NeRF to fool driving vehicles  <a href='https://github.com/stevenzhang9577/Adv_NeRF'>(Code)</a>"
   image: dummy.png
   description:
   authors: Boyuan Zhang, Jiaxu Li, Yucheng Shi, Yahong Han, Qinghua Hu
@@ -6,6 +16,7 @@
     url:
     display: "IEEE TIFS, DOI: 10.1109/TIFS.2025.3609180"
   highlight: 0
+
 
 - title: "1. Reinforcement and Complementary Space Search for Multimodal Black-Box Attack"
   image: dummy.png
