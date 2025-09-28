@@ -175,12 +175,12 @@
 #  number_educ: 0
 #  education1:
 
-- name: Xinmin Liu
-  photo: liuxinmin.png
-  info: Master student, 2022
-  email: liuxinmin@tju.edu.cn
-  number_educ: 0
-  education1:
+#- name: Xinmin Liu
+#  photo: liuxinmin.png
+#  info: Master student, 2022
+#  email: liuxinmin@tju.edu.cn
+#  number_educ: 0
+#  education1:
 
 - name: Shukuan Yuan
   photo: yuanshukuan.jpg
