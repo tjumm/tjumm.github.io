@@ -31,33 +31,33 @@
 #  number_educ: 0
 #  education1:
 
-- name: Deng Li
-  photo: lideng.jpg
-  info: Phd student, started Sept 2020
-  email: lideng@tju.edu.cn
-  number_educ: 0
-  education1:
-
-- name: Xu Chen
-  photo: chenxu2.jpg
-  info: Phd student, started Sept 2021
-  email: xuchen@tju.edu.cn
-  number_educ: 0
-  education1:
-
-- name: Runhua Jiang
-  photo: jiangrunhua.jpg
-  info: Phd student, started Sept 2021
-  email: ddghjikle@tju.edu.cn
-  number_educ: 0
-  education1:
-
-- name: Boyuan Zhang
-  photo: zhangboyuan.jpg
-  info: Phd student, started Sept 2021
-  email: boyuanzhang@tju.edu.cn
-  number_educ: 0
-  education1:
+#- name: Deng Li
+#  photo: lideng.jpg
+#  info: Phd student, started Sept 2020
+#  email: lideng@tju.edu.cn
+#  number_educ: 0
+#  education1:
+#
+#- name: Xu Chen
+#  photo: chenxu2.jpg
+#  info: Phd student, started Sept 2021
+#  email: xuchen@tju.edu.cn
+#  number_educ: 0
+#  education1:
+#
+#- name: Runhua Jiang
+#  photo: jiangrunhua.jpg
+#  info: Phd student, started Sept 2021
+#  email: ddghjikle@tju.edu.cn
+#  number_educ: 0
+#  education1:
+#
+#- name: Boyuan Zhang
+#  photo: zhangboyuan.jpg
+#  info: Phd student, started Sept 2021
+#  email: boyuanzhang@tju.edu.cn
+#  number_educ: 0
+#  education1:
 
 - name: Jie Wang
   photo: wangjie.png
@@ -100,6 +100,21 @@
   email: saterchang@gmail.com
   number_educ: 0
   education1:
+
+- name: Xiangji Kong
+  photo: kxj.jpg
+  info: Phd student, started Sept 2025
+  email: xiangjikong@tju.edu.cn
+  number_educ: 0
+  education1:
+
+- name: Haozhe huang
+  photo: kxj.jpg
+  info: Phd student, started Sept 2025
+  email: xiangjikong@tju.edu.cn
+  number_educ: 0
+  education1:
+
 
 # - name: Jin Wang (Peng Cheng Laboratory)
 #   photo: wangjin.jpg
