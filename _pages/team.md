@@ -193,10 +193,10 @@ Jump to [staff](#staff), [phd students](#phd-students), [master students](#maste
 |Boyuan Zhang|2025||||||||Huawei|
 |Deng Li|2025||||||||Jingdong|
 |Xu Cheng|2025||||||||Postdoctoral Fellow at Harbin Institute of Technology (Shenzhen Campus)|
-|Runhua Jiang|2005||||||||Xiamen Discipline Inspection Commission and Supervision Administration|
-| Yucheng Shi | 2023 |||||||| Zhengzhou University |
+|Runhua Jiang|2025||||||||Xiamen Municipal Government|
 | Tuo Li | 2024 |||||||| Baidu |
 | Shibin Liu  | 2024 |||||||| King Base |
+| Yucheng Shi |          2023          |      |      |      |      |      |      |      | Zhengzhou University |
 | Kunhong Wu | 2023 |||||||| China Resources Bank of Zhuhai |
 | Jian Liu | 2023 |||||||| China Mobile Communications Corporation |
 | Fei Zhou | 2023 |||||||| Meituan |
