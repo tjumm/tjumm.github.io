@@ -28,29 +28,29 @@ Jump to [staff](#staff), [phd students](#phd-students), [master students](#maste
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: {{ member.email }}</i>
   <ul style="overflow: hidden">
-  
+
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 2 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 3 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 4 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   {% endif %}
- 
+
   {% if member.number_educ == 5 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
@@ -58,7 +58,7 @@ Jump to [staff](#staff), [phd students](#phd-students), [master students](#maste
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
-  
+
   </ul>
 </div>
 
@@ -90,29 +90,29 @@ Jump to [staff](#staff), [phd students](#phd-students), [master students](#maste
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
-  
+
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 2 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 3 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 4 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   {% endif %}
-  
+
   </ul>
 </div>
 
@@ -146,29 +146,29 @@ Jump to [staff](#staff), [phd students](#phd-students), [master students](#maste
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
-  
+
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 2 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 3 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 4 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   {% endif %}
-  
+
   </ul>
 </div>
 
@@ -190,6 +190,9 @@ Jump to [staff](#staff), [phd students](#phd-students), [master students](#maste
 
 |**Name**|**Year of Graduation**||||||||**Employer**|
 | -- | :--: |--|--|--|--|--|--|--|--|
+|Boyuan Zhang|2025||||||||Huawei|
+|Deng Li|2025||||||||Jingdong|
+|Xu Cheng|2025||||||||Postdoctoral Fellow at Harbin Institute of Technology (Shenzhen Campus)|
 | Yucheng Shi | 2023 |||||||| Zhengzhou University |
 | Tuo Li | 2024 |||||||| Baidu |
 | Shibin Liu  | 2024 |||||||| King Base |
@@ -223,7 +226,6 @@ Jump to [staff](#staff), [phd students](#phd-students), [master students](#maste
 | Yanbin Liu | 2016 |||||||| University of Technology Sydney |
 | Qiang Guo | 2016 |||||||| Guotai Junan Securities |
 | Jianguang Zhang | 2016 |||||||| HengShui University |
-
 
 
 
