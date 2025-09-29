@@ -131,16 +131,12 @@ Our research interests mainly include multimedia analysis and computing, compute
 
 ### 4. Behavior-Level Collaborative Learning: multi-behavior recommendation
 
-
-
 <div class="col-md-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Recommendation/1.png" class="img-responsive" width="350px" style="float: left" />
 </div>
 <div class="col-md-8 clearfix">
   <h5><b>1 Latent Factor Modeling with Expert Network for Multi-Behavior Recommendation</b></h5>
   <p>Mingshi Yan, Zhiyong Cheng, Yahong Han, and Meng Wang<br>IEEE TKDE, DOI: 10.1109/TKDE.2025.3591503<br>Traditional recommendation methods face data sparsity, while multi-behavior methods leverage diverse user data but often provide imprecise representations. To improve this, we propose MBLFE, a multi-behavior method using a gating expert network. Each expert specializes in a specific latent factor, and the gating network dynamically selects the optimal combination for each user. Self-supervised learning ensures expert independence and factor consistency. By incorporating multi-behavior data, our approach enriches embeddings and improves factor extraction. Experiments on three datasets show that MBLFE outperforms state-of-the-art methods, proving its effectiveness.
-
-
 <div class="col-md-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Recommendation/2.png" class="img-responsive" width="350px" style="float: left" />
 </div>
@@ -150,9 +146,8 @@ Our research interests mainly include multimedia analysis and computing, compute
 
 
 
-  <ul style="overflow: hidden"></ul>
 <div class="col-md-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Recommendation/2.png" class="img-responsive" width="350px" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Recommendation/3.png" class="img-responsive" width="350px" style="float: left" />
 </div>
 <div class="col-md-8 clearfix">
   <h5><b>3 Behavior-Contextualized Item Preference Modeling for Multi-Behavior Recommendation</b></h5>
