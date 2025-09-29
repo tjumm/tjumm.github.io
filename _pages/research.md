@@ -138,11 +138,27 @@ Our research interests mainly include multimedia analysis and computing, compute
 </div>
 <div class="col-md-8 clearfix">
   <h5><b>1 Latent Factor Modeling with Expert Network for Multi-Behavior Recommendation</b></h5>
-  <p>Mingshi Yan, Zhiyong Cheng, Yahong Han, and Meng Wang<br>IEEE TKDE, DOI: 10.1109/TKDE.2025.3591503'<br>Traditional recommendation methods, which typically focus on modeling a single user behavior (e.g., purchase), often face severe data sparsity issues. Multi-behavior recommendation methods offer a promising solution by leveraging user data from diverse behaviors. However, most existing approaches entangle multiple behavioral factors, learning holistic but imprecise representations that fail to capture specific user intents.
-To address this issue, we propose a multi-behavior method by modeling latent factors with an expert network (\textbf{MBLFE}). In our approach, we design a gating expert network, where the expert network models all latent factors within the entire recommendation scenario, with each expert specializing in a specific latent factor. The gating network dynamically selects the optimal combination of experts for each user, enabling a more accurate representation of user preferences. To ensure independence among experts and factor consistency of a particular expert, we incorporate self-supervised learning during the training process. Furthermore, we enrich embeddings with multi-behavior data to provide the expert network with more comprehensive collaborative information for factor extraction. Extensive experiments on three real-world datasets demonstrate that our method significantly outperforms state-of-the-art baselines, validating its effectiveness.
-</p>
-  <ul style="overflow: hidden"></ul>
+  <p>Mingshi Yan, Zhiyong Cheng, Yahong Han, and Meng Wang<br>IEEE TKDE, DOI: 10.1109/TKDE.2025.3591503<br>Traditional recommendation methods face data sparsity, while multi-behavior methods leverage diverse user data but often provide imprecise representations. To improve this, we propose MBLFE, a multi-behavior method using a gating expert network. Each expert specializes in a specific latent factor, and the gating network dynamically selects the optimal combination for each user. Self-supervised learning ensures expert independence and factor consistency. By incorporating multi-behavior data, our approach enriches embeddings and improves factor extraction. Experiments on three datasets show that MBLFE outperforms state-of-the-art methods, proving its effectiveness.
+
+
+<div class="col-md-4 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Recommendation/2.png" class="img-responsive" width="350px" style="float: left" />
 </div>
+<div class="col-md-8 clearfix">
+  <h5><b>2 User Invariant Preference Learning for Multi-Behavior Recommendation</b></h5>
+  <p>Mingshi Yan, Zhiyong Cheng,Fan Liu, Yingda Lyu, and Yahong Han<br>ACM Transactions on Information Systems (TOIS), DOI: https://doi.org/10.1145/3728465<br>In multi-behavior recommendation, analyzing diverse behaviors (e.g., click, purchase, rating) helps understand users' interests. However, existing methods often ignore the balance between commonalities and individualities in user preferences, where auxiliary behaviors may introduce noise. To address this, we propose UIPL (User Invariant Preference Learning), which captures users' intrinsic interests (invariant preferences) by leveraging invariant risk minimization. We use a variational autoencoder (VAE) with an invariant risk minimization constraint, combining multi-behavior data to enhance robustness. Experiments on four datasets show UIPL outperforms state-of-the-art methods.
+
+
+
+  <ul style="overflow: hidden"></ul>
+<div class="col-md-4 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Recommendation/2.png" class="img-responsive" width="350px" style="float: left" />
+</div>
+<div class="col-md-8 clearfix">
+  <h5><b>3 Behavior-Contextualized Item Preference Modeling for Multi-Behavior Recommendation</b></h5>
+  <p>Mingshi Yan, Fan Liu, Zhiyong Cheng, Jing Sun, Fuming Sun, Zhiyong Cheng, Yahong Han<br>SIGIR 2024,<a href='Behavior-Contextualized Item Preference Network for Multi-Behavior Recommendation '>(Preprint)</a> <br>Multi-behavior recommendation methods address data sparsity in traditional single-behavior approaches by leveraging auxiliary behaviors to infer user preferences. However, directly transferring these preferences can introduce noise due to variations in user attention. To tackle this, we propose Behavior-Contextualized Item Preference Modeling (BCIPM), which learns specific item preferences within each behavior and only considers relevant preferences for the target behavior. Auxiliary behaviors are used for training, refining the learning process without affecting target behavior accuracy. Additionally, pre-training initial embeddings enriches item-aware preferences, especially when target behavior data is sparse. Experiments on four datasets show BCIPM outperforms state-of-the-art models, proving its effectiveness.
+
+
 
 
 
