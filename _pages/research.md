@@ -92,8 +92,20 @@ Our research interests mainly include multimedia analysis and computing, compute
 
 ### 3. Adversarial Vision and Robustness: Towards AI Security
 
+<div class="col-md-4 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/adv/AdvNeRF.png" class="img-responsive" width="350px" style="float: left" />
+</div>
+<div class="col-md-8 clearfix">
+  <h5><b>1 AdvNeRF: Generating 3D Adversarial Meshes With NeRF to Fool Driving Vehicles</b></h5>
+  <p> Boyuan Zhang, Jiaxu Li, Yucheng Shi, YaHong Han, Qinghua Hu<br>IEEE TIFS, <a href='DOI: 10.1109/TIFS.2025.3609180'>(Paper)</a>, <a href='https://github.com/stevenzhang9577/Adv_NeRF'>(Project Page)</a> <br>Adversarial attacks on deep neural networks (DNNs) pose risks, especially in safety-critical applications like autonomous driving. These vehicles rely on vision and LiDAR sensors for 3D perception, but adversarial vulnerabilities can mislead these systems, endangering safety. While existing research focuses on 2D-pixel image attacks, these lack real-world applicability in 3D. To address this, we propose AdvNeRF, a novel approach for generating 3D adversarial meshes targeting both vision and LiDAR models. AdvNeRF leverages Neural Radiance Fields (NeRF) to create high-quality adversarial objects, ensuring robustness across multiple viewpoints. Experimental results show that AdvNeRF significantly degrades 3D object detectors, highlighting its potential to compromise autonomous vehicle perception systems from various perspectives. This marks a key advancement in 3D adversarial attacks and security.
+</p>
+  <ul style="overflow: hidden"></ul>
+</div>
+
+
 
 {% if even_odd == 0 %}
+
 <div class="row">
 {% endif %}
 
