@@ -59,13 +59,23 @@ Our research interests mainly include multimedia analysis and computing, compute
   <ul style="overflow: hidden"></ul>
 </div>
 
+<div class="col-md-4 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/Continual-Adap.png" class="img-responsive" width="350px" style="float: left" />
+</div>
+<div class="col-md-8 clearfix">
+  <h5><b>2 Continual Adaptation: Environment-Conditional Parameter Generation for Object Detection in Dynamic Scenarios</b></h5>
+  <p>Deng Li, Aming Wu, Yang Li, Yaowei Wang, Yahong Han<br>ICCV 2025,<br>Environments change over time and space, challenging object detectors trained on a closed-set assumption, where training and test data share the same distribution. To address this, continual test-time adaptation has emerged, aiming to fine-tune specific parameters (e.g., BatchNorm) to improve generalization. However, fine-tuning a few parameters may degrade the representation of others, leading to performance issues. We propose a new approach that converts fine-tuning into specific-parameter generation. Our method uses a dual-path LoRA-based domain-aware adapter that separates features into domain-invariant and domain-specific components for efficient adaptation. We also introduce a conditional diffusion-based parameter generation mechanism to synthesize adapter parameters based on the current environment, avoiding local optima. Lastly, a class-centered optimal transport alignment is used to prevent catastrophic forgetting. Experiments on continuous domain adaptive object detection tasks show the effectiveness of this approach, with visualization results demonstrating improved generalization.
+</p>
+  <ul style="overflow: hidden"></ul>
+</div>
+
 
 
 <div class="col-md-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/SE_COT.jpg" class="img-responsive" width="350px" style="float: left" />
 </div>
 <div class="col-md-8 clearfix">
-  <h5><b>2 Style Evolving along Chain-of-Thought for Unknown-Domain Object Detection</b></h5>
+  <h5><b>3 Style Evolving along Chain-of-Thought for Unknown-Domain Object Detection</b></h5>
   <p>Zihao Zhang, Aming Wu, Yahong Han<br>CVPR 2025, <b>(Highlights)</b>, <a href='https://arxiv.org/pdf/2503.09968'>(Preprint)</a>, <a href='https://github.com/ZZ2490/SE-COT'>(Project Page)</a> <br>In this work, we propose a new method, i.e., Style Evolving along Chain-of-Thought, which aims to progressively integrate and expand style information along the chain of thought, enabling the continual evolution of styles. Specifically, by progressively refining style descriptions and guiding the diverse evolution of styles, this method enhances the simulation of various style characteristics, enabling the model to learn and adapt to subtle differences more effectively. Additionally, it exposes the model to a broader range of style features with different data distributions, thereby enhancing its generalization capability in unseen domains. The significant performance gains over five adverse-weather scenarios and the Real to Art benchmark demonstrate the superiorities of our method.</p>
   <ul style="overflow: hidden"></ul>
 </div>
@@ -74,7 +84,7 @@ Our research interests mainly include multimedia analysis and computing, compute
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/pdoc.png" class="img-responsive" width="350px" style="float: left" />
 </div>
 <div class="col-md-8 clearfix">
-  <h5><b>3 Prompt-Driven Dynamic Object-Centric Learning for Single Domain Generalization</b></h5>
+  <h5><b>4 Prompt-Driven Dynamic Object-Centric Learning for Single Domain Generalization</b></h5>
   <p>Deng Li, Aming Wu, Yaowei Wang, Yahong Han<br>CVPR 2024, <a href='http://arxiv.org/abs/2402.18447'>(Preprint)</a>, <a href='https://github.com/Daniel00008/PDOC'>(Project Page)</a> <br>In this paper, we propose a dynamic object-centric perception network based on prompt learning, aiming to adapt to the variations in image complexity. Specifically, we propose an object-centric gating module based on prompt learning to focus attention on the object-centric features guided by the various scene prompts. Then, with the object-centric gating masks, the dynamic selective module dynamically selects highly correlated feature regions in both spatial and channel dimensions enabling the model to adaptively perceive object-centric relevant features, thereby enhancing the generalization capability. Experimental results on single-domain generalization tasks in image classification and object detection demonstrate the effectiveness and versatility of our proposed method.</p>
   <ul style="overflow: hidden"></ul>
 </div>
