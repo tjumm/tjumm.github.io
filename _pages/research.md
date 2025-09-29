@@ -41,7 +41,7 @@ Our research interests mainly include multimedia analysis and computing, compute
 </div>
 
 
-### 2. Object Dectection in Practical Scenes: Domain Adaptation and Few Samples
+### 2. Visual Understanding in Practical Scenes: Domain Adaptation and Few Samples
 
 
 
