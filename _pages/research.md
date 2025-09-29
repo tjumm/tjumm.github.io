@@ -54,7 +54,7 @@ Our research interests mainly include multimedia analysis and computing, compute
 </div>
 <div class="col-md-8 clearfix">
   <h5><b>1 Novel Class Discovery for Point Cloud Segmentation via Joint Learning of Causal Representation and Reasoning</b></h5>
-  <p>Yang Li, Aming Wu, Zihao Zhang, Yahong Han<br>NeurIPS 2025,<a href='https://github.com/yl6017339/Causal-NCD'>(Project Page)</a> <br>This paper focuses on 3D-NCD, which aims to train a model for segmenting unlabeled (novel) 3D classes using only supervision from labeled (base) 3D classes. The core challenge lies in establishing precise correlations: between point representations and their base class labels, and between representations of base and novel class points—coarse/statistical correlation learning risks confusing novel class inference.To address this, we propose imposing causal relationships as strong constraints to uncover class-aligned essential point cloud representations. We introduce a Structural Causal Model (SCM) to redefine the 3D-NCD problem and present a new method: Joint Learning of Causal Representation and Reasoning. Specifically, the method uses SCM to analyze hidden confounders in base class representations and causal links between base and novel classes; designs a causal representation prototype to eliminate confounders and capture base classes’ causal representations; and employs a graph structure to model causal relationships between base class causal prototypes and novel class prototypes, enabling base-to-novel causal reasoning. 
+  <p>Yang Li, Aming Wu, Zihao Zhang, Yahong Han<br>NeurIPS 2025,<a href='https://github.com/yl6017339/Causal-NCD'>(Project Page)</a> <br>This paper focuses on 3D-NCD, which aims to train a model for segmenting unlabeled (novel) 3D classes using only supervision from labeled (base) 3D classes. To address this, we propose imposing causal relationships as strong constraints to uncover class-aligned essential point cloud representations. We introduce a Structural Causal Model (SCM) to redefine the 3D-NCD problem and present a new method: Joint Learning of Causal Representation and Reasoning. Specifically, the method uses SCM to analyze hidden confounders in base class representations and causal links between base and novel classes; designs a causal representation prototype to eliminate confounders and capture base classes’ causal representations; and employs a graph structure to model causal relationships between base class causal prototypes and novel class prototypes, enabling base-to-novel causal reasoning. 
 </p>
   <ul style="overflow: hidden"></ul>
 </div>
@@ -64,7 +64,7 @@ Our research interests mainly include multimedia analysis and computing, compute
 </div>
 <div class="col-md-8 clearfix">
   <h5><b>2 Continual Adaptation: Environment-Conditional Parameter Generation for Object Detection in Dynamic Scenarios</b></h5>
-  <p>Deng Li, Aming Wu, Yang Li, Yaowei Wang, Yahong Han<br>ICCV 2025,<br>Environments change over time and space, challenging object detectors trained on a closed-set assumption, where training and test data share the same distribution. To address this, continual test-time adaptation has emerged, aiming to fine-tune specific parameters (e.g., BatchNorm) to improve generalization. However, fine-tuning a few parameters may degrade the representation of others, leading to performance issues. We propose a new approach that converts fine-tuning into specific-parameter generation. Our method uses a dual-path LoRA-based domain-aware adapter that separates features into domain-invariant and domain-specific components for efficient adaptation. We also introduce a conditional diffusion-based parameter generation mechanism to synthesize adapter parameters based on the current environment, avoiding local optima. Lastly, a class-centered optimal transport alignment is used to prevent catastrophic forgetting. Experiments on continuous domain adaptive object detection tasks show the effectiveness of this approach, with visualization results demonstrating improved generalization.
+  <p>Deng Li, Aming Wu, Yang Li, Yaowei Wang, Yahong Han<br>ICCV 2025,<br>Environments change over time and space, challenging object detectors trained on a closed-set assumption, where training and test data share the same distribution. To address this, continual test-time adaptation has emerged, aiming to fine-tune specific parameters (e.g., BatchNorm) to improve generalization. However, fine-tuning a few parameters may degrade the representation of others, leading to performance issues. We propose a new approach that converts fine-tuning into specific-parameter generation. Our method uses a dual-path LoRA-based domain-aware adapter that separates features into domain-invariant and domain-specific components for efficient adaptation. We also introduce a conditional diffusion-based parameter generation mechanism to synthesize adapter parameters based on the current environment, avoiding local optima. Lastly, a class-centered optimal transport alignment is used to prevent catastrophic forgetting.
 </p>
   <ul style="overflow: hidden"></ul>
 </div>
@@ -94,31 +94,10 @@ Our research interests mainly include multimedia analysis and computing, compute
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/iiod_result2.png" class="img-responsive" width="350px" style="float: left" />
 </div>
 <div class="col-md-8 clearfix">
-  <h5><b>3 Instance-Invariant Domain Adaptive Object Detection via Progressive Disentanglement</b></h5>
-  <p>Aming Wu, Yahong Han, Linchao Zhu, Yi Yang<br>IEEE TPAMI, DOI:10.1109/TPAMI.2021.3060446, <a href='https://ieeexplore.ieee.org/abstract/document/9362301'>(Paper)</a>, <a href='https://github.com/AmingWu/IIOD'>(Project Page)</a> <br>In this work, a progressive disentangled framework is  proposed to solve domain adaptive object detection for the first time. Particularly, base on disentangled learning used for feature decomposition, we devise two disentangled layers to decompose domain-invariant and domain-specific features. And the instance-invariant features are extracted based on the domain-invariant features. Finally, to enhance the disentanglement, a three-stage training mechanism including multiple loss functions is devised to optimize our model. The proposed method can achieve excellent detection performance in night and fog domain adaptive object detection in real road scenes under different weather conditions.</p>
+  <h5><b>4 Prompt-Driven Dynamic Object-Centric Learning for Single Domain Generalization</b></h5>
+  <p>Deng Li, Aming Wu, Yaowei Wang, Yahong Han<br>CVPR 2024, <a href='http://arxiv.org/abs/2402.18447'>(Preprint)</a>, <a href='https://github.com/Daniel00008/PDOC'>(Project Page)</a> <br>In this paper, we propose a dynamic object-centric perception network based on prompt learning, aiming to adapt to the variations in image complexity. Specifically, we propose an object-centric gating module based on prompt learning to focus attention on the object-centric features guided by the various scene prompts. Then, with the object-centric gating masks, the dynamic selective module dynamically selects highly correlated feature regions in both spatial and channel dimensions enabling the model to adaptively perceive object-centric relevant features, thereby enhancing the generalization capability. Experimental results on single-domain generalization tasks in image classification and object detection demonstrate the effectiveness and versatility of our proposed method.</p>
   <ul style="overflow: hidden"></ul>
 </div>
-
-
-{% for member in site.data.object_det %}
-
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-md-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/{{ member.photo }}" class="img-responsive" width="350px" style="float: left" />
-</div>
-
-<div class="col-md-8 clearfix">
-  <h5><b>{{ member.title }}</b></h5>
-  <p>{{ member.author }}<br>{{ member.publish }} <br>{{ member.abstract }}</p>
-  <ul style="overflow: hidden"></ul>
-</div>
-
-
-{% endfor %}
 
 
 ### 3. Adversarial Vision and Robustness: Towards AI Security
