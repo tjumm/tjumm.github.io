@@ -112,43 +112,13 @@ Our research interests mainly include multimedia analysis and computing, compute
 <div class="col-md-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/adv/CISA.png" class="img-responsive" width="350px" style="float: left" />
 </div>
-
 <div class="col-md-8 clearfix">
-  <h5><b>1 Query-efficient Black-box Adversarial Attack with Customized Iteration and Sampling</b></h5>
+  <h5><b>2 Query-efficient Black-box Adversarial Attack with Customized Iteration and Sampling</b></h5>
   <p>Yucheng Shi, Yahong Han, Qinghua Hu, Yi Yang, Qi Tian <br>IEEE TPAMI, DOI:10.1109/TPAMI.2022.3169802, <a href='https://shiyuchengtju.github.io'>(Project Page)</a> <br>In this work, a new framework bridging transfer-based and decision-based attacks is proposed for query-efficient black-box adversarial attack. We reveal the relationship between current noise and variance of sampling, the monotonicity of noise compression in decision-based attack, as well as the influence of transition function on the convergence of decision-based attack. Guided by the new framework and theoretical analysis, we propose a black-box adversarial attack named Customized Iteration and Sampling Attack (CISA). CISA estimates the distance from nearby decision boundary to set the stepsize, and uses a dual-direction iterative trajectory to find the intermediate adversarial example. Based on the intermediate adversarial example, CISA conducts customized sampling according to the noise sensitivity of each pixel to further compress noise, and relaxes the state transition function to achieve higher query efficiency.</p>
   <ul style="overflow: hidden"></ul>
 </div>
 
 
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-md-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/adv/CurlsandWhey.png" class="img-responsive" width="350px" style="float: left" />
-</div>
-
-
-
-
-
-{% for member in site.data.adv_vision %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-md-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/adv/{{ member.photo }}" class="img-responsive" width="350px" style="float: left" />
-</div>
-
-<div class="col-md-8 clearfix">
-  <h5><b>{{ member.title }}</b></h5>
-  <p>{{ member.author }}<br>{{ member.publish }} <br>{{ member.abstract }}</p>
-  <ul style="overflow: hidden"></ul>
-</div>
-
-{% endfor %}
 
 
 ### 4. Vision-to-Language: Understanding and Reasoning
