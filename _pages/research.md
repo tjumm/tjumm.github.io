@@ -50,7 +50,7 @@ Our research interests mainly include multimedia analysis and computing, compute
 {% endif %}
 
 <div class="col-md-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/CausalNCD.jpg" class="img-responsive" width="350px" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/CausalNCD.png" class="img-responsive" width="350px" style="float: left" />
 </div>
 <div class="col-md-8 clearfix">
   <h5><b>1 Novel Class Discovery for Point Cloud Segmentation via Joint Learning of Causal Representation and Reasoning</b></h5>
