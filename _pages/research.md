@@ -97,7 +97,7 @@ Our research interests mainly include multimedia analysis and computing, compute
 </div>
 <div class="col-md-8 clearfix">
   <h5><b>1 AdvNeRF: Generating 3D Adversarial Meshes With NeRF to Fool Driving Vehicles</b></h5>
-  <p> Boyuan Zhang, Jiaxu Li, Yucheng Shi, YaHong Han, Qinghua Hu<br>IEEE TIFS, <a href='DOI: 10.1109/TIFS.2025.3609180'>(Paper)</a>, <a href='https://github.com/stevenzhang9577/Adv_NeRF'>(Project Page)</a> <br>Adversarial attacks on deep neural networks (DNNs) pose risks, especially in safety-critical applications like autonomous driving. These vehicles rely on vision and LiDAR sensors for 3D perception, but adversarial vulnerabilities can mislead these systems, endangering safety. While existing research focuses on 2D-pixel image attacks, these lack real-world applicability in 3D. To address this, we propose AdvNeRF, a novel approach for generating 3D adversarial meshes targeting both vision and LiDAR models. AdvNeRF leverages Neural Radiance Fields (NeRF) to create high-quality adversarial objects, ensuring robustness across multiple viewpoints. Experimental results show that AdvNeRF significantly degrades 3D object detectors, highlighting its potential to compromise autonomous vehicle perception systems from various perspectives. This marks a key advancement in 3D adversarial attacks.
+  <p> Boyuan Zhang, Jiaxu Li, Yucheng Shi, YaHong Han, Qinghua Hu<br>IEEE TIFS, <a href='DOI: 10.1109/TIFS.2025.3609180'>(Paper)</a>, <a href='https://github.com/stevenzhang9577/Adv_NeRF'>(Project Page)</a> <br>Adversarial attacks on deep neural networks (DNNs) pose risks, especially in safety-critical applications like autonomous driving. These vehicles rely on vision and LiDAR sensors for 3D perception, but adversarial vulnerabilities can mislead these systems, endangering safety. While existing research focuses on 2D-pixel image attacks, these lack real-world applicability in 3D. To address this, we propose AdvNeRF, a novel approach for generating 3D adversarial meshes targeting both vision and LiDAR models. AdvNeRF leverages Neural Radiance Fields (NeRF) to create high-quality adversarial objects, ensuring robustness across multiple viewpoints. Experimental results show that AdvNeRF significantly degrades 3D object detectors, highlighting its potential to compromise autonomous vehicle perception systems from various perspectives. This marks a key advancement in 3D adversarial attacks and security.
 </p>
   <ul style="overflow: hidden"></ul>
 </div>
@@ -150,13 +150,6 @@ Our research interests mainly include multimedia analysis and computing, compute
 
 {% endfor %}
 
-
-
-<div class="col-md-8 clearfix">
-  <h5><b>2 Curls & Whey: Boosting Black-Box Adversarial Attacks</b></h5>
-  <p>Yucheng Shi, Siyu Wang, Yahong Han <br>CVPR 2019, (Oral),<a href='https://openaccess.thecvf.com/content_CVPR_2019/html/Shi_Curls__Whey_Boosting_Black-Box_Adversarial_Attacks_CVPR_2019_paper.html'>(Paper)</a>, <a href='https://github.com/walegahaha/Curls-Whey'>(Project Page)</a> <br> <b> Fourth place in both </b> <a href='https://www.crowdai.org/challenges/nips-2018-adversarial-vision-challenge-untargeted-attack-track/leaderboards'>Untargeted Attack Track</a><b> and </b> <a href='https://www.crowdai.org/challenges/nips-2018-adversarial-vision-challenge-targeted-attack-track/leaderboards'>Targeted Attack Track</a> <b>of NIPS 2018 Adversarial Vision Challenge </b> <br>In this work, we propose Curls & Whey black-box attack to fix the above two defects. During Curls iteration, by combining gradient ascent and descent, we ‘curl’ up iterative trajectories to integrate more diversity and transferability into adversarial examples. Curls iteration also alleviates the diminishing marginal effect in existing iterative attacks. The Whey optimization further squeezes the ‘whey’ of noises by exploiting the robustness of adversarial perturbation. Extensive experiments on Imagenet and Tiny-Imagenet demonstrate that our approach achieves impressive decrease on noise magnitude in l2 norm. Curls & Whey attack also shows promising transferability against ensemble models as well as adversarially trained models. In addition, we extend our attack to the targeted misclassification, effectively reducing the difficulty of targeted attacks under black-box condition.</p>
-  <ul style="overflow: hidden"></ul>
-</div>
 
 ### 4. Vision-to-Language: Understanding and Reasoning
 
