@@ -112,7 +112,7 @@ Our research interests mainly include multimedia analysis and computing, compute
 </div>
 
 <div class="col-md-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/adv/CISA.png" class="img-responsive" width="350px" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/adv/PAR.png" class="img-responsive" width="350px" style="float: left" />
 </div>
 <div class="col-md-8 clearfix">
   <h5><b>3 Decision-based Black-box Attack Against Vision Transformers via Patch-wise Adversarial Removal</b></h5>
@@ -121,7 +121,7 @@ Our research interests mainly include multimedia analysis and computing, compute
 </div>
 
 <div class="col-md-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/adv/CISA.png" class="img-responsive" width="350px" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/adv/PDAN.png" class="img-responsive" width="350px" style="float: left" />
 </div>
 <div class="col-md-8 clearfix">
   <h5><b>4 Polishing Decision-based Adversarial Noise with a Customized Sampling</b></h5>
