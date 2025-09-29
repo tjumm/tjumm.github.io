@@ -90,16 +90,6 @@ Our research interests mainly include multimedia analysis and computing, compute
 </div>
 
 
-<div class="col-md-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/iiod_result2.png" class="img-responsive" width="350px" style="float: left" />
-</div>
-<div class="col-md-8 clearfix">
-  <h5><b>4 Prompt-Driven Dynamic Object-Centric Learning for Single Domain Generalization</b></h5>
-  <p>Deng Li, Aming Wu, Yaowei Wang, Yahong Han<br>CVPR 2024, <a href='http://arxiv.org/abs/2402.18447'>(Preprint)</a>, <a href='https://github.com/Daniel00008/PDOC'>(Project Page)</a> <br>In this paper, we propose a dynamic object-centric perception network based on prompt learning, aiming to adapt to the variations in image complexity. Specifically, we propose an object-centric gating module based on prompt learning to focus attention on the object-centric features guided by the various scene prompts. Then, with the object-centric gating masks, the dynamic selective module dynamically selects highly correlated feature regions in both spatial and channel dimensions enabling the model to adaptively perceive object-centric relevant features, thereby enhancing the generalization capability. Experimental results on single-domain generalization tasks in image classification and object detection demonstrate the effectiveness and versatility of our proposed method.</p>
-  <ul style="overflow: hidden"></ul>
-</div>
-
-
 ### 3. Adversarial Vision and Robustness: Towards AI Security
 
 
