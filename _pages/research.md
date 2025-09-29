@@ -41,7 +41,7 @@ Our research interests mainly include multimedia analysis and computing, compute
 </div>
 
 
-### 2. Visual Understanding in Practical Scenes: Domain Adaptation and Few Samples
+### 2. Visual Understanding in Practical Scenes: Open-World Perception
 
 
 
@@ -129,58 +129,20 @@ Our research interests mainly include multimedia analysis and computing, compute
   <ul style="overflow: hidden"></ul>
 </div>
 
-### 4. Vision-to-Language: Understanding and Reasoning
+### 4. Behavior-Level Collaborative Learning: multi-behavior recommendation
 
 
-
-{% for member in site.data.vis2lan %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
 
 <div class="col-md-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/video_cap/{{ member.photo }}" class="img-responsive" width="350px" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Recommendation/1.png" class="img-responsive" width="350px" style="float: left" />
 </div>
-
 <div class="col-md-8 clearfix">
-  <h5><b>{{ member.title }}</b></h5>
-  <p>{{ member.author }}<br>{{ member.publish }} <br>{{ member.abstract }}</p>
+  <h5><b>1 Latent Factor Modeling with Expert Network for Multi-Behavior Recommendation</b></h5>
+  <p>Mingshi Yan, Zhiyong Cheng, Yahong Han, and Meng Wang<br>IEEE TKDE, DOI: 10.1109/TKDE.2025.3591503'<br>Traditional recommendation methods, which typically focus on modeling a single user behavior (e.g., purchase), often face severe data sparsity issues. Multi-behavior recommendation methods offer a promising solution by leveraging user data from diverse behaviors. However, most existing approaches entangle multiple behavioral factors, learning holistic but imprecise representations that fail to capture specific user intents.
+To address this issue, we propose a multi-behavior method by modeling latent factors with an expert network (\textbf{MBLFE}). In our approach, we design a gating expert network, where the expert network models all latent factors within the entire recommendation scenario, with each expert specializing in a specific latent factor. The gating network dynamically selects the optimal combination of experts for each user, enabling a more accurate representation of user preferences. To ensure independence among experts and factor consistency of a particular expert, we incorporate self-supervised learning during the training process. Furthermore, we enrich embeddings with multi-behavior data to provide the expert network with more comprehensive collaborative information for factor extraction. Extensive experiments on three real-world datasets demonstrate that our method significantly outperforms state-of-the-art baselines, validating its effectiveness.
+</p>
   <ul style="overflow: hidden"></ul>
 </div>
-
-{% endfor %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-md-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/video_cap/mqa.png" class="img-responsive" width="350px" style="float: left" />
-</div>
-
-<div class="col-md-8 clearfix">
-  <h5><b>3 Movie Question Answering: Remembering the Textual Cues for Layered Visual Contents</b></h5>
-  <p>Bo Wang, Youjiang Xu, Yahong Han, Richang Hong<br>AAAI 2018, <a href='https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16359'>(Paper)</a>, <a href='https://github.com/bowong/Layered-Memory-Network'>(Project Page)</a> <br><a href='http://movieqa.cs.toronto.edu/workshops/iccv2017/'>Winner of the MovieQA and The Large Scale Movie Description Challenge (LSMDC) @ ICCV 2017</a> <br> Understanding movie stories through only visual content is still a hard problem. In this paper, for answering questions about movies, we put forward a Layered Memory Network (LMN) that represents frame-level and clip-level movie content by the Static Word Memory module and the Dynamic Subtitle Memory module, respectively. Particularly, we firstly extract words and sentences from the training movie subtitles. Then the hierarchically formed movie representations, which are learned from LMN, not only encode the correspondence between words and visual content inside frames, but also encode the temporal alignment between sentences and frames inside movie clips. We also extend our LMN model into three variant frameworks to illustrate the good extendable capabilities. The good performance successfully demonstrates that the proposed framework of LMN is effective and the hierarchically formed movie representations have good potential for the applications of movie question answering.</p>
-  <ul style="overflow: hidden"></ul>
-</div>
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-md-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/video_cap/ccn.png" class="img-responsive" width="350px" style="float: left" />
-</div>
-
-<div class="col-md-8 clearfix">
-  <h5><b>4 Connective Cognition Network for Directional Visual Commonsense Reasoning</b></h5>
-  <p>Aming Wu, Linchao Zhu, Yahong Han, Yi Yang<br>NeurIPS 2019,<a href='https://openreview.net/forum?id=rJeVcVHx8H'>(Paper)</a>, <a href='https://github.com/AmingWu/CCN'>(Project Page)</a> <br>Recent studies on neuroscience have suggested that brain function or cognition can be described as a global and dynamic integration of local neuronal connectivity, which is context-sensitive to specific cognition tasks. Inspired by this idea, towards Visual commonsense reasoning (VCR), we propose a connective cognition network (CCN) to dynamically reorganize the visual neuron connectivity that is contextualized by the meaning of questions and answers. Concretely, we first develop visual neuron connectivity to fully model correlations of visual content. Then, a contextualization process is introduced to fuse the sentence representation with that of visual neurons. Finally, based on the output of contextualized connectivity, we propose directional connectivity to infer answers or rationales. Experimental results on the VCR dataset demonstrate the effectiveness of our method.</p>
-  <ul style="overflow: hidden"></ul>
-</div>
-
-
-
 
 
 
