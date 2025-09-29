@@ -112,14 +112,32 @@ Our research interests mainly include multimedia analysis and computing, compute
 <div class="col-md-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/adv/CISA.png" class="img-responsive" width="350px" style="float: left" />
 </div>
+<div class="col-md-4 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/adv/CISA.png" class="img-responsive" width="350px" style="float: left" />
+</div>
 <div class="col-md-8 clearfix">
   <h5><b>2 Query-efficient Black-box Adversarial Attack with Customized Iteration and Sampling</b></h5>
   <p>Yucheng Shi, Yahong Han, Qinghua Hu, Yi Yang, Qi Tian <br>IEEE TPAMI, DOI:10.1109/TPAMI.2022.3169802, <a href='https://shiyuchengtju.github.io'>(Project Page)</a> <br>In this work, a new framework bridging transfer-based and decision-based attacks is proposed for query-efficient black-box adversarial attack. We reveal the relationship between current noise and variance of sampling, the monotonicity of noise compression in decision-based attack, as well as the influence of transition function on the convergence of decision-based attack. Guided by the new framework and theoretical analysis, we propose a black-box adversarial attack named Customized Iteration and Sampling Attack (CISA). CISA estimates the distance from nearby decision boundary to set the stepsize, and uses a dual-direction iterative trajectory to find the intermediate adversarial example. Based on the intermediate adversarial example, CISA conducts customized sampling according to the noise sensitivity of each pixel to further compress noise, and relaxes the state transition function to achieve higher query efficiency.</p>
   <ul style="overflow: hidden"></ul>
 </div>
 
+<div class="col-md-4 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/adv/CISA.png" class="img-responsive" width="350px" style="float: left" />
+</div>
+<div class="col-md-8 clearfix">
+  <h5><b>3 Decision-based Black-box Attack Against Vision Transformers via Patch-wise Adversarial Removal</b></h5>
+  <p>Yucheng Shi, Yahong Han, Yu-an Tan, Xiaohui Kuang <br>NeurIPS 2022, https://arxiv.org/abs/2112.03492, <a href='https://github.com/shiyuchengTJU/PAR'>(Project Page)</a> <br>In this paper, we theoretically analyze the limitations of existing decision-based attacks from the perspective of noise sensitivity difference between regions of the image, and propose a new decision-based black-box attack against ViTs, termed Patch-wise Adversarial Removal (PAR). PAR divides images into patches through a coarse-to-fine search process and compresses the noise on each patch separately. PAR records the noise magnitude and noise sensitivity of each patch and selects the patch with the highest query value for noise compression. In addition, PAR can be used as a noise initialization method for other decision-based attacks to improve the noise compression efficiency on both ViTs and CNNs without introducing additional calculations. Extensive experiments on three datasets demonstrate that PAR achieves a much lower noise magnitude with the same number of queries.</p>
+  <ul style="overflow: hidden"></ul>
+</div>
 
-
+<div class="col-md-4 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/adv/CISA.png" class="img-responsive" width="350px" style="float: left" />
+</div>
+<div class="col-md-8 clearfix">
+  <h5><b>4 Polishing Decision-based Adversarial Noise with a Customized Sampling</b></h5>
+  <p>Yucheng Shi, Yahong Han, Qi Tian <br>CVPR 2020, <a href='https://openaccess.thecvf.com/content_CVPR_2020/html/Shi_Polishing_Decision-Based_Adversarial_Noise_With_a_Customized_Sampling_CVPR_2020_paper.html'>(Project Page)</a> <br>In this paper, we demonstrate the advantage of using current noise and historical queries to customize the variance and mean of sampling in boundary attack to polish adversarial noise. We further reveal the relationship between the initial noise and the compressed noise in boundary attack. We propose Customized Adversarial Boundary (CAB) attack that uses the current noise to model the sensitivity of each pixel and polish adversarial noise of each image with a customized sampling setting. On the one hand, CAB uses current noise as a prior belief to customize the multivariate normal distribution. On the other hand, CAB keeps the new samplings away from historical failed queries to avoid similar mistakes. Experimental results measured on several image classification datasets emphasizes the validity of our method.</p>
+  <ul style="overflow: hidden"></ul>
+</div>
 
 ### 4. Vision-to-Language: Understanding and Reasoning
 
