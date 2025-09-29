@@ -48,9 +48,8 @@ Our research interests mainly include multimedia analysis and computing, compute
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
-
 <div class="col-md-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/CausalNCD.png" class="img-responsive" width="350px" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/Causal.png" class="img-responsive" width="350px" style="float: left" />
 </div>
 <div class="col-md-8 clearfix">
   <h5><b>1 Novel Class Discovery for Point Cloud Segmentation via Joint Learning of Causal Representation and Reasoning</b></h5>
@@ -58,6 +57,7 @@ Our research interests mainly include multimedia analysis and computing, compute
 </p>
   <ul style="overflow: hidden"></ul>
 </div>
+
 
 <div class="col-md-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/Continual-Adap.png" class="img-responsive" width="350px" style="float: left" />
