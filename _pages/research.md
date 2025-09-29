@@ -93,7 +93,7 @@ Our research interests mainly include multimedia analysis and computing, compute
 ### 3. Adversarial Vision and Robustness: Towards AI Security
 
 <div class="col-md-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/adv/AdvNeRF.png" class="img-responsive" width="350px" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/adv/NeRF.png" class="img-responsive" width="350px" style="float: left" />
 </div>
 <div class="col-md-8 clearfix">
   <h5><b>1 AdvNeRF: Generating 3D Adversarial Meshes With NeRF to Fool Driving Vehicles</b></h5>
