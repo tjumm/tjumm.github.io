@@ -1,3 +1,11 @@
+- title: "1. Simulating Distribution Dynamics: Liquid Temporal Feature Evolution for Single-Domain Generalized Object Detection "
+  image: dummy.png
+  description:
+  authors: Zihao Zhang, Yang Li, Aming Wu, Yahong Han
+  link:
+    url:
+    display: "AAAI 2026"
+  highlight: 0
 
 - title: "1. Novel Class Discovery for Point Cloud Segmentation via Joint Learning of Causal Representation and Reasoning <a href='https://github.com/Brucely674/Causal-3D-NCDSS'>(Code)</a>"
   image: dummy.png
