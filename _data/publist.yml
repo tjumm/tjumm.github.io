@@ -1,3 +1,12 @@
+- title: "1.  Enhanced Visual Prompt Meets Low-Light Saliency Detection <a href='https://github.com/ynn1030/YLLSOD'>(Code)</a>"
+  image: dummy.png
+  description:
+  authors: Nana Yu, Jie Wang, Yahong Han
+  link:
+    url:
+    display: "Pattern Recognition"
+  highlight: 0
+
 - title: "1. Simulating Distribution Dynamics: Liquid Temporal Feature Evolution for Single-Domain Generalized Object Detection <a href='https://github.com/2490o/LTFE'>(Code)</a>"
   image: dummy.png
   description:
