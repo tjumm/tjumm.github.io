@@ -194,7 +194,7 @@ Jump to [staff](#staff), [phd students](#phd-students), [master students](#maste
 |Deng Li|2025||||||||Jingdong|
 |Xu Cheng|2025||||||||Postdoctoral Fellow at Harbin Institute of Technology (Shenzhen Campus)|
 |Runhua Jiang|2025||||||||Xiamen Municipal Government|
-|Yikang Wei|2024||||||||Hithink RoyalFlush Information Network Co., Ltd|
+|Yikang Wei|2024||||||||HiThink Research|
 | Tuo Li | 2024 |||||||| Baidu |
 | Shibin Liu  | 2024 |||||||| King Base |
 | Yucheng Shi |          2023          |      |      |      |      |      |      |      | Zhengzhou University |
