@@ -50,7 +50,7 @@
   authors: Jiaxu Li, Boyuan Zhang, Yucheng Shi, Yahong Han
   link:
     url:
-    display: "IEEE TMM"
+    display: "IEEE TMM, DOI: 10.1109/TMM.2026.3664994"
   highlight: 0
 
 - title: "1. Latent Factor Modeling with Expert Network for Multi-Behavior Recommendation  <a href='https://github.com/MingshiYan/MBLFE'>(Code)</a>"
