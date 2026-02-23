@@ -1,3 +1,41 @@
+
+- title: "1. VGGDrive: Empowering Vision-Language Models with Cross-View Geometric Grounding for Autonomous Driving"
+  image: dummy.png
+  description:
+  authors: Jie Wang, Guang Li, Zhijian Huang, Chenxu Dang, Hangjun Ye, Yahong Han, Long Chen
+  link:
+    url:
+    display: "CVPR 2026"
+  highlight: 0
+
+
+- title: "1. Geometric-Aware Hypergraph Reasoning for Novel Class Discovery in Point Cloud Segmentation"
+  image: dummy.png
+  description:
+  authors: Zihao Zhang, Aming WU, Yang Li, Yahong Han, Jialie Shen
+  link:
+    url:
+    display: "CVPR 2026"
+  highlight: 0
+
+- title: "1. Towards Open Environments and Instructions: General Vision-Language Navigation via Fast-Slow Interactive Reasoning <a href='https://github.com/yl6017339/Slow4Fast-VLN'>(Code)</a>"
+  image: dummy.png
+  description:
+  authors: Yang Li, Aming WU, Zihao Zhang, Yahong Han
+  link:
+    url:
+    display: "CVPR 2026"
+  highlight: 0
+
+- title: "1. Hierarchical Cross-Modal Reasoning for Visible-Infrared Camouflaged Object Detection"
+  image: dummy.png
+  description:
+  authors: Cheng Liu, Zheng Wang, Yahong Han, Meijun Sun, Qinghua Hu
+  link:
+    url:
+    display: "IEEE TMM"
+  highlight: 0
+
 - title: "1. Fourier-KAN: Feature Distribution Decomposition and Recombination for Unknown-Domain Object Detection <a href='https://github.com/2490o/Fourier-KAN'>(Code)</a>"
   image: dummy.png
   description:
