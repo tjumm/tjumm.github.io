@@ -21,7 +21,7 @@ Our research interests mainly include multimedia analysis and computing, compute
 {% endif %}
 
 <div class="col-md-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/Causal.png" class="img-responsive" width="350px" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/embodied_inte/auto-drive.png" class="img-responsive" width="350px" style="float: left" />
 </div>
 <div class="col-md-8 clearfix">
   <h5><b>1 VGGDrive: Empowering Vision-Language Models with Cross-View Geometric Grounding for Autonomous Driving</b></h5>
