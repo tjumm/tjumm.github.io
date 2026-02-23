@@ -192,7 +192,7 @@ Jump to [staff](#staff), [phd students](#phd-students), [master students](#maste
 | -- | :--: |--|--|--|--|--|--|--|--|
 |Boyuan Zhang|2025||||||||Huawei|
 |Deng Li|2025||||||||Jingdong|
-|Xu Cheng|2025||||||||Postdoctoral Fellow at Harbin Institute of Technology (Shenzhen Campus)|
+|Xu Chen|2025||||||||Postdoctoral Fellow at Harbin Institute of Technology (Shenzhen Campus)|
 |Runhua Jiang|2025||||||||Xiamen Municipal Government|
 |Yikang Wei|2024||||||||HiThink Research|
 | Tuo Li | 2024 |||||||| Baidu |
