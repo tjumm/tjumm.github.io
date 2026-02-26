@@ -33,7 +33,7 @@ In parallel, we study the reliability and interpretability of deep learning mode
 </div>
 
 <div class="col-md-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/embodied_inte/VLN.png" class="img-responsive" width="350px" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/embodied_inte/VLN-1.png" class="img-responsive" width="350px" style="float: left" />
 </div>
 <div class="col-md-8 clearfix">
   <h5><b>2 Towards Open Environments and Instructions: General Vision-Language Navigation via Fast-Slow Interactive Reasoning</b></h5>
