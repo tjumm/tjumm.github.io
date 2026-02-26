@@ -9,9 +9,7 @@ permalink: /research/
 # Overview
 
 Our research primarily focuses on fundamental theories and key technologies in artificial intelligence and computer vision, with an emphasis on intelligent perception and embodied intelligence in open and complex environments. Our goal is to move beyond traditional static visual understanding paradigms and advance intelligent systems from passive perception toward autonomous agents capable of cognition, decision-making, and action.
-
 In recent years, our research has centered on open-world visual understanding and 3D environmental perception, aiming to systematically investigate perception, reasoning, and decision-making mechanisms of intelligent agents operating in real-world dynamic environments. Our research topics include autonomous driving perception and scene understanding, embodied navigation and interactive learning, 3D visual perception and scene modeling, multimodal vision–language understanding, and unified Vision–Language–Action modeling frameworks. These efforts seek to enable intelligent systems to achieve continual generalization and adaptive capability under unseen environments and distribution shifts.
-
 In parallel, we study the reliability and interpretability of deep learning models, with particular attention to generalization mechanisms in open environments, out-of-distribution robustness, and trustworthy learning principles. By integrating representation learning, causal reasoning, and structured modeling, we aim to understand the underlying behavioral mechanisms of intelligent models from a theoretical perspective and provide methodological foundations for building generalizable, interpretable, and reliable intelligent perception systems.
 
 # Highlights
