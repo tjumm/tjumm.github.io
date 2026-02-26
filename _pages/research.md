@@ -78,7 +78,7 @@ In parallel, we study the reliability and interpretability of deep learning mode
 
 
  <div class="col-md-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/CVPR-NCD.png" class="img-responsive" width="350px" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/CVPR-NCD_01.jpg" class="img-responsive" width="350px" style="float: left" />
 </div>
 <div class="col-md-8 clearfix">
   <h5><b>1 Geometric-Aware Hypergraph Reasoning for Novel Class Discovery in Point Cloud Segmentation</b></h5>
