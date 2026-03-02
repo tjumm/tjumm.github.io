@@ -9,7 +9,7 @@
   highlight: 0
 
 
-- title: "1. Geometric-Aware Hypergraph Reasoning for Novel Class Discovery in Point Cloud Segmentation"
+- title: "1. Geometric-Aware Hypergraph Reasoning for Novel Class Discovery in Point Cloud Segmentation <a href='https://github.com/2490o/HyperNCD'>(Code)</a>"
   image: dummy.png
   description:
   authors: Zihao Zhang, Aming WU, Yang Li, Yahong Han, Jialie Shen
