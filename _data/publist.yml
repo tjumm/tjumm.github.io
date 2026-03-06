@@ -42,7 +42,7 @@
   authors: Zihao Zhang, Yang Li, Aming Wu, Yahong Han
   link:
     url:
-    display: "IEEE Transactions on Image Processing"
+    display: "IEEE Transactions on Image Processing, DOI: 10.1109/TIP.2026.3671583"
   highlight: 0
 
 - title: "1.  Enhanced Visual Prompt Meets Low-Light Saliency Detection <a href='https://github.com/ynn1030/YLLSOD'>(Code)</a>"
