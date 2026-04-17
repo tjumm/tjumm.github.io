@@ -1,4 +1,13 @@
 
+- title: "1. Low-Light Salient Object Detection via Representation Decoupling"
+  image: dummy.png
+  description:
+  authors: Nana Yu, Jie Wang, Yahong Han
+  link:
+    url:
+    display: "IEEE TCSVT"
+  highlight: 0
+
 - title: "1. VGGDrive: Empowering Vision-Language Models with Cross-View Geometric Grounding for Autonomous Driving <a href='https://github.com/WJ-CV/VGGDrive'>(Code)</a>"
   image: dummy.png
   description:
