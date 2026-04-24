@@ -5,7 +5,7 @@
   authors: Nana Yu, Jie Wang, Yahong Han
   link:
     url:
-    display: "IEEE TCSVT"
+    display: "IEEE TCSVT, DOI: https://doi.org/10.1109/TCSVT.2026.3686832"
   highlight: 0
 
 - title: "1. VGGDrive: Empowering Vision-Language Models with Cross-View Geometric Grounding for Autonomous Driving <a href='https://github.com/WJ-CV/VGGDrive'>(Code)</a>"
