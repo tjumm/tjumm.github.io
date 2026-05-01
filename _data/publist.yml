@@ -1,4 +1,13 @@
 
+- title: "1. Decompose and Recompose: Reasoning New Skills from Existing Abilities for Cross-Task Robotic Manipulation"
+  image: dummy.png
+  description:
+  authors: Xitie Zhang, Aming Wu, Yahong Han
+  link:
+    url:
+    display: "ICML 2026"
+  highlight: 0
+
 - title: "1. Low-Light Salient Object Detection via Representation Decoupling <a href='https://github.com/woshiyll/DRNet'>(Code)</a>"
   image: dummy.png
   description:
