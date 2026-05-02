@@ -58,12 +58,12 @@ To overcome this limitation, we propose VGGDrive, an architecture that equips VL
 </div>
 
 <div class="col-md-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/embodied_inte/fixed_arm.gif" class="img-responsive" width="350px" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/embodied_inte/ICML2026.gif" class="img-responsive" width="350px" style="float: left" />
 </div>
 
 <div class="col-md-8 clearfix">
-  <h5><b>4 Autonomous Robotic Arm with Multimodal Perception</b></h5>
-  <p>This video showcases our laboratory's innovative research in Embodied Intelligence—a robotic arm grasping system based on multimodal perception and autonomous decision-making. By deeply integrating visual recognition, environmental modeling, and dynamic control algorithms, our method enables the robotic arm to perceive, analyze, and interact with its surroundings in real time. Through adaptive grasping strategies, it can dynamically adjust its grip based on environmental conditions, ensuring stable, precise, and efficient manipulation even in complex and unstructured scenarios. This capability is pivotal for applications in industrial automation, assistive robotics, and autonomous exploration. Looking ahead, we will continue to explore the applications of deep learning and reinforcement learning in embodied intelligence, enabling robots to achieve greater autonomy and robustness in dynamic and unknown environments.</p>
+  <h5><b>4 Decompose and Recompose: Reasoning New Skills from Existing Abilities for Cross-Task Robotic Manipulation</b></h5>
+  <p>Cross-task generalization is a core challenge in open-world robotic manipulation, and the key lies in extracting transferable manipulation knowledge from seen tasks. In this work, we propose Decompose and Recompose, a skill reasoning framework using atomic skill-action pairs as intermediate representations. Our approach decomposes seen demonstrations into interpretable skill-action alignments, enabling the model to recompose these skills for unseen tasks through compositional reasoning. Specifically, we construct a task-adaptive dynamic demonstration library via visual-semantic retrieval combined with skill sequences from a planning agent, complemented by a coverage-aware static library to fill missing skill patterns. Together, these yield skill-comprehensive demonstrations that explicitly elicit compositional reasoning for skill composition and execution.</p>
   <ul style="overflow: hidden"></ul>
 </div>
 
