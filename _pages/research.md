@@ -23,7 +23,7 @@ In parallel, we study the reliability and interpretability of deep learning mode
 {% endif %}
 
 <div class="col-md-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/embodied_inte/ICML2026.gif" class="img-responsive" width="350px" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/embodied_inte/ICML2026_1.gif" class="img-responsive" width="350px" style="float: left" />
 </div>
 
 <div class="col-md-8 clearfix">
