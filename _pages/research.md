@@ -84,8 +84,8 @@ To overcome this limitation, we propose VGGDrive, an architecture that equips VL
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/TPAMI-MRDCoT_01.jpg" class="img-responsive" width="350px" style="float: left" />
 </div>
 <div class="col-md-8 clearfix">
-  <h5><b>1 Prototype-Anchored Generalized Manifold Regression for Unknown-Domain Object Detection</b></h5>
-  <p>Zihao Zhang, Aming Wu, Yang Li, Yahong Han<br>IEEE TPAMI<br>
+   <h5><b>1 Prototype-Anchored Generalized Manifold Regression for Unknown-Domain Object Detection</b></h5>
+  <p>Zihao Zhang, Aming Wu, Yang Li, Yahong Han<br>IEEE TPAMI 2026<br>
 Single-Domain Generalized Object Detection aims to generalize a detector trained on one source domain to multiple unseen domains. Existing simulation-based methods, such as data augmentation or textual prompts, often struggle to cover the dynamic variations of real-world scenarios and may overfit to synthetic styles. Inspired by the manifold hypothesis, we propose Manifold Regression with Visual-Text Dual Chain-of-Thought (MR-DCoT), which reformulates unknown-domain generalization as a prototype-anchored manifold regression problem. MR-DCoT generates structured off-manifold hard examples through visual-text dual reasoning and learns class-specific prototype anchoring to project deviant features back to a stable semantic manifold, thereby improving detection robustness under complex unseen domain shifts.
 
 </p>
