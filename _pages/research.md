@@ -80,6 +80,19 @@ To overcome this limitation, we propose VGGDrive, an architecture that equips VL
 {% endif %}
 
 
+<div class="col-md-4 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/TPAMI-MRDCoT_01.jpg" class="img-responsive" width="350px" style="float: left" />
+</div>
+<div class="col-md-8 clearfix">
+  <h5><b>2 Prototype-Anchored Generalized Manifold Regression for Unknown-Domain Object Detection</b></h5>
+  <p>Zihao Zhang, Aming Wu, Yang Li, Yahong Han<br>IEEE TPAMI 2026<a href='http://arxiv.org/abs/2510.13307'>(Preprint)</a>, <a href='https://github.com/Brucely674/Causal-3D-NCDSS'>(Project Page)</a> <br>
+Single-Domain Generalized Object Detection aims to transfer a detector trained on a single source domain to multiple unknown target domains. Existing methods usually rely on simulation-driven strategies, such as discrete data augmentation or static textual prompts, to enlarge the training distribution. However, finite simulations are difficult to cover the infinite and dynamic variations of real-world scenarios, which may cause overfitting to synthetic styles and weaken robustness under complex structural degradations. Inspired by the manifold hypothesis, we argue that semantic features across diverse visual conditions should lie on a compact and stable low-dimensional manifold. Therefore, the key to unknown-domain generalization is not simply to generate more perturbations, but to learn how to project deviant samples back to the source semantic manifold. To this end, we propose Manifold Regression with Visual-Text Dual Chain-of-Thought (MR-DCoT), which reformulates robust generalization as a prototype-anchored manifold regression problem. Specifically, a Visual-Text Dual Chain-of-Thought module combines VLM-guided global semantic evolution with diffusion-based local structural perturbations to generate structured off-manifold hard examples. Then, a Class-Specific Prototype Anchoring mechanism learns a robust projection operator, encouraging deviant features to regress toward the stable source semantic manifold. By building a closed loop between outlier generation and semantic correction, our method effectively bridges domain gaps and improves object detection robustness under unseen distribution shifts.
+
+</p>
+  <ul style="overflow: hidden"></ul>
+</div>
+
+
 
  <div class="col-md-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/CVPR-NCD_01.jpg" class="img-responsive" width="350px" style="float: left" />
