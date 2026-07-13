@@ -8,7 +8,7 @@
     display: "IEEE TPAMI"
   highlight: 0
 
-- title: "QSGen: Quality-Scored Synthetic Data Generation with Rich Conditioning for Fine-Structure Segmentation"
+- title: "1. QSGen: Quality-Scored Synthetic Data Generation with Rich Conditioning for Fine-Structure Segmentation"
   image: dummy.png
   description:
   authors: Dexiang Li, Haijun Zhang, Dongliang Zhou, Zhao Zhang, Yahong Han
@@ -17,7 +17,7 @@
     display: "ACM MM 2026"
   highlight: 0
 
-- title: "PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis"
+- title: "1. PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis"
   image: dummy.png
   description:
   authors: Dexiang Li, Zhenning Che, Haijun Zhang, Dongliang Zhou, Zhao Zhang, Yahong Han
