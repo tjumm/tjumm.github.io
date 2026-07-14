@@ -5,7 +5,7 @@
   authors: Zihao Zhang, Aming Wu, Yang Li, Yahong Han
   link:
     url:
-    display: "IEEE TPAMI"
+    display: "IEEE TPAMI, DOI: 10.1109/TPAMI.2026.3714053"
   highlight: 0
 
 - title: "1. QSGen: Quality-Scored Synthetic Data Generation with Rich Conditioning for Fine-Structure Segmentation"
