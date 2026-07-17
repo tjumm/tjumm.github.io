@@ -79,7 +79,7 @@
   authors: Cheng Liu, Zheng Wang, Yahong Han, Meijun Sun, Qinghua Hu
   link:
     url:
-    display: "IEEE TMM"
+    display: "IEEE TMM, DOI: 10.1109/TMM.2026.3705194"
   highlight: 0
 
 - title: "1. Fourier-KAN: Feature Distribution Decomposition and Recombination for Unknown-Domain Object Detection <a href='https://github.com/2490o/Fourier-KAN'>(Code)</a>"
