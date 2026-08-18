@@ -1,3 +1,11 @@
+- title: "1. L-GRAFT: GraphRAG-Guided Communication Topology Learning for Multi-Agent Reinforcement Learning"
+  image: dummy.png
+  description:
+  authors: Yi Shen, Jiaxu Li, Yahong Han
+  link:
+    url:
+    display: "IEEE ICDM 2026"
+  highlight: 0
 
 - title: "1. Prototype-Anchored Generalized Manifold Regression for Unknown-Domain Object Detection <a href='https://github.com/2490o/MR-DCoT'>(Code)</a>"
   image: dummy.png
