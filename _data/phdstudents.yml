@@ -115,6 +115,12 @@
   number_educ: 0
   education1:
 
+- name: Yang Li
+  photo: liyang.jpg
+  info:  Phd student, 2026
+  email: liyang1389@tju.edu.cn
+  number_educ: 0
+  education1:
 
 # - name: Jin Wang (Peng Cheng Laboratory)
 #   photo: wangjin.jpg
