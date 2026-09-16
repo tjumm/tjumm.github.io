@@ -182,19 +182,19 @@
 #  number_educ: 0
 #  education1:
 
-- name: Shukuan Yuan
-  photo: yuanshukuan.jpg
-  info: Master student, 2023
-  email: skyuan@tju.edu.cn
-  number_educ: 0
-  education1:
+# - name: Shukuan Yuan
+#   photo: yuanshukuan.jpg
+#   info: Master student, 2023
+#   email: skyuan@tju.edu.cn
+#   number_educ: 0
+#   education1:
 
-- name: Chaoqi Gao
-  photo: gaochaoqi.jpg
-  info: Master student, 2023
-  email: gaochaoqi@tju.edu.cn
-  number_educ: 0
-  education1:
+# - name: Chaoqi Gao
+#   photo: gaochaoqi.jpg
+#   info: Master student, 2023
+#   email: gaochaoqi@tju.edu.cn
+#   number_educ: 0
+#   education1:
 
 - name: Tingyu Zheng
   photo: zhengtingyu.jpg
@@ -203,12 +203,6 @@
   number_educ: 0
   education1:
 
-- name: Yang Li
-  photo: liyang.jpg
-  info: Master student, 2024
-  email: liyang1389@tju.edu.cn
-  number_educ: 0
-  education1:
 
 - name: Yi Shen
   photo: shenyi.png
