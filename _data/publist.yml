@@ -1,3 +1,30 @@
+- title: "1. All Roads Lead to Rome: Flow-driven Multi-Anchor Exploration for Open-Environment Active 3D Mapping"
+  image: dummy.png
+  description:
+  authors: Yang Li, Aming Wu, Zihao Zhang, Ziju Han, Sijia Zhang, Yahong Han
+  link:
+    url:
+    display: "NeurIPS 2026 (<b>Spotlight</b>)"
+  highlight: 0
+
+- title: "1. Detect What You Need: Chain-of-Causal Reasoning for 3D Intent Grounding"
+  image: dummy.png
+  description:
+  authors: Zihao Zhang, Aming Wu, Yang Li, Yahong Han
+  link:
+    url:
+    display: "NeurIPS 2026"
+  highlight: 0
+
+- title: "1. Think Densely, Act Sparsely: Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving"
+  image: dummy.png
+  description:
+  authors: Jie Wang, Guang Li, Zhijian Huang, Jinlong Li, Chenxu Dang, Hangjun Ye, Yahong Han, Long Chen
+  link:
+    url:
+    display: "NeurIPS 2026"
+  highlight: 0
+
 - title: "1. L-GRAFT: GraphRAG-Guided Communication Topology Learning for Multi-Agent Reinforcement Learning <a href='https://github.com/sqdjm/L-GRAFT'>(Code)</a>"
   image: dummy.png
   description:
