@@ -28,6 +28,8 @@ In parallel, we study the reliability and interpretability of deep learning mode
 <div class="row">
 {% endif %}
 
+
+
 <div class="col-md-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/embodied_inte/active3dmapping.gif" class="img-responsive" width="350px" style="float: left" />
 </div>
@@ -97,6 +99,18 @@ To overcome this limitation, we propose VGGDrive, an architecture that equips VL
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
+
+<div class="col-md-4 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/embodied_inte/3D-IG-C.gif" class="img-responsive" width="350px" style="float: left" />
+</div>
+<div class="col-md-8 clearfix">
+   <h5><b>1 Detect What You Need: Chain-of-Causal Reasoning for 3D Intent Grounding</b></h5>
+  <p>Zihao Zhang, Aming Wu, Yang Li, Yahong Han<br> NeurIPS 2026, <a href='[https://2490o.github.io/CoCR](https://2490o.github.io/CoCR)'>(Project Page)</a><br>
+We focus on the 3D Intention Grounding (3D-IG) task, aiming to localize target objects in 3D scenes according to abstract and non-descriptive human intentions. Unlike conventional 3D Visual Grounding, 3D-IG requires models to infer the latent functional requirements behind an intention and associate them with suitable objects. Inspired by the functional dependency between human intentions and object affordances, we propose Chain-of-Causal Reasoning (CoCR), a causality-inspired framework that establishes an explicit intent–function–object reasoning process. Specifically, CoCR progressively decomposes an abstract intention into ordered functional requirements, bridging the semantic gap between high-level intentions and candidate objects. Based on this reasoning chain, a functional dependency graph models the relationships between functional requirements and object attributes, while a causal-visual alignment module aligns function-aware reasoning with geometric-semantic 3D representations. Unlike existing methods that directly perform implicit intent–object matching, CoCR introduces intermediate functional reasoning to provide a more structured and interpretable grounding process, improving intent-aware object localization across both 3D Intention Grounding and 3D Visual Grounding tasks.
+
+</p>
+  <ul style="overflow: hidden"></ul>
+</div>
 
 
 <div class="col-md-4 clearfix">
