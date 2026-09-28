@@ -42,6 +42,19 @@ Yang Li, Aming WU, Zihao Zhang, Ziju Han, Sijia Zhang, Yahong Han <br>NeurIPS 20
   <ul style="overflow: hidden"></ul>
 </div>
 
+<div class="col-md-4 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/embodied_inte/Adrive.gif" class="img-responsive" width="350px" style="float: left" />
+</div>
+
+<div class="col-md-8 clearfix">
+  <h5><b>1 Think Densely, Act Sparsely: Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving</b></h5>
+   <p>
+Jie Wang, Guang Li, Zhijian Huang, Jinlong Li, Chenxu Dang, Hangjun Ye, Yahong Han, Long Chen <br>NeurIPS 2026<a href='https://beanocean.github.io/LECDrive/'>(Project Page)
+ </a> <br>We focus on autonomous driving with Vision-Language-Action (VLA) models, where effective decision-making requires jointly understanding visual appearance, semantic structure, and spatial geometry. Existing VLAs typically map dense multi-view observations directly to sparse language outputs or trajectory points, which may overlook important scene details due to limited intermediate supervision. To address this issue, we propose LECDrive, a “Think Densely, Act Sparsely” framework that encourages structured world understanding before action generation. Specifically, LECDrive introduces a progressive Latent Expert Cognitive Chain that integrates knowledge from visual representation, semantic understanding, and spatial geometry experts through compact task-specific tokens, enabling hierarchical scene reasoning within the VLA. Dense expert supervision further helps internalize these capabilities during training without requiring large teacher models at inference. Based on the learned world representation, LECDrive adopts a Motion Token + Offset strategy that combines discrete motion primitives with continuous trajectory refinement, producing structured yet spatially precise driving actions.</p>
+  <ul style="overflow: hidden"></ul>
+</div>
+
+
 
 <div class="col-md-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/embodied_inte/ICML2026_1.gif" class="img-responsive" width="350px" style="float: left" />
@@ -79,15 +92,6 @@ To overcome this limitation, we propose VGGDrive, an architecture that equips VL
 
 
 
-<div class="col-md-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/embodied_inte/pdoc.gif" class="img-responsive" width="350px" style="float: left" />
-</div>
-
-<div class="col-md-8 clearfix">
-  <h5><b>4 Autonomous Mobile Robotic Arm for Intelligent Perception and Grasping</b></h5>
-  <p>This video showcases the latest progress in our laboratory's research on Embodied Intelligence. In the experiment, a mobile robotic arm autonomously perceives its environment, intelligently plans its path, and skillfully avoids obstacles to achieve highly efficient object grasping. This technology significantly enhances the robot's adaptability to dynamic environments by seamlessly integrating perception, decision-making, and control. It holds significant potential for applications in smart manufacturing, automated logistics, and service robotics. Moving forward, we will explore deep learning and reinforcement learning methods in embodied intelligence to equip robots with greater autonomy and generalization capabilities in complex environments.</p>
-  <ul style="overflow: hidden"></ul>
-</div>
 
 
 
