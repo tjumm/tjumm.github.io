@@ -18,9 +18,28 @@ In parallel, we study the reliability and interpretability of deep learning mode
 
 
 
+
+
+
+
+
+
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
+
+<div class="col-md-4 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/embodied_inte/active3dmapping.gif" class="img-responsive" width="350px" style="float: left" />
+</div>
+
+<div class="col-md-8 clearfix">
+  <h5><b>1 All Roads Lead to Rome: Flow-driven Multi-Anchor Exploration for Open-Environment Active 3D Mapping</b></h5>
+   <p>
+Yang Li, Aming WU, Zihao Zhang, Ziju Han, Sijia Zhang, Yahong Han <br>NeurIPS 2026, <b>(Spotlight)</b><a href='https://vollichor.github.io/FAME/'>(Project Page)
+ </a> <br>To advance embodied intelligence, open-environment active 3D mapping aims to explore and reconstruct unseen scenes. Closed-set methods generalize poorly in novel environments. Existing approaches predict a single long-range goal for path planning, which yields brittle decisions under partial observability. We reformulate long-horizon target prediction as conditional multimodal anchor generation with Conditional Flow Matching. Our method samples candidate anchors, generates obstacle-aware paths, clusters redundant trajectories, and hierarchically selects the best path. Experiments show better generalization and reconstruction efficiency in open environments.</p>
+  <ul style="overflow: hidden"></ul>
+</div>
+
 
 <div class="col-md-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/embodied_inte/ICML2026_1.gif" class="img-responsive" width="350px" style="float: left" />
