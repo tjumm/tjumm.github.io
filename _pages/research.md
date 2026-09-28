@@ -47,7 +47,7 @@ Yang Li, Aming WU, Zihao Zhang, Ziju Han, Sijia Zhang, Yahong Han <br>NeurIPS 20
 </div>
 
 <div class="col-md-8 clearfix">
-  <h5><b>1 Think Densely, Act Sparsely: Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving</b></h5>
+  <h5><b>2 Think Densely, Act Sparsely: Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving</b></h5>
    <p>
 Jie Wang, Guang Li, Zhijian Huang, Jinlong Li, Chenxu Dang, Hangjun Ye, Yahong Han, Long Chen <br>NeurIPS 2026<a href='https://beanocean.github.io/LECDrive/'>(Project Page)
  </a> <br>We focus on autonomous driving with Vision-Language-Action (VLA) models, where effective decision-making requires jointly understanding visual appearance, semantic structure, and spatial geometry. Existing VLAs typically map dense multi-view observations directly to sparse language outputs or trajectory points, which may overlook important scene details due to limited intermediate supervision. To address this issue, we propose LECDrive, a “Think Densely, Act Sparsely” framework that encourages structured world understanding before action generation. Specifically, LECDrive introduces a progressive Latent Expert Cognitive Chain that integrates knowledge from visual representation, semantic understanding, and spatial geometry experts through compact task-specific tokens, enabling hierarchical scene reasoning within the VLA. Dense expert supervision further helps internalize these capabilities during training without requiring large teacher models at inference. Based on the learned world representation, LECDrive adopts a Motion Token + Offset strategy that combines discrete motion primitives with continuous trajectory refinement, producing structured yet spatially precise driving actions.</p>
@@ -61,7 +61,7 @@ Jie Wang, Guang Li, Zhijian Huang, Jinlong Li, Chenxu Dang, Hangjun Ye, Yahong H
 </div>
 
 <div class="col-md-8 clearfix">
-  <h5><b>1 Decompose and Recompose: Reasoning New Skills from Existing Abilities for Cross-Task Robotic Manipulation</b></h5>
+  <h5><b>3 Decompose and Recompose: Reasoning New Skills from Existing Abilities for Cross-Task Robotic Manipulation</b></h5>
    <p>Xitie Zhang, Aming Wu, Yahong Han<br>ICML 2026, <a href='https://github.com/SaterZhang/Decompose-and-Recompose'>(Project Page)
  </a> <br>Cross-task generalization is a core challenge in open-world robotic manipulation, and the key lies in extracting transferable manipulation knowledge from seen tasks. In this work, we propose Decompose and Recompose, a skill reasoning framework using atomic skill-action pairs as intermediate representations. Our approach decomposes seen demonstrations into interpretable skill-action alignments, enabling the model to recompose these skills for unseen tasks through compositional reasoning. Specifically, we construct a task-adaptive dynamic demonstration library via visual-semantic retrieval combined with skill sequences from a planning agent, complemented by a coverage-aware static library to fill missing skill patterns. Together, these yield skill-comprehensive demonstrations that explicitly elicit compositional reasoning for skill composition and execution.</p>
   <ul style="overflow: hidden"></ul>
@@ -71,7 +71,7 @@ Jie Wang, Guang Li, Zhijian Huang, Jinlong Li, Chenxu Dang, Hangjun Ye, Yahong H
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/embodied_inte/autodrive.gif" class="img-responsive" width="350px" style="float: left" />
 </div>
 <div class="col-md-8 clearfix">
-  <h5><b>2 VGGDrive: Empowering Vision-Language Models with Cross-View Geometric Grounding for Autonomous Driving</b></h5>
+  <h5><b>4 VGGDrive: Empowering Vision-Language Models with Cross-View Geometric Grounding for Autonomous Driving</b></h5>
   <p>Jie Wang, Guang Li, Zhijian Huang, Chenxu Dang, Hangjun Ye, Yahong Han, Long Chen<br>CVPR 2026, <a href='https://arxiv.org/abs/2602.20794'>(Preprint)</a>, <a href='https://github.com/WJ-CV/VGGDrive'>(Project Page)</a> <br>Cross-view 3D geometric modeling is crucial for autonomous driving, yet existing Vision–Language Models (VLMs) lack explicit geometric reasoning capability, resulting in limited performance in complex driving scenarios. Current auxiliary training strategies based on Q&A supervision attempt to alleviate this issue but fail to fundamentally address the absence of geometric grounding.
 To overcome this limitation, we propose VGGDrive, an architecture that equips VLMs with cross-view geometric grounding by leveraging mature 3D foundation models. A plug-and-play Cross-View 3D Geometric Enabler (CVGE) is introduced to bridge 3D spatial representations and 2D visual features without altering the original VLM structure. Extensive experiments on five autonomous driving benchmarks demonstrate consistent performance improvements, highlighting the effectiveness of integrating 3D foundation models for geometry-aware autonomous driving.
 </p>
@@ -82,7 +82,7 @@ To overcome this limitation, we propose VGGDrive, an architecture that equips VL
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/embodied_inte/VLN-1.png" class="img-responsive" width="350px" style="float: left" />
 </div>
 <div class="col-md-8 clearfix">
-  <h5><b>3 Towards Open Environments and Instructions: General Vision-Language Navigation via Fast-Slow Interactive Reasoning</b></h5>
+  <h5><b>5 Towards Open Environments and Instructions: General Vision-Language Navigation via Fast-Slow Interactive Reasoning</b></h5>
   <p>Yang Li, Aming WU, Zihao Zhang, Yahong Han<br>CVPR 2026,<a href='https://arxiv.org/abs/2601.09111'>(Preprint)</a>, <a href='https://github.com/yl6017339/Slow4Fast-VLN'>(Project Page)</a> <br> We focus on the GSA-VLN task, aiming to learn generalized navigation ability by introducing diverse environments and inconsistent intructions. Recent research indicates that by means of fast and slow cognition systems, human beings could generate stable policies, which strengthen their adaptation for open world. Inspired by this idea, we propose the slow4fast-VLN, establishing a dynamic interactive fast-slow reasoning framework. The fast-reasoning module, an end-to-end strategy network, outputs actions via real-time input. It accumulates execution records in a history repository to build memory. The slow-reasoning module analyze the memories generated by the fast-reasoning module. Through deep reflection, it extracts experiences that enhance the generalization ability of decision-making. These experiences are structurally stored and used to continuously optimize the fast-reasoning module. Unlike traditional methods that treat fast-slow reasoning as independent mechanisms, our framework enables fast-slow interaction. By leveraging the experiences from slow reasoning, it continually improves the generalization ability of fast decisions. 
 </p>
   <ul style="overflow: hidden"></ul>
@@ -121,7 +121,7 @@ We focus on the 3D Intention Grounding (3D-IG) task, aiming to localize target o
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/TPAMI-MRDCoT_01.jpg" class="img-responsive" width="350px" style="float: left" />
 </div>
 <div class="col-md-8 clearfix">
-   <h5><b>1 Prototype-Anchored Generalized Manifold Regression for Unknown-Domain Object Detection</b></h5>
+   <h5><b>2 Prototype-Anchored Generalized Manifold Regression for Unknown-Domain Object Detection</b></h5>
   <p>Zihao Zhang, Aming Wu, Yang Li, Yahong Han<br>IEEE TPAMI, DOI: 10.1109/TPAMI.2026.3714053, <a href='https://github.com/2490o/MR-DCoT'>(Project Page)</a><br>
 Single-Domain Generalized Object Detection aims to generalize a detector trained on a single source domain to multiple unseen target domains. The key challenge lies in handling complex and dynamic visual variations without accessing target-domain data during training. Existing methods usually rely on simulation-based strategies, such as discrete data augmentation or static textual prompts, to enlarge the source distribution. However, finite simulations are difficult to cover the infinite variations of real-world scenarios and may lead to overfitting to synthetic styles. Inspired by the manifold hypothesis, we argue that semantic features under diverse visual conditions should lie on a compact and stable low-dimensional manifold. To this end, we propose Manifold Regression with Visual-Text Dual Chain-of-Thought (MR-DCoT), which reformulates unknown-domain generalization as a prototype-anchored manifold regression problem. Specifically, MR-DCoT generates structured off-manifold hard examples through visual-text dual reasoning and learns class-specific prototype anchoring to project deviant features back to the stable source semantic manifold. This closed-loop design between outlier generation and semantic correction effectively improves detection robustness under complex unseen domain shifts.
 
@@ -135,7 +135,7 @@ Single-Domain Generalized Object Detection aims to generalize a detector trained
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/CVPR-NCD_01.jpg" class="img-responsive" width="350px" style="float: left" />
 </div>
 <div class="col-md-8 clearfix">
-  <h5><b>2 Geometric-Aware Hypergraph Reasoning for Novel Class Discovery in Point Cloud Segmentation</b></h5>
+  <h5><b>3 Geometric-Aware Hypergraph Reasoning for Novel Class Discovery in Point Cloud Segmentation</b></h5>
   <p>Zihao Zhang, Yang Li, Aming Wu, Yahong Han, Jialie Shen<br>CVPR 2026<a href='http://arxiv.org/abs/2510.13307'>(Preprint)</a>, <a href='https://github.com/Brucely674/Causal-3D-NCDSS'>(Project Page)</a> <br>
 Novel Class Discovery in Point Cloud Segmentation has recently attracted increasing attention, aiming to leverage knowledge from known classes to automatically discover and segment unlabeled novel categories in point clouds. The key challenge lies in effectively transferring both geometric and semantic knowledge from multiple known classes to enable reliable understanding of unseen categories. However, existing methods mainly rely on pairwise associations for class assignment and reasoning, overlooking higher-order relationships among classes. Such binary modeling limits the ability to capture complex inter-class dependencies, often resulting in ambiguous semantic predictions for novel classes. To address this issue, we introduce a hypergraph structure to explicitly model high-order associations, enabling collaborative reasoning from multiple known classes toward novel categories. In addition, prior approaches tend to emphasize semantic features while underutilizing geometric information, whereas our method jointly exploits geometric and semantic cues to achieve more accurate and robust novel class segmentation.
 
@@ -148,7 +148,7 @@ Novel Class Discovery in Point Cloud Segmentation has recently attracted increas
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/Causal.png" class="img-responsive" width="350px" style="float: left" />
 </div>
 <div class="col-md-8 clearfix">
-  <h5><b>3 Novel Class Discovery for Point Cloud Segmentation via Joint Learning of Causal Representation and Reasoning</b></h5>
+  <h5><b>4 Novel Class Discovery for Point Cloud Segmentation via Joint Learning of Causal Representation and Reasoning</b></h5>
   <p>Yang Li, Aming Wu, Zihao Zhang, Yahong Han<br>NeurIPS 2025,<a href='http://arxiv.org/abs/2510.13307'>(Preprint)</a>, <a href='https://github.com/Brucely674/Causal-3D-NCDSS'>(Project Page)</a> <br>We focus on 3D-NCD, which aims to train a model for segmenting unlabeled (novel) 3D classes using only supervision from labeled (base) 3D classes. To address this, we propose imposing causal relationships as strong constraints to uncover class-aligned essential point cloud representations. We introduce a Structural Causal Model (SCM) to redefine the 3D-NCD problem and present a new method: Joint Learning of Causal Representation and Reasoning. Specifically, the method uses SCM to analyze hidden confounders in base class representations and causal links between base and novel classes; designs a causal representation prototype to eliminate confounders and capture base classes’ causal representations; and employs a graph to model causal relationships between base class causal prototypes and novel class prototypes, enabling base-to-novel causal reasoning. 
 </p>
   <ul style="overflow: hidden"></ul>
@@ -160,7 +160,7 @@ Novel Class Discovery in Point Cloud Segmentation has recently attracted increas
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/Continual-Adap.png" class="img-responsive" width="350px" style="float: left" />
 </div>
 <div class="col-md-8 clearfix">
-  <h5><b>4 Continual Adaptation: Environment-Conditional Parameter Generation for Object Detection in Dynamic Scenarios</b></h5>
+  <h5><b>5 Continual Adaptation: Environment-Conditional Parameter Generation for Object Detection in Dynamic Scenarios</b></h5>
   <p>Deng Li, Aming Wu, Yang Li, Yaowei Wang, Yahong Han<br>ICCV 2025,<a href='https://arxiv.org/abs/2506.24063'>(Preprint)</a> <br>Environments change over time and space, challenging object detectors trained on a closed-set assumption, where training and test data share the same distribution. To address this, continual test-time adaptation has emerged, aiming to fine-tune specific parameters (e.g., BatchNorm) to improve generalization. However, fine-tuning a few parameters may degrade the representation of others, leading to performance issues. We propose a new approach that converts fine-tuning into specific-parameter generation. Our method uses a dual-path LoRA-based domain-aware adapter that separates features into domain-invariant and domain-specific components for efficient adaptation. We also introduce a conditional diffusion-based parameter generation mechanism to synthesize adapter parameters based on the current environment, avoiding local optima. Lastly, a class-centered optimal transport alignment is used to prevent catastrophic forgetting.
 </p>
   <ul style="overflow: hidden"></ul>
@@ -172,7 +172,7 @@ Novel Class Discovery in Point Cloud Segmentation has recently attracted increas
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/domain_adap/SE_COT.jpg" class="img-responsive" width="350px" style="float: left" />
 </div>
 <div class="col-md-8 clearfix">
-  <h5><b>5 Style Evolving along Chain-of-Thought for Unknown-Domain Object Detection</b></h5>
+  <h5><b>6 Style Evolving along Chain-of-Thought for Unknown-Domain Object Detection</b></h5>
   <p>Zihao Zhang, Aming Wu, Yahong Han<br>CVPR 2025, <b>(Highlights)</b>, <a href='https://arxiv.org/pdf/2503.09968'>(Preprint)</a>, <a href='https://github.com/ZZ2490/SE-COT'>(Project Page)</a> <br>In this work, we propose a new method, i.e., Style Evolving along Chain-of-Thought, which aims to progressively integrate and expand style information along the chain of thought, enabling the continual evolution of styles. Specifically, by progressively refining style descriptions and guiding the diverse evolution of styles, this method enhances the simulation of various style characteristics, enabling the model to learn and adapt to subtle differences more effectively. Additionally, it exposes the model to a broader range of style features with different data distributions, thereby enhancing its generalization capability in unseen domains. The significant performance gains over five adverse-weather scenarios and the Real to Art benchmark demonstrate the superiorities of our method.</p>
   <ul style="overflow: hidden"></ul>
 </div>
