@@ -101,7 +101,7 @@ To overcome this limitation, we propose VGGDrive, an architecture that equips VL
 {% endif %}
 
 <div class="col-md-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/embodied_inte/3D-IG_C.gif" class="img-responsive" width="350px" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/embodied_inte/3D-IG.gif" class="img-responsive" width="350px" style="float: left" />
 </div>
 <div class="col-md-8 clearfix">
    <h5><b>1 Detect What You Need: Chain-of-Causal Reasoning for 3D Intent Grounding</b></h5>
