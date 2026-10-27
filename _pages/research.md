@@ -49,7 +49,7 @@ Yang Li, Aming WU, Zihao Zhang, Ziju Han, Sijia Zhang, Yahong Han <br>NeurIPS 20
 <div class="col-md-8 clearfix">
   <h5><b>2 Think Densely, Act Sparsely: Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving</b></h5>
    <p>
-Jie Wang, Guang Li, Zhijian Huang, Jinlong Li, Chenxu Dang, Hangjun Ye, Yahong Han, Long Chen <br>NeurIPS 2026<a href='https://beanocean.github.io/LECDrive/'>(Project Page)
+Jie Wang, Guang Li, Zhijian Huang, Jinlong Li, Chenxu Dang, Hangjun Ye, Yahong Han, Long Chen <br>NeurIPS 2026<a href='https://wj-cv.github.io/LECDrive/'>(Project Page)
  </a> <br>We focus on Vision-Language-Action (VLA) models for autonomous driving, where reliable decision-making requires understanding visual appearance, semantic structure, and spatial geometry. Existing VLAs often map dense multi-view observations directly to sparse language outputs or trajectories, potentially losing important scene information. To address this issue, we propose LECDrive, a “Think Densely, Act Sparsely” framework that builds structured world representations before action generation. LECDrive introduces a progressive Latent Expert Cognitive Chain to integrate visual, semantic, and geometric knowledge through compact task-specific tokens, while dense expert supervision enables efficient knowledge internalization during training. Finally, a Motion Token + Offset strategy combines discrete motion primitives with continuous refinement for accurate trajectory prediction.</p>
   <ul style="overflow: hidden"></ul>
 </div>
